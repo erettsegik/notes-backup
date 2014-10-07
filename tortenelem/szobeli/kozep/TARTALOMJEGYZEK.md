@@ -1,0 +1,1 @@
+# Középszintű történelem szóbeli tételek
