@@ -8,6 +8,7 @@
  - [Hunyadi Mátyás](hunyadi_matyas.md)
  - [A három részre szakadt Magyarország](3_reszre_szakadt_magyarorszag.md)
  - [Népesedési viszonyok a XVIII. században](nepesedesi_viszonyok_xviii_szazad.md)
+ - [Az ipari forradalom](ipari_forradalom.md)
  - [Felvilágosult abszolutizmus Magyarországon](felvilagosult_abszolutizmus_magyarorszagon.md)
  - [Dualizmus kori társadalom](dualizmus_kori_tarsadalom.md)
  - [Széchenyi és Kossuth programja](szechenyi_es_kossuth_programja.md)
