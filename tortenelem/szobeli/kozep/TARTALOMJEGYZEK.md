@@ -14,4 +14,5 @@
  - [Széchenyi és Kossuth programja](szechenyi_es_kossuth_programja.md)
  - [A náci Németország](a_naci_nemetorszag.md)
  - [A sztálini diktatúra](a_sztalini_diktatura.md)
+ - [Magyarország a II. világháborúban](magyarorszag_ii_vilaghaboru.md)
  - [A hidegháború](a_hideghaboru.md)
