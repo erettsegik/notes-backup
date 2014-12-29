@@ -5,9 +5,9 @@
    - [Információ és társadalom](informacio_es_tarsadalom.md)
 2. Informatikai alapismeretek - hardver
    - [Jelátalakítás és kódolás](jelatalakitas_es_kodolas.md)
-   - [A számítógép felépítése](a_szamitogep_felepitese.md)
+   - [A számítógép felépítése](szamitogep_felepitese.md)
 3. Informatikai alapismeretek - szoftver
-   - [Az operációs rendszer és főbb feladatai](az_operacios_rendszer.md)
+   - [Az operációs rendszer és főbb feladatai](operacios_rendszer.md)
 4. Információs hálózati szolgáltatások
    - [Kommunikáció az interneten](kommunikacio_az_interneten.md)
 5. Könyvtárhasználat
