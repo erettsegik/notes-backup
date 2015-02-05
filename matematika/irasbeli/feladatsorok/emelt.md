@@ -18,5 +18,5 @@
  - 2006 tavasz: [feladatsor](http://www.oktatas.hu/bin/content/dload/erettsegi/feladatok2006tavasz/emelt/e_mat_06maj_fl.pdf) | [megoldás](http://www.oktatas.hu/bin/content/dload/erettsegi/feladatok2006tavasz/emelt/e_mat_06maj_ut.pdf)
  - 2006 tél: [feladatsor](http://www.oktatas.hu/bin/content/dload/erettsegi/feladatok2006februar/emelt/e_mat_06febr_fl.pdf) | [megoldás](http://www.oktatas.hu/bin/content/dload/erettsegi/feladatok2006februar/emelt/e_mat_06febr_ut.pdf)
  - 2005 ősz: [feladatsor](http://www.oktatas.hu/bin/content/dload/erettsegi/feladatok2005osz/emelt/e_mat_05okt_fl.pdf) | [megoldás](http://www.oktatas.hu/bin/content/dload/erettsegi/feladatok2005osz/emelt/e_mat_05okt_ut.pdf)
- - 2005 tavasz (2): [feladatsor](http://dload.oktatas.educatio.hu/erettsegi/feladatok2005tavasz/emelt/e_matV29_fl.pdf) | [megoldás](http://dload.oktatas.educatio.hu/erettsegi/feladatok2005tavasz/emelt/e_matV29_ut.pdf)
- - 2005 tavasz (1): [feladatsor](http://dload.oktatas.educatio.hu/erettsegi/feladatok2005tavasz/emelt/e_matV28_fl.pdf) | [megoldás](http://dload.oktatas.educatio.hu/erettsegi/feladatok2005tavasz/emelt/e_matV28_ut.pdf)
+ - 2005 tavasz: [feladatsor](http://www.oktatas.hu/bin/content/dload/erettsegi/feladatok2005tavasz/emelt/e_mat_fl.pdf) | [megoldás](http://www.oktatas.hu/bin/content/dload/erettsegi/feladatok2005tavasz/emelt/e_mat_ut.pdf)
+ 

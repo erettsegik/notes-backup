@@ -20,3 +20,4 @@
  - 2005 ősz: [feladatsor](http://www.oktatas.hu/bin/content/dload/erettsegi/feladatok2005osz/kozep/k_mat_05okt_fl.pdf) | [megoldás](http://www.oktatas.hu/bin/content/dload/erettsegi/feladatok2005osz/kozep/k_mat_05okt_ut.pdf)
  - 2005 tavasz (2): [feladatsor](http://dload.oktatas.educatio.hu/erettsegi/feladatok2005tavasz/kozep/k_matV29_fl.pdf) | [megoldás](http://dload.oktatas.educatio.hu/erettsegi/feladatok2005tavasz/kozep/k_matV29_ut.pdf)
  - 2005 tavasz (1): [feladatsor](http://dload.oktatas.educatio.hu/erettsegi/feladatok2005tavasz/kozep/k_matV28_fl.pdf) | [megoldás](http://dload.oktatas.educatio.hu/erettsegi/feladatok2005tavasz/kozep/k_matV28_ut.pdf)
+ 
