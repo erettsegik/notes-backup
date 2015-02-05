@@ -38,8 +38,8 @@ Sokféle kommunikációs csatorna:
 
 Redundancia: a jelsorozatban több az elemi jel, mint azt a jelsorozat információtartalma megkívánná (a jelsorozat terjengõsségének mértéke)
 
- - hátránya: a tároló- és továbbítókapacitás több, mint amennyi az információ kezeléséhez feltétlenül kell</li>
- - elõnye: ha a jelsorozat redundáns, e több jelsorozatból a sztochasztikus zaj mellett is jó eséllyel helyreállítható az eredeti információ</li>
+ - hátránya: a tároló- és továbbítókapacitás több, mint amennyi az információ kezeléséhez feltétlenül kell
+ - elõnye: ha a jelsorozat redundáns, e több jelsorozatból a sztochasztikus zaj mellett is jó eséllyel helyreállítható az eredeti információ
 
 zaj elleni védekezés:
 
