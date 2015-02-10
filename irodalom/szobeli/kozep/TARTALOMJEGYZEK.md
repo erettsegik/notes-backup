@@ -1,0 +1,16 @@
+# Középszintű irodalom szóbeli tételek
+
+ - [József Attila](jozsef_attila.md)
+ - [Petőfi Sándor](#)
+ - [Arany János](arany_janos.md)
+ - [Babits Mihály](babits_mihaly.md)
+ - [Kölcsey Ferenc](#)
+ - [Orosz realizmus](#)
+ - [Kosztolányi humanizmusa](#)
+ - [Móricz Zsigmond](#)
+ - [Biblia](#)
+ - [Ady Endre](#)
+ - [Örkény István](#)
+ - [Karinthy Frigyes](#)
+ - [Nyugat](#)
+ - [Déry Tibor: Szerelem/Két asszony - Makk Károly: Szerelem](#)
