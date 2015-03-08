@@ -38,7 +38,7 @@ A ’j’ hangot kétféleképpen írhatjuk le, amire nincsen szabály, ezt a ny
 
  -  a történelmi családnevek leírása
 
-Sok családnévnél csak a hagyomány határozza meg, hogy hogyan írjuk le (Eötvös, Batthyányi)
+Sok családnévnél csak a hagyomány határozza meg, hogy hogyan írjuk le (Eötvös, Batthyány)
 
 ## 4. Egyszerűsítés elve
 
