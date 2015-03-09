@@ -1,7 +1,7 @@
-A *belső energia* az anyagot felépítő atomok, molekulák rendezetlen mozgásából származó mozgási energiáinak összege. 
+A *belső energia* az anyagot felépítő atomok, molekulák rendezetlen mozgásából származó mozgási energiáinak összege.
 
 *Ekvipartíció tétele:*
-Ideális gázban, amelynek hőmérséklete T minden egyes részecske mindegyik szabadsági fokára átlagosan ½ k*T  energia jut. tehát N részecskéből álló rendszerben ahol f a szabadsági fokok száma:  
+Ideális gázban, amelynek hőmérséklete T minden egyes részecske mindegyik szabadsági fokára átlagosan ½ k*T  energia jut. tehát N részecskéből álló rendszerben ahol f a szabadsági fokok száma:
 E belső= f/2 *N*k*T mólok számával: E belső= f/2*n*R*T
 
 A belső energia is állapotjelző hőmérséklettől függ, ezért:
@@ -17,8 +17,8 @@ leadott vagy felvett hőmennyiség: Q = c * m * (delta)T (c a fajhő, anyagi min
 
 A *fajhő* megmutatja, hogy egységnyi tömegű anyag hőmérsékletének 1 Celsius fokkal történő megváltozásához mekkora hőmennyiség szükséges. Jele: c, mértékegysége J/(K*kg) vagy J/(C*kg).
 
-Gázoknál megkülönböztetünk állandó nyomáshoz (izobár , 'cv'), illetve állandó térfogathoz (izochor, 'cp') fajhőt. 
-*cp>cv* 
+Gázoknál megkülönböztetünk állandó nyomáshoz (izobár , 'cv'), illetve állandó térfogathoz (izochor, 'cp') fajhőt.
+*cp>cv*
 Ennek az az oka, hogy állandó nyomáson a felvett hőmennyiség nemcsak a belső energiát növeli, hanem a gáz térfogati munkáját is fedezi. Állandó térfogaton pedig a felvett hőmennyiség nemcsak a belső energiát növeli, hanem a gáz térfogati munkáját is fedez. Állandó térfogaton pedig a felvett hőmennyiség csak a belső energia növelésére fordítódik.
 
 Állandó nyomáson a térfogati munka: W = p * (delta)V
