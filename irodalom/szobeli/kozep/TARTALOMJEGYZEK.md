@@ -10,7 +10,6 @@
  - [Móricz Zsigmond](#)
  - [Biblia](biblia.md)
  - [Ady Endre](ady_endre.md)
- - [Örkény István](orkeny_istvan.md)
  - [Karinthy Frigyes](#)
  - [Nyugat](#)
  - [Déry Tibor: Szerelem/Két asszony - Makk Károly: Szerelem](#)
