@@ -2,32 +2,38 @@ A *belső energia* az anyagot felépítő atomok, molekulák rendezetlen mozgás
 
 *Ekvipartíció tétele:*
 Ideális gázban, amelynek hőmérséklete T minden egyes részecske mindegyik szabadsági fokára átlagosan ½ k*T  energia jut. tehát N részecskéből álló rendszerben ahol f a szabadsági fokok száma:
-E belső= f/2 *N*k*T mólok számával: E belső= f/2*n*R*T
+
+[latex inline]E belső= f/2 *N*k*T mólok számával: E belső= f/2*n*R*T[/latex]
 
 A belső energia is állapotjelző hőmérséklettől függ, ezért:
+
 - ha a hőmérséklet állandó, akkor a zárt edényben lévő gáz belső energiája nem változik
 - ha a zárt edényben lévő gáz belső energiája megváltozik akkor ezzel arányosan változik a hőmérséklete
 
 A testek belső energiája minden halmazállapotban kétféleképpen változtatható meg:
+
 - hőmennyiség felvételével, leadásával : Q
 - a rendszer térfogatának megváltoztatásával, térfogati munkával: W
 
-Tehát a *termodinamika első főtétele*: (delta) E (belső) = Q + W (akkor pozitív, ha növelik a belső energiát)
-leadott vagy felvett hőmennyiség: Q = c * m * (delta)T (c a fajhő, anyagi minőségre jellemző állandó)
+Tehát a *termodinamika első főtétele*: [latex inline](delta) E (belső) = Q + W[/latex] (akkor pozitív, ha növelik a belső energiát)
+leadott vagy felvett hőmennyiség: [latex inline]Q = c * m * (delta)T[/latex] (c a fajhő, anyagi minőségre jellemző állandó)
 
 A *fajhő* megmutatja, hogy egységnyi tömegű anyag hőmérsékletének 1 Celsius fokkal történő megváltozásához mekkora hőmennyiség szükséges. Jele: c, mértékegysége J/(K*kg) vagy J/(C*kg).
 
 Gázoknál megkülönböztetünk állandó nyomáshoz (izobár , 'cv'), illetve állandó térfogathoz (izochor, 'cp') fajhőt.
-*cp>cv*
+
+[latex inline]*cp>cv*[/latex]
+
 Ennek az az oka, hogy állandó nyomáson a felvett hőmennyiség nemcsak a belső energiát növeli, hanem a gáz térfogati munkáját is fedezi. Állandó térfogaton pedig a felvett hőmennyiség nemcsak a belső energiát növeli, hanem a gáz térfogati munkáját is fedez. Állandó térfogaton pedig a felvett hőmennyiség csak a belső energia növelésére fordítódik.
 
-Állandó nyomáson a térfogati munka: W = p * (delta)V
+Állandó nyomáson a térfogati munka: [latex inline]W = p * (delta)V[/latex]
 
 Speciális esetek:
-- *izoterm:* T- állandó: delta E=0 0=Q+W
-- *izochor:* V- állandó: delta V=0 W=0 delta E=Q
-- *izobár:* p- állandó: W=p*delta V delta E=Q+W
-- *adiabatikus:* Q=0 delta E=W
+
+- *izoterm:* T- állandó: [latex inline]delta E=0 0=Q+W[/latex]
+- *izochor:* V- állandó: [latex inline]delta V=0 W=0 delta E=Q[/latex]
+- *izobár:* p- állandó: [latex inline]W=p*delta V delta E=Q+W[/latex]
+- *adiabatikus:* [latex inline]Q=0 delta E=W[/latex]
 
 Gázok egymás utáni különböző típusú állapotváltozásaiból *körfolyamatok* tehetők össze. Körfolyamatban a belső energia a teljes ciklusban végeredményében nem változik meg.
 

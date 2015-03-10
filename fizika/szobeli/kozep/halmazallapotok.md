@@ -1,4 +1,5 @@
 Három klasszikus halmazállapotot ismerünk:
+
  - szilárd
  - folyékony
  - légnemű (gáz)
@@ -8,14 +9,15 @@ Létezik továbbá az ún. plazma állapot.
 A részecskék közötti vonzóerőket *intermolekuláris erőknek* nevezzük. A hőmozgás és az intermolekuláris erők nagyságának viszonya határozza meg az anyag halmazállapotát.
 
 *Halmazállapot változások:*
- - olvadás (szilárd -> folyékony) /endoterm/
- - fagyás (folyékony -> szilárd) /exoterm/
- - forrás (folyékony -> légnemű) / endoterm/
- - lecsapódás (légnemű -> folyékony) /exoterm/
- - szublimáció (szilárd -> légnemű) /endoterm/
- - párolgás (folyékony -> légnemű) /endoterm/
+ - olvadás (szilárd → folyékony) /endoterm/
+ - fagyás (folyékony → szilárd) /exoterm/
+ - forrás (folyékony → légnemű) / endoterm/
+ - lecsapódás (légnemű → folyékony) /exoterm/
+ - szublimáció (szilárd → légnemű) /endoterm/
+ - párolgás (folyékony → légnemű) /endoterm/
 
 Ezek közül az *olvadás*, a *fagyás*, a *forrás* és a *lecsapódás*:
+
  - anyagi minőségre jellemző hőmérsékleten játszódnak le
  - közben a test hőmérséklete nem változik
  - energiaigénye, energiafelszabadulása meghatározott
@@ -25,16 +27,17 @@ A folyadékok *minden hőmérsékleten párolognak*, magasabban intenzívebben. 
 Az olvadáshő, forráshő, párolgáshő mennyiségeket *latens hőnek* is nevezik.
 
 *Forráspont* az a hőmérsékleti pont, amelyen a mindig jelen lévő buborékokban a telített gőz nyomása eléri a folyadékra nehezedő külső nyomást, tehát nyomásfüggő. Ha csökken a nyomás, akkor alacsonyabb hőfokon van a forráspont.
- 
+
 *Kísérletek:*
 
-Fecskendőbe vizet felszívni -> befogni a végét -> kijjebb húzni -> forrásnak indul a folyadék
+Fecskendőbe vizet felszívni → befogni a végét → kijjebb húzni → forrásnak indul a folyadék
 
-Folyadék párolgásával kell hőmérőt lehűteni, bizonyítva hogy a párolgás hőt igénylő folyamat (Alkohollal) /endoterm/ 
+Folyadék párolgásával kell hőmérőt lehűteni, bizonyítva hogy a párolgás hőt igénylő folyamat (Alkohollal) /endoterm/
 
 Zárt helyen a folyadék fölött telített gőze van jelen, ami sosem viselkedik ideális gázként.
 
 A párolgás sebességét *lehet* befolyásolni:
+
  - ventilátor
  - hajszárító
 
