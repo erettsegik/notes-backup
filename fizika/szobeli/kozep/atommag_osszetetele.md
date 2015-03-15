@@ -24,9 +24,13 @@ A láncreakciónak és a következtében felszabaduló hatalmas energia hasznos�
 *Kötési osztályrész görbe:*
 Egy neuklonra jutó kötési energiát adja meg, a görbén jól látható, hogy a vas a legstabilabb anyag, így a reakció nem kifizetődő. Összefoglalva tehát minél nagyobb az egy nukleonra jutó átlagos kötési energia, annál mélyebb az egy nukleonra jutó teljes energia, vagyis annál kötöttebbek a nukleonok. Ezt a szemléletet fejezi ki az ábrázolás.
 
+![Kötési osztályrész görbe](http://i.imgur.com/N9a3t0p.png)
+
 A görbe elején egyértelműen látszik, hogy az egy nukleonra jutó kötési energia erősen nő. Ez azt jelenti, hogy könnyű magok esetén a tömegszám növekedésével egyre erősebben kötött állapotban vannak a nukleonok. A fajlagos kötési energia maximuma az 55-60-as tömegszám körül van. Tehát a vas és a vele közel azonos tömegszámú elemek atommagjaiban vannak legerősebben kötve a nukleonok, ezeket a magokat a legnehezebb alkotórészeikre bontani.
 
 *Az Energiaminimum elve* kimondja, hogy az elektronok a legalacsonyabb energiájú szabad helyet foglalják el az atomban. Az elektronok mindig a legkisebb energiaszintű alhéjat próbálják feltölteni.
 
 *Stabilitási görbe:*
 Stabilitást tekintve az atomokban található proton és neutrunok száma nincs lineáris összhangban, minél több protonból áll egy anyag, annál több neutronra van szükség, hogy az adott anyag továbbra is stabil maradjon.
+
+![Stabilitási görbe](http://i.imgur.com/RCj3Fon.png)
