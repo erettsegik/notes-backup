@@ -25,7 +25,7 @@ A szerelmes verseket virágénekek mintájára írja meg.
 *Szerelmi költészete:*
 
  - vallomásos jellegű
- - széphistóriák és virágénekek mintája -> nyelvhasználat, ritmizálás
+ - széphistóriák és virágénekek mintája → nyelvhasználat, ritmizálás
  - virágszimbolika, fényszimbolika (halmozás, fokozás)
  - virágénekekből és műdalokból átvett költői képek használata
  - hasonlatok gyakori használata
