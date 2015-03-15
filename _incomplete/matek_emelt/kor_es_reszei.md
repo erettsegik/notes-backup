@@ -1,28 +1,29 @@
-*Definíció:* Adott ponttól adott távolságra lévő pontok halmaza.
+﻿*Definíció:* Adott ponttól adott távolságra lévő pontok halmaza.
 
 *Részei:* sugár, körcikk, körgyűrű, körszelet, húr, szelő
+
+*Sugár:* A kör középpontja és a kör közötti távolság
+
+*Körcikk:* Két sugár és a körív által határolt terület, ahol a körív hosszát egyértelműen meghatározza a körcikkhez tartozó középponti szög.
+
+*Körgyűrű:* A kör és egy a kör sugaránál kisebb sugarú kör által határol terület
+
+*Körszelet:* A kör egy húrja és a körív által határolt terület
 
 *Húr:* körvonal két pontját összekötő szakasz
 
 *Szelő:* húr egyenese
 
+*Koncentrikus körök:* ha a középpontjaik egy pontba esnek
+
 - *Definíció:* Ha egy egyenesnek két közös pontja van a körrel, akkor szelőnek nevezzük.
 
 *Átmérő:* középponton áthaladó húr
 
-*Tétel:* A kör
-
+*Tétel:* A kör:
 - középpontján áthaladó tetszőlegese egyenesre nézve tengelyesen szimmetrikus
 - középpontjára nézve középpontosan szimmetrikus
-- középpontja körül9 forgatásra forgásszimmetrikus.
-
-*Körcikk:* két sugár közé eső darabja a körlapnak
-
-*Körszelet:* Egy szelő által a körlapból lemetszett rész
-
-*Koncentrikus körök:* ha a középpontjaik egy pontba esnek
-
-*Körgyűrű:* két koncentrikus körvonal közé eső rész
+- középpontja körül forgatásra forgásszimmetrikus.
 
 *Kör és egyenes kölcsönös helyzete:*
 
@@ -47,7 +48,7 @@
 - *Tétel:* egy adott körben a középponti szög egyenesen arányos a hozzátartozó körívvel
 - *Kerületi és középponti szögek tétele:*
   + Egy adott körben ugyanakkora ívhez tartozó középponti szög kétszerese a kerületi szögnek
-  + BIZONYÍTÁS BUMMM
+  + Itt érdemes bemutatni a kerületi és középponti szögek tételéhez tartozó bizonyítást, persze csak ha azt választottuk a tételhez.
   + következménye a Thalesz-tétel
 - *Thalesz tétele és annak megfordítása:* Azon pontok halmaza a síkban, amelyekből a sík egy AB szakasza derékszögben látszik, az AB átmérőjű körvonal, kivéve az A és a B pontokat.
 
