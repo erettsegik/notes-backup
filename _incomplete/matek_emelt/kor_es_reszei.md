@@ -1,4 +1,4 @@
-﻿*Definíció:* Adott ponttól adott távolságra lévő pontok halmaza.
+*Definíció:* Adott ponttól adott távolságra lévő pontok halmaza.
 
 *Részei:* sugár, körcikk, körgyűrű, körszelet, húr, szelő
 

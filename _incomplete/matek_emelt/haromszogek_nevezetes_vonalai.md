@@ -1,4 +1,4 @@
-﻿Ajánlott kezdőmondattal nyitni a tételt, Pl.:
+Ajánlott kezdőmondattal nyitni a tételt, Pl.:
  - Amit el fogok mondani Euklidesz elemek című munkája nagyrészt tartalmazza, de még sokan hozzájárultak. Pl.: Napoleon, Euler, Feuerbach.
 
 *Magasságvonal:* Egyik pontból a szemközti oldalra állított merőleges egyenes.

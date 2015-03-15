@@ -1,4 +1,4 @@
-﻿A matematika egyik legrégebbit területe. Euklidesz foglalkozott vele először.
+A matematika egyik legrégebbit területe. Euklidesz foglalkozott vele először.
 
 *Alapfogalmak*: pont, egyenes, sík, tér
 
