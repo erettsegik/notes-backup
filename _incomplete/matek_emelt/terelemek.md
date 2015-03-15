@@ -1,12 +1,12 @@
-A matematika egyik legrégebbit területe. Euklidesz foglalkozott vele először.
+﻿A matematika egyik legrégebbit területe. Euklidesz foglalkozott vele először.
 
 *Alapfogalmak*: pont, egyenes, sík, tér
 
-P és Q távolsága: dPQ – *két pont távolsága*
+P és Q távolsága: [latex inline]d_{PQ}[/latex] – *két pont távolsága*
 
-- dPQ ≥ 0 és dPQ = 0 akkor P=Q
-- dPQ = dQP
-- dPQ + dQP ≥ dPR
+- [latex inline]d_{PQ} \geq 0[/latex] és [latex inline]d_{PQ} = 0[/latex] akkor [latex inline]P=Q[/latex]
+- [latex inline]d_{PQ} = d_{QP}[/latex]
+- [latex inline]d_{PQ} + d_{QP} \geq d_{PR}[/latex]
 
 *Pont és egyenes távolsága:* egybeesnek: 0; pontból merőlegest bocsátunk az egyenesre és úgy mérjük meg a távolságát
 
@@ -16,7 +16,7 @@ P és Q távolsága: dPQ – *két pont távolsága*
 
 *Egyenes és sík távolsága:* ha tartalmazza a sík: 0; ha metszi: 0; ha párhuzamosak: az egyenes bármely pontjának a síktól való távolsága
 
-*Két sík távolsága:* egybeeső:0; ha párhuzamosak: az egyik sík tetszőleges pontjától való távolsága.
+*Két sík távolsága:* egybeeső: 0; ha párhuzamosak: az egyik sík tetszőleges pontjától való távolsága.
 
 Szögek?
 
@@ -31,12 +31,12 @@ Egy egyenestől és egy rá nem illeszkedő ponttól egyenlő távolságra lév�
 Három adott ponttól egyenlő távolságra lévő pontok halmaza:
 
 - *Háromszög oldalfelező merőlegesei* → háromszög köré írható kör középpontja
-  + BIZONYATÁS BUMMM
+  + Itt érdemes az előbbi tétel bizonyítását elmondani ha ezt választottad a tételhez.
 
 Három egyenestől egyenlő távolságra lévő pontok halmaza:
 
 - *Háromszög szögfelezői* → háromszögbe írható kör középpontja
-  + BIZONYÍTÁS BUMMM → Cheva tétel megemlítése MÉGNAGYOBB BUMMMM
+  + Itt érdemes az előbbi tétel bizonyítását elmondani ha ezt választottad a tételhez. → Cheva tételének megemlítése meglepő húzás lehet.
 
 *Ellipszis:* adott síkban két egymásra nem illeszkedő pont és egy a távolságuknál nagyobb pozitív valós szám, azoknak a pontoknak a halmazát a síkban, amelyeknek a két ponttól mért távolságának az összege az adott szám, ellipszisnek nevezzük.
 
