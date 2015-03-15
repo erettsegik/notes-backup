@@ -1,87 +1,87 @@
-A tételt ajánlott egy nyitómondattal kezdeni, Pl.:
- - Már az ókor óta foglalkozik az emberiség derékszögû háromszögekkel talán régebb óta is. Elõször Euklidesz elemek címû munkájában jelent meg írásosan.
+A tÃ©telt ajÃ¡nlott egy nyitÃ³mondattal kezdeni, Pl.:
+ - MÃ¡r az Ã³kor Ã³ta foglalkozik az emberisÃ©g derÃ©kszÃ¶gÃ» hÃ¡romszÃ¶gekkel talÃ¡n rÃ©gebb Ã³ta is. ElÃµszÃ¶r Euklidesz elemek cÃ­mÃ» munkÃ¡jÃ¡ban jelent meg Ã­rÃ¡sosan.
 
-*A háromszögek lehetnek: *
+*A hÃ¡romszÃ¶gek lehetnek: *
 
-- Egy háromszög hegyesszögû, ha minden szöge hegyesszög
+- Egy hÃ¡romszÃ¶g hegyesszÃ¶gÃ», ha minden szÃ¶ge hegyesszÃ¶g
 
-- Egy háromszög derékszögû, ha van egy 90°-os szöge
+- Egy hÃ¡romszÃ¶g derÃ©kszÃ¶gÃ», ha van egy 90Â°-os szÃ¶ge
 
-- Egy háromszög tompaszögû, ha vagy egy tompaszöge
+- Egy hÃ¡romszÃ¶g tompaszÃ¶gÃ», ha vagy egy tompaszÃ¶ge
 
-- Egy háromszög szabályos, ha három oldala egyenlõ hosszú
+- Egy hÃ¡romszÃ¶g szabÃ¡lyos, ha hÃ¡rom oldala egyenlÃµ hosszÃº
 
-- Egy háromszög egyenlõ szárú, ha van két egyenlõ oldala
+- Egy hÃ¡romszÃ¶g egyenlÃµ szÃ¡rÃº, ha van kÃ©t egyenlÃµ oldala
 
-*Pitagorasz tétel:* Ha egy háromszög derékszögû, akkor befogóinak négyzetösszege egyenlõ az átfogó négyzetével.
+*Pitagorasz tÃ©tel:* Ha egy hÃ¡romszÃ¶g derÃ©kszÃ¶gÃ», akkor befogÃ³inak nÃ©gyzetÃ¶sszege egyenlÃµ az Ã¡tfogÃ³ nÃ©gyzetÃ©vel.
 
-- A cosinus tétel speciális esete
+- A cosinus tÃ©tel speciÃ¡lis esete
 
-- Egyiptomiak találták ki, Pitagorasztól a nevét azért kapta, mert õ talált ki hozzá egy új bizonyítást anno
+- Egyiptomiak talÃ¡ltÃ¡k ki, PitagorasztÃ³l a nevÃ©t azÃ©rt kapta, mert Ãµ talÃ¡lt ki hozzÃ¡ egy Ãºj bizonyÃ­tÃ¡st anno
 
-- Legkorábbi bizonyítását pedig a hinduk
+- LegkorÃ¡bbi bizonyÃ­tÃ¡sÃ¡t pedig a hinduk
 
-- Megfordítható a tétel ?indirekten bizonyítható
+- MegfordÃ­thatÃ³ a tÃ©tel ?indirekten bizonyÃ­thatÃ³
 
-- Itt érdemes lehet elmondani pitagorasz tételének bizonyítását
+- Itt Ã©rdemes lehet elmondani pitagorasz tÃ©telÃ©nek bizonyÃ­tÃ¡sÃ¡t
 
-*Thalesz tétel:* Ha egy kör átmérõjének két végpontját összekötjük a kör bármely más pontjával, akkor derékszögû háromszöget kapunk
+*Thalesz tÃ©tel:* Ha egy kÃ¶r Ã¡tmÃ©rÃµjÃ©nek kÃ©t vÃ©gpontjÃ¡t Ã¶sszekÃ¶tjÃ¼k a kÃ¶r bÃ¡rmely mÃ¡s pontjÃ¡val, akkor derÃ©kszÃ¶gÃ» hÃ¡romszÃ¶get kapunk
 
-- megfordítható
+- megfordÃ­thatÃ³
 
-- a kerületi és központi szögek egy speciális esetének a következménye
+- a kerÃ¼leti Ã©s kÃ¶zponti szÃ¶gek egy speciÃ¡lis esetÃ©nek a kÃ¶vetkezmÃ©nye
 
-*Befogótétel:* Derékszögû háromszög befogójának hossza a mértani közepe az átfogó és a befogó átfogóra esõ merõleges vetülete hosszának.
+*BefogÃ³tÃ©tel:* DerÃ©kszÃ¶gÃ» hÃ¡romszÃ¶g befogÃ³jÃ¡nak hossza a mÃ©rtani kÃ¶zepe az Ã¡tfogÃ³ Ã©s a befogÃ³ Ã¡tfogÃ³ra esÃµ merÃµleges vetÃ¼lete hosszÃ¡nak.
 
-*Magasságtétel:* Derékszögû háromszögben az átfogóhoz tartozó magasság hossza a mértani közepe azon két szakasz 
-hosszának, amelyekre a magasság az átfogót osztja.
+*MagassÃ¡gtÃ©tel:* DerÃ©kszÃ¶gÃ» hÃ¡romszÃ¶gben az Ã¡tfogÃ³hoz tartozÃ³ magassÃ¡g hossza a mÃ©rtani kÃ¶zepe azon kÃ©t szakasz
+hosszÃ¡nak, amelyekre a magassÃ¡g az Ã¡tfogÃ³t osztja.
 
-####Szögfüggvények derékszögû háromszögekre leszûkítve:
+####SzÃ¶gfÃ¼ggvÃ©nyek derÃ©kszÃ¶gÃ» hÃ¡romszÃ¶gekre leszÃ»kÃ­tve:
 
-A hegyesszögek szögfüggvényeit derékszögû háromszögekkel is bevezethetjük. Kihasználjuk, hogy a két derékszögû háromszög hasonló, ha valamely hegyesszög megegyezik. A hasonlóság következtében egy derékszögû háromszög oldalainak arányát a háromszög egyik hegyesszöge egyértelmûen meghatározza. Erre a függvényszerû kapcsolatra vezetjük be a szögfüggvényeket.
+A hegyesszÃ¶gek szÃ¶gfÃ¼ggvÃ©nyeit derÃ©kszÃ¶gÃ» hÃ¡romszÃ¶gekkel is bevezethetjÃ¼k. KihasznÃ¡ljuk, hogy a kÃ©t derÃ©kszÃ¶gÃ» hÃ¡romszÃ¶g hasonlÃ³, ha valamely hegyesszÃ¶g megegyezik. A hasonlÃ³sÃ¡g kÃ¶vetkeztÃ©ben egy derÃ©kszÃ¶gÃ» hÃ¡romszÃ¶g oldalainak arÃ¡nyÃ¡t a hÃ¡romszÃ¶g egyik hegyesszÃ¶ge egyÃ©rtelmÃ»en meghatÃ¡rozza. Erre a fÃ¼ggvÃ©nyszerÃ» kapcsolatra vezetjÃ¼k be a szÃ¶gfÃ¼ggvÃ©nyeket.
 
-- [latexinline]\sin\alpha=[/latex]a szemközti befogó hosszának és az átfogó hosszának hányadosával.
+- [latexinline]\sin\alpha=[/latex]a szemkÃ¶zti befogÃ³ hosszÃ¡nak Ã©s az Ã¡tfogÃ³ hosszÃ¡nak hÃ¡nyadosÃ¡val.
    + [latexinline]\sin\alpha = a / c [/latex]
 
-- [latexinline]\cos\alpha=[/latex] a szög melletti befogó hosszának és az átfogó hosszának hányadosával.
+- [latexinline]\cos\alpha=[/latex] a szÃ¶g melletti befogÃ³ hosszÃ¡nak Ã©s az Ã¡tfogÃ³ hosszÃ¡nak hÃ¡nyadosÃ¡val.
    + [latexinline]\cos\alpha = b / c [/latex]
 
-- [latexinline]tg\alpha=[/latex] a szöggel szemközti befogó hosszának és a szög melletti befogó hosszának hányadosával.
+- [latexinline]tg\alpha=[/latex] a szÃ¶ggel szemkÃ¶zti befogÃ³ hosszÃ¡nak Ã©s a szÃ¶g melletti befogÃ³ hosszÃ¡nak hÃ¡nyadosÃ¡val.
    + [latexinline]tg\alpha = a / b [/latex]
 
-- [latexinline]ctg\alpha=[/latex] a szög melletti befogó hosszának és a szöggel szemközti befogó hosszának hányadosával.
+- [latexinline]ctg\alpha=[/latex] a szÃ¶g melletti befogÃ³ hosszÃ¡nak Ã©s a szÃ¶ggel szemkÃ¶zti befogÃ³ hosszÃ¡nak hÃ¡nyadosÃ¡val.
    + [latexinline]ctg\alpha = b / a [/latex]
 
-- *Trigonometrikus pitagorasz tétel:* [latexinline]\sin^2\alpha + \cos^2\alpha = 1 [/latex]
+- *Trigonometrikus pitagorasz tÃ©tel:* [latexinline]\sin^2\alpha + \cos^2\alpha = 1 [/latex]
 
-####Alkalmazások:
+####AlkalmazÃ¡sok:
 
-- ókori építészet
+- Ã³kori Ã©pÃ­tÃ©szet
 
-- Pitagoraszi számhármasok
+- Pitagoraszi szÃ¡mhÃ¡rmasok
 
-- számelméleti megoldások
+- szÃ¡melmÃ©leti megoldÃ¡sok
 
-- Fermat tételhez
+- Fermat tÃ©telhez
 
-- külsõ pontból érintõ szerkesztéséhez
+- kÃ¼lsÃµ pontbÃ³l Ã©rintÃµ szerkesztÃ©sÃ©hez
 
-- közös külsõ/belsõ érintõk
+- kÃ¶zÃ¶s kÃ¼lsÃµ/belsÃµ Ã©rintÃµk
 
-- két szakasz mértani közepének megszerkesztéséhez
+- kÃ©t szakasz mÃ©rtani kÃ¶zepÃ©nek megszerkesztÃ©sÃ©hez
 
--[latexinline]\sqrt{a}[/latex] szakasz hosszúságának megszerkesztése
+-[latexinline]\sqrt{a}[/latex] szakasz hosszÃºsÃ¡gÃ¡nak megszerkesztÃ©se
 
-- szögfüggvények:
+- szÃ¶gfÃ¼ggvÃ©nyek:
 
-   + térképészet
+   + tÃ©rkÃ©pÃ©szet
 
-   + távolságmérés
+   + tÃ¡volsÃ¡gmÃ©rÃ©s
 
    + GPS
 
-   + lejtõn lévõ testre ható erõk 
+   + lejtÃµn lÃ©vÃµ testre hatÃ³ erÃµk
 
-   + hajítások fizikai leírásához
+   + hajÃ­tÃ¡sok fizikai leÃ­rÃ¡sÃ¡hoz
 
-   + lejtõn lévõ testekre ható erõk felbontásához
+   + lejtÃµn lÃ©vÃµ testekre hatÃ³ erÃµk felbontÃ¡sÃ¡hoz
