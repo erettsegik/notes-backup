@@ -1,6 +1,6 @@
-﻿[latex inline] a^n [/latex]: n tényezős szorzat melynek minden tényezője a. 
+﻿[latex inline] a^n [/latex]: n tényezős szorzat melynek minden tényezője a.
 
-[latex] a^n = a * a * a * ... * a \text{(n db)} [/latex] 
+[latex] a^n = a * a * a * ... * a \text{(n db)} [/latex]
 
 ##### A hatványkitevők lehetnek természetes számok:
  - 1, 2, 3, 4, 5, 6, ... , n
@@ -14,9 +14,9 @@
 
 ##### Egy számnak lehet tört hatványkitevője is, tehát [latex inline] a^n [/latex] esetén [latex inline] n \in[/latex] ℝ:
 
-*Definíció:* ahol a nem negatív valós szám az a nem negatív valós szám amelynek k-adik hatványa an. 
+*Definíció:* ahol a nem negatív valós szám az a nem negatív valós szám amelynek k-adik hatványa an.
 
- a^{\frac{x}{y}} = \sqrt[y]{a^x}
+ [latex] a^{\frac{x}{y}} = ^y\sqrt{a^x} [/latex]
 
 ##### A hatványkitevők növekedése egy függvényt formál [latex inline] f(x) = 2^x [/latex]:
 
@@ -37,19 +37,19 @@
 
 ### Másodfokú függvény képe a parabola:
 
-#### Jellemzése: 
+#### Jellemzése:
 1. É.T.:valós számok, ℝ
 2. É.K.:valós számok, ℝ
-3. Zérus hely: [latex inline] x = 0 [/latex] 
-4. Korlátosság: alulról korlátos [latex inline] x = 0 [/latex] 
+3. Zérus hely: [latex inline] x = 0 [/latex]
+4. Korlátosság: alulról korlátos [latex inline] x = 0 [/latex]
 5. függvény minimuma: [latex inline] x = 0 [/latex]
-6. monotonitás: nem monoton 
-7. paritás: páros 
-8. periodicitás: nem periodikus 
-9. konvexitás: konvex 
-10. inflexiós pont: nincs inflexiós pont 
-11. folytonosság: folytonos 
-12. asszimptota: nincs asszimptotája 
+6. monotonitás: nem monoton
+7. paritás: páros
+8. periodicitás: nem periodikus
+9. konvexitás: konvex
+10. inflexiós pont: nincs inflexiós pont
+11. folytonosság: folytonos
+12. asszimptota: nincs asszimptotája
 13. Deriválhatóság: deriválható
 14. Integrálhatóság: integrálható
 
@@ -68,20 +68,20 @@
 
 [latex]\sqrt{a}^2 = a[/latex]
 
-### Gyök x függvény 
+### Gyök x függvény
 
 #### jellemzése:
 1. É.T.:valós számok, ℝ[latex inline]^+[/latex]
 2. É.K.:valós számok, ℝ[latex inline]^+[/latex]
-3. Zérus hely: [latex inline] x = 0 [/latex] 
-4. Korlátosság: alulról korlátos [latex inline] x = 0 [/latex] 
+3. Zérus hely: [latex inline] x = 0 [/latex]
+4. Korlátosság: alulról korlátos [latex inline] x = 0 [/latex]
 5. függvény minimuma: [latex inline] x = 0 [/latex]
-6. monotonitás: szigorúan monoton 
-7. paritás: nincs paritása 
-8. periodicitás: nem periodikus 
-9. konvexitás: konkáv 
-10. inflexiós pont: nincs inflexiós pont 
-11. folytonosság: folytonos 
+6. monotonitás: szigorúan monoton
+7. paritás: nincs paritása
+8. periodicitás: nem periodikus
+9. konvexitás: konkáv
+10. inflexiós pont: nincs inflexiós pont
+11. folytonosság: folytonos
 12. asszimptota: nincs asszimptotája
 13. Deriválhatóság: deriválható
 14. Integrálhatóság: integrálható
