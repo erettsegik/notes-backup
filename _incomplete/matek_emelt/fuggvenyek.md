@@ -41,13 +41,14 @@ Lokálisan értelmezzük a függvény: szélső értékét, monotonitását, kon
  [latex]H = \frac{n}{\frac{1}{a_1} + \frac{1}{a_2} + \frac{1}{a_3} + ... + \frac{1}{a_n}}[/latex]
  [latex] H_{a,b} = \frac{2}{\frac{1}{a} + \frac{1}{b}} [/latex]
     + G: Geometriai közép(mértani közép)
- [latex] G = \sqrt[n]{a_1 * a_2 * a_3 * ... * a_n} [/latex]
+ [latex] G = ^n\sqrt{a_1 * a_2 * a_3 * ... * a_n} [/latex]
  [latex] G_{a,b} = \sqrt{a * b} [/latex]
     + A: Aritmetikai közép(számtani közép)
  [latex] A = \frac{a_1 + a_2 + a_3 + ... + a_n}{n} [/latex]
  [latex] A_{a,b} = \frac{a + b}{2} [/latex]
     + Q: Qvadratikus közép(négyzetes közép)
  [latex] Q = \sqrt{\frac{a_1^2 + a_2^2 + a_3^2 + ... + a_n^2}{n}} [/latex]
+ [latex] Q_{a,b} = \sqrt{\frac{a^2 + b^2}{2}}
  - Teljes négyzetté alakítás
  - Differenciálszámítás
  - Trigonometriai függvények szélső értékének felhasználása: [latex inline]-1 < \sin x < 1 ; -1 < \cos x < 1[/latex]
