@@ -1,4 +1,4 @@
-*Függvény definíciója:* f A->B ha A minden eleméhez rendelünk B-beli ...elemet, és csak 1 elemet.
+*Függvény definíciója:* f A->B: ha A minden eleméhez rendelünk B-beli ...elemet, és csak 1 elemet.
 
 A(D): értelmezési tartomány
 
@@ -34,12 +34,23 @@ Lokálisan értelmezzük a függvény: szélső értékét, monotonitását, kon
 
 *Módszerek:*
 
- - Nevezetes egyenlőtlenségek felhasználása: pl.: a+1/a<2 ; a2>0
+ - Nevezetes egyenlőtlenségek felhasználása: pl.: [latex inline] \frac{a + 1}{a} < 2 ; a^2 > 0 [/latex]
  - Hatványközepekre vonatkozó egyenlőtlenségek felhasználása
-   + a<H<G<A <Q<b
+ [latex] a < H < G < A < Q < b [/latex]
+   + H: Harmónikus közép
+ [latex]H = \frac{n}{\frac{1}{a_1} + \frac{1}{a_2} + \frac{1}{a_3} + ... + \frac{1}{a_n}}[/latex]
+ [latex] H_{a,b} = \frac{2}{\frac{1}{a} + \frac{1}{b}} [/latex]
+    + G: Geometriai közép(mértani közép)
+ [latex] G = \sqrt[n]{a_1 * a_2 * a_3 * ... * a_n} [/latex]
+ [latex] G_{a,b} = \sqrt{a * b} [/latex]
+    + A: Aritmetikai közép(számtani közép)
+ [latex] A = \frac{a_1 + a_2 + a_3 + ... + a_n}{n} [/latex]
+ [latex] A_{a,b} = \frac{a + b}{2} [/latex]
+    + Q: Qvadratikus közép(négyzetes közép)
+ [latex] Q = \sqrt{\frac{a_1^2 + a_2^2 + a_3^2 + ... + a_n^2}{n}} [/latex]
  - Teljes négyzetté alakítás
  - Differenciálszámítás
- - Trigonometriai függvények szélső értékének felhasználása
+ - Trigonometriai függvények szélső értékének felhasználása: [latex inline]-1 < \sin x < 1 ; -1 < \cos x < 1[/latex]
  - egyéb
 
 *Alkalmazások:*
@@ -48,3 +59,4 @@ Lokálisan értelmezzük a függvény: szélső értékét, monotonitását, kon
  - vízből kimentés esete Fermat-elv
    + fénytörés
  - közgazdasági számítások
+ - Informatikai alkalmazások: képszerkesztők stb.
