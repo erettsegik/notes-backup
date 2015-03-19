@@ -44,7 +44,6 @@
  - Nemzet vége
  - Faj/fajta szavakat használja → a nemzeti összetartozás mikéntje miatt
 
-
 Sajátos hazaszeretet:
  - jobbítás szándéka → ostorozás
  - Nem nacionalista
