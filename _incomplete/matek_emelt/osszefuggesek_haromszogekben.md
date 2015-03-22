@@ -3,6 +3,7 @@ Ajánlott nyitómondat:
 Amit el fogok mondani Euklidesz elemek címú munkája nagyrészt tartalmazza, de még sokan tettek hozzá a matematika ezen ágának örökségéhez az idők során.
 
 *A háromszögek csoportosítása:*
+
  - Egy háromszög hegyesszögű, ha minden szöge hegyesszög
  - Egy háromszög derékszögű, ha van egy 90°-os szöge
  - Egy háromszög tompaszögű, ha vagy egy tompaszöge
