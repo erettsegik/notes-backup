@@ -6,6 +6,7 @@
  - [A tatárjárás és következményei](tatarjaras_es_kovetkezmenyei.md)
  - [A XIV. századi magyar gazdaság](xiv_szazadi_magyar_gazdasag.md)
  - [Hunyadi Mátyás](hunyadi_matyas.md)
+ - [A nagy földrajzi felfedezések](nagy_foldrajzi_felfedezesek.md)
  - [A három részre szakadt Magyarország](harom_reszre_szakadt_magyarorszag.md)
  - [Népesedési viszonyok a XVIII. században](nepesedesi_viszonyok_xviii_szazad.md)
  - [Az USA születése és alkotmánya](usa_szuletese_es_alkotmanya.md)
