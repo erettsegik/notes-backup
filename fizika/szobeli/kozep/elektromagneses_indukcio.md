@@ -1,21 +1,18 @@
-A mágneses mezőben lezajló változásokkal kapcsolatos jelenségeket elektromágneses indukciónak nevezzük.
+Az *elektromágnes indukció* elektromágneses kölcsönhatás, amely során egy vezetőben elektromos feszültség indukálódik.
 
 Az indukciós jelenségeknek két típusa lehet:
 
- - Mozgási indukció
+ - Mozgási indukció: vagy a mágneses mező, vagy a vezető, vagy mind a kettő mozog egymáshoz viszonyítva (pl: dinamó).
+ - Nyugalmi indukció: sem a vezető, sem a mágneses mező nem mozog. Ebben az esetben az indukciót az időben változó fluxus hozza létre (pl: transzformátor).
 
-   Mozgási indukció körébe azok a jelenségek tartoznak, amikor a vezető mozog az állandó mágneses mezőben.
- - Nyugalmi indukció
-
-   Nyugalmi indukció során a nyugvó vezető környezetében a mágneses mező változik.
-
-## A mozgási indukció
-
-Homogén mágneses mezőben az indukcióvonalakra merőlegesen vezetőszálat helyezünk el. Ha a vezetőszálat a mágneses indukcióra is és a vezetőre is merőleges irányú sebességgel mozgatjuk, akkor a vezetőszál két vége között feszültség mérhető.(Kisérlet!!!)
+##A mozgási indukció
+###Kísérlet:
+Homogén mágneses mezőben az indukcióvonalakra merőlegesen egy vezetőszálat helyezünk el. Ha a vezetőszálat a mágneses indukcióra  és a vezetőre is merőleges irányú sebességgel mozgatjuk, akkor a vezetőszál két vége között feszültség indukálódik és ez mérhető.
 
 A jelenség azzal magyarázható, hogy a vezetőben levő töltések a vezetőszállal együtt a mágneses indukcióvektorra merőlegesen mozognak. Így a töltésekre hat a Lorenz-erő, aminek következtében a vezető egyik vége pozitív a másik negatív töltésű lesz.
 
-A *Lorentz-erő* az elektromágneses térben egy elektromos töltésre ható erő. Ennek két komponense közül az elektromos arányos és egyirányú az elektromos térerősséggel, a mágneses arányos és merőleges a mágneses indukcióra és a töltés sebességére.
+####Lorentz-erő:
+Az elektromágneses térben egy elektromos töltésre ható erő. Ennek két komponense közül az elektromos arányos és egyirányú az elektromos térerősséggel, a mágneses arányos és merőleges a mágneses indukcióra és a töltés sebességére.
 
 *A mágneses mezőben mozgó vezetőben a Lorenz-erő hatására létrejövő töltés- szétválasztást mozgási indukciónak nevezzük.*
 
