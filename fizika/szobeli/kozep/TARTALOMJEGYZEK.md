@@ -1,9 +1,9 @@
 # Középszintű fizika szóbeli tételek
 
- - [A Boyle-Mariotte-törvény](a_boyle_mariotte_torveny)
+ - [A Boyle-Mariotte-törvény](boyle_mariotte.md)
  - [A dinamika alaptörvényei](#)
  - [A termodinamika első főtételének alkalmazása gázokra](#)
- - [Az atommag összetétele](az_atommag_osszetetele_maghasadas_lancreakcio.md)
+ - [Az atommag összetétele](atommag.md)
  - [Egyenes vonalú mozgások](#)
  - [Egyenáramok, Ohm törvénye](egyenaramok_ohm_torvenye.md)
  - [Elektromágneses indukció](#)
