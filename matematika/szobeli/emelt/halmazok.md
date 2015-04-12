@@ -62,24 +62,37 @@ Két típusú végtelen lehet:
 
  - pl számhalmazok. (N, Z, R, C)
 
-A logikai szita formula kettő, illetve három halmaz esetében:
+## Nevezetes ponthalmazok síkban:
 
-## Logikai műveletek:
+Két adott ponttól egyenlő távolságra lévő pontok halmaza – *egyenes*
 
-Logikai függvény értelmezési tartománya bármi lehet, értékkészlete kételemű halmaz {igaz; hamis}
+Egy egyenestől és egy rá nem illeszkedő ponttól egyenlő távolságra lévő pontok halmaza. – *parabola*
 
-Negáció(tagadás) – komplementer halmaz
+*Parabola:* Adott síkban egy pont és egy rá nem illeszkedő egyenes, és azoknak a pontoknak a halmazát a síkban, amelyek a ponttól és az egyenestől egyenlő távolságra vannak, parabolának nevezzük.
 
-Konjunkció(„és” kapcsolat) – két halmaz metszete(két állítás metszete)
+Három adott ponttól egyenlő távolságra lévő pontok halmaza:
 
-Diszjunkció(vagy) – két halmaz uniója
+- *Háromszög oldalfelező merőlegesei* → háromszög köré írható kör középpontja
+  + Itt érdemes az előbbi tétel bizonyítását elmondani ha ezt választottad a tételhez.
 
-Implikáció, és ekvivalencia
+Három egyenestől egyenlő távolságra lévő pontok halmaza:
 
-*de Morgan féle azonosságok*:
+- *Háromszög szögfelezői* → háromszögbe írható kör középpontja
+  + Itt érdemes az előbbi tétel bizonyítását elmondani ha ezt választottad a tételhez. → Cheva tételének megemlítése meglepő húzás lehet.
 
- - A *halmazelméletben* a következők:
- - *Logikában* pedig:
+*Ellipszis:* adott síkban két egymásra nem illeszkedő pont és egy a távolságuknál nagyobb pozitív valós szám, azoknak a pontoknak a halmazát a síkban, amelyeknek a két ponttól mért távolságának az összege az adott szám, ellipszisnek nevezzük.
+
+*Hiperbola:* adott a síkban két pont és egy a távolságuknál kisebb pozitív szám, azoknak a pontoknak a halmazát a síkban, amelyeknek a két ponttól mért távolságának a különbségének az abszolút értéke megegyezik az adott számmal, hiperbolának nevezzük.
+
+## Nevezetes ponthalmazok a térben:
+
+*Gömb:* Egy ponttól azonos távolságban lévő pontok halmaza a térben.
+
+*Paraboloid:* Adott a térben egy pont és egy rá nem illeszkedő sík, és azoknak a pontoknak a halmazát a térben, amelyek a ponttól és a síktól egyenlő távolságra vannak, paraboloidnak nevezzük.
+
+*Ellipszoid:* Adott a térben két egymásra nem illeszkedő pont és egy a távolságuknál nagyobb pozitív valós szám, azoknak a pontoknak a halmazát a térben, amelyeknek a két ponttól mért távolságának az összege az adott szám, ellipszoidnak nevezzük.
+
+*Hiperboloid:* Adott a térben két pont és egy a távolságuknál kisebb pozitív valós szám, azoknak a pontoknak a halmazát a térben, amelyeknek a két ponttól mért távolságának a különbségének az abszolút értéke megegyezik az adott számmal, hiperboloidnak nevezzük.
 
 ## Alkalmazások:
 

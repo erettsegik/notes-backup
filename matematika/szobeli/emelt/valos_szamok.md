@@ -24,8 +24,8 @@ Az N halmazt a természetes számok halmazának nevezzük, ha teljesülnek rá:
 4. bármely n,m eleme [latex inline]\mathbb{N}[/latex]-nek : n+ = m+ => n=m
 5. [latex inline]\mathbb{N}'[/latex] részhalmaza [latex inline]\mathbb{N}[/latex]-nek és [latex inline]\mathbb{N}'[/latex]-ban igaz az első 3 axióma, akkor [latex inline]\mathbb{N}'=\mathbb{N}[/latex]
 (teljes indukció)
-- egyetlen TELJES axióma rendszer. 
-neutrális elem(a nulla) nem tartozik hozzá a peano axiómák szerint, bár elfogadott bizonyos körökben az is, ha hozzávesszük.  
+- egyetlen TELJES axióma rendszer.
+neutrális elem(a nulla) nem tartozik hozzá a peano axiómák szerint, bár elfogadott bizonyos körökben az is, ha hozzávesszük.
 
 
 ### Műveletek a természetes számok halmazán:
@@ -38,7 +38,7 @@ neutrális elem(a nulla) nem tartozik hozzá a peano axiómák szerint, bár elf
 
 Term. számok halmaza ([latex inline]\mathbb{N}[/latex]) + 0 + negatív Term. számok ([latex inline]\mathbb{N}[/latex]-) = az egész számok halmazával ([latex inline]\mathbb{Z}[/latex])
 
-A szorzás invertálhatósága érdekében jöttek létre a racionális számok. → osztás 
+A szorzás invertálhatósága érdekében jöttek létre a racionális számok. → osztás
 
 jele: [latex inline]\mathbb{Q}[/latex]
 
@@ -75,7 +75,7 @@ NEM IGAZ --> tehát  [latex inline]\sqrt{2}[/latex] eleme [latex inline]\mathbb{
 
 Nevezetes irracionális számok: [latex inline]e, pi, fi … [/latex]
 
-A racionális számok és az irracionális számok halmazának úniója ([latex inline]\mathbb{Q}u\mathbb{Q}*=R[/latex]) egyenlő a valós számok halmazával 
+A racionális számok és az irracionális számok halmazának úniója ([latex inline]\mathbb{Q}u\mathbb{Q}*=R[/latex]) egyenlő a valós számok halmazával
 Bármely két racionális szám között van irracionális szám, és bármely két irracionális szám között is.
 minden alapműveletre működik kivéve a negatívból való gyökvonást.
 
@@ -87,12 +87,25 @@ minden alapműveletre működik kivéve a negatívból való gyökvonást.
 [latex inline]\mathbb{C}[/latex] { [latex inline]a+b*i[/latex] | a, b eleme R-nek, [latex inline]i=\sqrt{-1}[/latex] }
 
 ( [latex inline]i = \sqrt{-1}[/latex] – imaginiárius egység, tehát [latex inline]\sqrt{-20} = \sqrt{20} * \sqrt{-1}= \sqrt{20} * i[/latex] )
-a komplex számokat koordináta rendszerben ábrázoljuk, nem számegyenesen. 
+a komplex számokat koordináta rendszerben ábrázoljuk, nem számegyenesen.
 
 [latex inline]a+b*i[/latex], forma
 
 0-val való osztás esetére a komplex számok bővíthetőek [latex inline]+∞, -∞[/latex] - re
 
+## Halmazok számossága:
+
+Egy *véges halmaz számosságán* elemeinek számát értjük. Jelölés: H halmaz számossága:
+
+Egy halmazt véges halmaznak nevezünk, ha nem létezik olyan valódi részhalmaza, amivel ugyanakkora a számossága (ekvivalens lenne). A nem véges halmazokat végtelennek nevezzük.
+
+Két típusú végtelen lehet:
+ - *megszámlálhatóan végtelen*: alef zéró
+ - *nem megszámlálhatóan végtelen*: kontinuum számosság
+
+*Kontinuum-sejtés*: Nem létezik olyan halmaz amelynek számossága az alef zéró és a kontinuum végtelen közé esik. Halmazelmélet ma létező legjobb axiómarendszere szerint a kontinuum sejtést sem bebizonyítani, sem megcáfolni nem lehet.
+
+ - pl számhalmazok. (N, Z, R, C)
 
 ### Átvezető a számelméletre:
 

@@ -1,3 +1,9 @@
 kotesi_osztalyresz_gorbe.png -> http://i.imgur.com/m41CRVd.png
 stabilitasi_gorbe.png        -> http://i.imgur.com/RCj3Fon.png
 csucshatas.png               -> http://i.imgur.com/JWxwflL.png
+And.png                      -> http://i.imgur.com/EvhuQQm.png
+Or.png                       -> http://i.imgur.com/lNOEA2x.png
+Impication.png               -> http://i.imgur.com/Y28cCZE.png
+Ekvivalencia.png             -> http://i.imgur.com/LkAg5v6.png
+deMorgan1.png                -> http://i.imgur.com/iRtcdCe.png
+deMorgan2.png                -> http://i.imgur.com/PCTNS7L.png
