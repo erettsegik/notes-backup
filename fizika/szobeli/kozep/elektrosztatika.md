@@ -1,12 +1,12 @@
 ## Coulomb törvénye
 
-Két pontszerű, elektromos töltéssel rendelkező test között vákuumban fellépő erő nagysága a két test töltésétől, valamint a köztük lévő távolságtól függ ([latex inline]F = k • Q, • Q2 / r2[/latex]).
+Két pontszerű, elektromos töltéssel rendelkező test között vákuumban fellépő erő nagysága a két test töltésétől, valamint a köztük lévő távolságtól függ. ([latex inline]F = k • Q, • Q2 / r2[/latex]).
 
-Ezt az összefüggést Coulomb törvényének nevezzük. A Coulomb törvényhez vezető méréseket Cavendish és Coulomb is torziós ingával végezte el.
+Ezt az összefüggést *Coulomb törvényének* nevezzük. A Coulomb-törvényhez vezető méréseket Cavendish és Coulomb is torziós ingával végezte el.
 
 ## Az elektromos mező
 
-Az elektromosan töltött test vonzó- vagy taszítóerővel hat a környezetében található töltésre. Ez az elektrosztatikus mezőnek tulajdonítható, amely bármilyen elektromosan töltött test körül kialakul. Két elektromosan töltött test – A és B – közötti kölcsönhatást úgy kell elképzelni, hogy az A test által keltett elektromos mező hat a benne lévő B testre, a B test által keltett elektromos mező pedig a benne található A testre. Az elektromos mező gondolatát először Michael Faraday (1791 – 1867) vezette be. Az elektromos mező *homogén*, ha a térerősség mindenütt azonos irányú és nagyságú
+Az elektromosan töltött test vonzó- vagy taszítóerővel hat a környezetében található töltésre. Ez az elektrosztatikus mezőnek tulajdonítható, amely bármilyen elektromosan töltött test körül kialakul. Két elektromosan töltött test – A és B – közötti kölcsönhatást úgy kell elképzelni, hogy az A test által keltett elektromos mező hat a benne lévő B testre, a B test által keltett elektromos mező pedig a benne található A testre. Az elektromos mező gondolatát először Michael Faraday (1791 – 1867) vetette fel. Az elektromos mező *homogén*, ha a térerősség mindenütt azonos irányú és nagyságú.
 
 ## Csúcshatás
 
@@ -20,7 +20,7 @@ A csúcs közelében az erővonalak (daraszemek láncai) sokkal sűrűbbek. Ez a
 
 A fémtestben kialakított üreg belsejébe a külső elektromos mező nem hatol be. A külső fémburok megosztott töltései ugyanis a külső eredetű elektromos mezőt a fémtesten belül nullára változtatja. Minthogy a megosztás jelensége rendkívül gyorsan zajlik le, megállapíthatjuk, hogy a külső mező gyakorlatilag egyáltalán nem hatol az üreg belsejébe. Ezt a hatást nevezzük árnyékolásnak. Ha egy berendezést meg akarunk védeni az elektromos mezőktől, fémházba helyezzük, árnyékoljuk.
 
-Az árnyékoló hatás védi a fémből készült repülőgépek és gépkocsik utasait a villámoktól viharban. Sűrű szövésű fémharisnya védi a mikrofonok, erősítők, rádiók vezetékeit az elektromos zavaroktól.
+Az árnyékoló hatás védi a fémből készült repülőgépek és gépkocsik utasait a villámoktól. Sűrű szövésű fémharisnya védi a mikrofonok, erősítők, rádiók vezetékeit az elektromos zavaroktól.
 
 ## Földelés
 
@@ -28,7 +28,7 @@ Fémtárgyaknak a földdel való vezető összeköttetését földelésnek nevez
 
 ## A kondenzátor
 
-Sok töltés kis helyen történő tárolására szolgáló eszköz a kondenzátor (sűrítő). A kondenzátor legegyszerűbb formája két egymással párhuzamos, egyenlő területű fémlemez, melyek egyikét leföldeljük, ez a síkkondenzátor.
+Sok töltés kis helyen történő tárolására szolgáló eszköz a kondenzátor (sűrítő). A kondenzátor legegyszerűbb formája két egymással párhuzamos, egyenlő területű fémlemez, melyek egyikét leföldeljük. Ez a síkkondenzátor.
 
 ### Kapacitás
 
