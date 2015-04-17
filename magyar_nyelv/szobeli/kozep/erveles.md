@@ -23,7 +23,7 @@
 
 *A premissza és a konklúzió együttesét nevezzük argumetációnak (érvelés)*.
 
-Vannak bizonyos szillogizmusok *(álokoskodások)*
+Vannak téves szillogizmusok *(álokoskodások)*
 
 > Vannak diákok, akik puskáznak
 

@@ -11,7 +11,7 @@ a fő kommunikációs célok lehetnek: *önkifejezés, tájékoztatás, felhív�
 
 közlési folyamat:
 
-![]()
+![Közlési folyamat](http://i.imgur.com/1WoPVrK.jpg)
 
  - a szövegalkotást az *adó* (író, beszélő) végzi → kommunikációs cél
  - a beszélő gondolatai *üzenetben, közleményben* fejeződhetnek ki
@@ -59,11 +59,11 @@ Tényező - típus: példa
 
 ### Az élőszóbeli közlés egyszerűsített sémája
 
-![]()
+![Élőszóbeli közlés](http://i.imgur.com/MQTu5R6.jpg)
 
 ### Az írott közlés egyszerűsített sémája
 
-![]()
+![Írott közlés](http://i.imgur.com/kc0A991.jpg)
 
  - Edison találmányával megjelent az *élőbeszéd technikai rögzítése és továbbítása*, amely napjaink meghatározó kommunikációs lehetőségévé fejlődött → magnószalag, cd, e-mail, fax
  - az élőbeszéd gazdagságát a teljes kommunikációs környezet adja (nyelv eszközei, gesztusok, személyes jelentés stb.)

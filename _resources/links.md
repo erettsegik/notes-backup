@@ -7,8 +7,11 @@ stabilitasi_gorbe.png        -> http://i.imgur.com/RCj3Fon.png
 
 Magyar nyelv
 ------------
+eloszobeli_kozles.jpg        -> http://i.imgur.com/MQTu5R6.jpg
 hagyomanyos_irasmod.jpg      -> http://i.imgur.com/UPngp47.jpg
+irott_kozles.jpg             -> http://i.imgur.com/kc0A991.jpg
 jel_kommunikacio_nyelv.jpg   -> http://i.imgur.com/MLFnv2P.jpg
+maganhangzok_kepzesmodja.jpg -> http://i.imgur.com/NJVf0SV.jpg
 nyelv_tagolodasa.jpg         -> http://i.imgur.com/T4hibMA.jpg
 nyelvi_kozlesfolyamat.jpg    -> http://i.imgur.com/1WoPVrK.jpg
 szoelemzo_irasmod.jpg        -> http://i.imgur.com/cUwHzIv.jpg

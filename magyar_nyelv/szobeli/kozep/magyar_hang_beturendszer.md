@@ -33,7 +33,7 @@ az üreget a nyelv szabályozza a következőképpen:
    + *rövid magánhangzók:* a, e, i, o, ö, u, ü
    + *hosszú magánhangzók:* á, é, í, ó, ú, ű
 
-![]()
+![Magánhangzók képzésmódja](http://i.imgur.com/NJVf0SV.jpg)
 
 ### A mássalhangzók képzése:
 
