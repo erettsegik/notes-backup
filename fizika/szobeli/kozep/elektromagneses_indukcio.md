@@ -5,13 +5,16 @@ Az indukciós jelenségeknek két típusa lehet:
  - Mozgási indukció: vagy a mágneses mező, vagy a vezető, vagy mind a kettő mozog egymáshoz viszonyítva (pl: dinamó).
  - Nyugalmi indukció: sem a vezető, sem a mágneses mező nem mozog. Ebben az esetben az indukciót az időben változó fluxus hozza létre (pl: transzformátor).
 
-##A mozgási indukció
-###Kísérlet:
+## A mozgási indukció
+
+### Kísérlet:
+
 Homogén mágneses mezőben az indukcióvonalakra merőlegesen egy vezetőszálat helyezünk el. Ha a vezetőszálat a mágneses indukcióra  és a vezetőre is merőleges irányú sebességgel mozgatjuk, akkor a vezetőszál két vége között feszültség indukálódik és ez mérhető.
 
 A jelenség azzal magyarázható, hogy a vezetőben levő töltések a vezetőszállal együtt a mágneses indukcióvektorra merőlegesen mozognak. Így a töltésekre hat a Lorenz-erő, aminek következtében a vezető egyik vége pozitív a másik negatív töltésű lesz.
 
-####Lorentz-erő:
+#### Lorentz-erő:
+
 A Lorentz-erő a mágneses tér által kifejtett erő egy áramjárta vezetőre.
 
 *A mágneses mezőben mozgó vezetőben a Lorentz-erő hatására létrejövő töltés- szétválasztást mozgási indukciónak nevezzük.*
@@ -31,7 +34,7 @@ Az indukált feszültség által indított áram irányát Lenz-törvénye alapj
 
 *Az indukált feszültség mindig olyan irányú áramot indít, amelynek hatása akadályozza az őt létrehozó hatást.*
 
-###Jelenség:
+### Jelenség:
 
 A zárt alumíniumgyűrű elmozdul a mágnes elmozdulásának irányába, a nyitott alumíniumgyűrű viszont nyugalomban marad. Ez a jelenség is Lenz-törvényével magyarázható.
 
@@ -39,8 +42,8 @@ A zárt alumíniumgyűrű elmozdul a mágnes elmozdulásának irányába, a nyit
 
 Nyugalmi indukcióról akkor beszélünk, amikor nem a mozgás, hanem a mágneses tér változása az indukált feszültség létrejöttének az oka.
 
+### Kísérlet
 
-###Kísérlet
  - Tekercs belsejében mozgatjuk a mágnest.
  - A középállású feszültségmérő kitérésének iránya a mozgás irányától függ.
  - Az indukált feszültség nagysága függ a mágneses mező változásának sebességétől, és annak a tekercsnek a menetszámától, amelyben a feszültség indukálódik.
@@ -57,4 +60,4 @@ A *kondenzátornak váltakozó árammal szemben* tanúsított ellenállását ka
 Föld mágneses:
 
  - *Iránytű*
- - *Postagalambok, Vándormadarak, Delfinek.* (Néhány állat, amely a mágnesség alapján tájékozódik. Ezen állatok közvetlenül a Föld mágneses mezejében bekövetkező hirtelen és nagy léptékű változásokat érzékelik, mivel rendelkeznek olyan magnetoszómákkal, amelyek kimondottan e célra fejlődtek ki bennük.)
+ - *Postagalambok, vándormadarak, delfinek:* néhány állat, amely a mágnesség alapján tájékozódik. Ezen állatok közvetlenül a Föld mágneses mezejében bekövetkező hirtelen és nagy léptékű változásokat érzékelik, mivel rendelkeznek olyan magnetoszómákkal, amelyek kimondottan e célra fejlődtek ki bennük.

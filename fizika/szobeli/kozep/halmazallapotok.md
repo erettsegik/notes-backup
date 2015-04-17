@@ -8,10 +8,11 @@ Létezik továbbá az ún. plazma állapot.
 
 A részecskék közötti vonzóerőket *intermolekuláris erőknek* nevezzük. A hőmozgás és az intermolekuláris erők nagyságának viszonya határozza meg az anyag halmazállapotát.
 
-*Halmazállapot változások:*
+### Halmazállapot-változások:
+
  - olvadás (szilárd → folyékony) /endoterm/
  - fagyás (folyékony → szilárd) /exoterm/
- - forrás (folyékony → légnemű) / endoterm/
+ - forrás (folyékony → légnemű) /endoterm/
  - lecsapódás (légnemű → folyékony) /exoterm/
  - szublimáció (szilárd → légnemű) /endoterm/
  - párolgás (folyékony → légnemű) /endoterm/
@@ -34,7 +35,7 @@ Az olvadáshő, forráshő, párolgáshő mennyiségeket *latens hőnek* is neve
 
 *Forráspont* az a hőmérsékleti pont, amelyen a mindig jelen lévő buborékokban a telített gőz nyomása eléri a folyadékra nehezedő külső nyomást, tehát nyomásfüggő. Ha csökken a nyomás, akkor alacsonyabb hőfokon van a forráspont.
 
-*Kísérletek:*
+### Kísérletek:
 
 Fecskendőbe vizet felszívni → befogni a végét → kijjebb húzni → forrásnak indul a folyadék
 
@@ -47,6 +48,6 @@ A párolgás sebességét *lehet* befolyásolni:
  - ventilátor
  - hajszárító
 
-*James Prescott Joule:*
+## James Prescott Joule:
 
 Kísérletileg vizsgálta és meghatározta, hogy milyen számszerű kapcsolat van a munka és a belső energia változása között. Joule ismerte fel azt is, hogy a gáznak az edény falára gyakorolt nyomása a részecskék fallal történő ütközéséből származik. Tudományos tevékenységének elismeréseként az Angol Királyi Társaság tagjává választotta. Meghatározta hogy mennyi a kalória és joule közötti arány, a joule-t nyilván róla nevezték el. Tehát megadta a hő mechanikai egyenértékét, azaz azt hogy adott nagyságú mechanikai munka mennyi hőt termel.

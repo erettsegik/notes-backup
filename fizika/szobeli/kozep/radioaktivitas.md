@@ -15,13 +15,13 @@ A Curie házaspár munkáját Nobel-díjjal jutalmazták 1903-ban.
  - *gamma sugárzás:* Nem változik sem a tömegszám sem a rendszám. Nagy energiájú elektromágneses sugárzás. Az atommag gerjesztett állapota szűnik meg.
 
 #### Bomlási törvény:
-[latex]N = N(0) * e - \lambda * t[/latex]
+[latex]N = N_0 * e^{- \lambda * t}[/latex]
 
  - anyagelem amiből-, leány pedig, ami keletkezik
  - λ: bomlási állandó
  - t: idő
  - N: t idő múlva az anyagmennyiség
- - N(0): kiindulási anyagmennyiség
+ - [latex inline]N_0[/latex]: kiindulási anyagmennyiség
 
 #### Felezési idő:
 Az az idő, ami alatt az atommagok fele elbomlik.

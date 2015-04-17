@@ -35,7 +35,7 @@ Boyle-Mariotte-törvény: Adott tömegű (m) és anyagi minőségű gázmennyis�
  - autók robbanómotorja
  - gőzgép
 
-#### Hőméréskleti skálák:
+#### Hőmérsékleti skálák:
  - Fahrenheit:
  A skála alappontja (0 °F) egy speciális keverék hőmérséklete normál légköri nyomáson /víz, jég, szalmiáksó/ – azt gondolta Fahrenheit, hogy nincs ennél alacsonyabb hőmérséklet. 100 F fok a saját testhőmérséklete. Az ezek közötti részt osztotta fel 100 egyenlő részre. Alkohollal töltött üveghőmérőt használt. A mai napig használják angolszász országokban. [°F] = [°C] [latex inline]* \frac{9}{5} + 32[/latex]
  - Celsius: A skála alappontja (0 °C) a víz fagyáspontja. 100 C fok a víz forráspontja. Érdekesség, hogy régen fordítva volt, Celsius tanítványa javaslatára fordította meg a skálát, amit a  mai napig használjuk. Először ő alkalmazott higanyt hőmérőben.

@@ -1,6 +1,7 @@
 ## Coulomb törvénye
 
-Két pontszerű, elektromos töltéssel rendelkező test között vákuumban fellépő erő nagysága a két test töltésétől, valamint a köztük lévő távolságtól függ. ([latex inline]F = k • Q, • Q2 / r2[/latex]).
+Két pontszerű, elektromos töltéssel rendelkező test között vákuumban fellépő erő nagysága a két test töltésétől, valamint a köztük lévő távolságtól függ.
+[latex]F = k * \frac{Q_1 * Q_2}{r^2}[/latex]
 
 Ezt az összefüggést *Coulomb törvényének* nevezzük. A Coulomb-törvényhez vezető méréseket Cavendish és Coulomb is torziós ingával végezte el.
 
@@ -32,7 +33,7 @@ Sok töltés kis helyen történő tárolására szolgáló eszköz a kondenzát
 
 ### Kapacitás
 
-Egységnyi feszültségre jutó töltésmennyiség. [latex inline]C = Q/U[/latex]
+Egységnyi feszültségre jutó töltésmennyiség. [latex inline]C = \frac{Q}{U}[/latex]
 
 ## Michael Faraday
 

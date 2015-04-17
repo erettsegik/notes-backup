@@ -1,0 +1,18 @@
+# Középszintű magyar nyelv szóbeli tételek
+
+ - [Az anyanyelv szerepe az ember életében, a társadalomban és a kommunikációban](anyanyelv_szerepe.md)
+ - [A nyelv szinkron és diakron változásai](nyelv_szinkron_diakron.md)
+ - [Az emberi kommunikáció nem nyelvi formái](emberi_kommunikacio_nem_nyelvi_formai.md)
+ - [A közlésfolyamat tényezői és funkciói](kozlesfolyamat_tenyezoi_es_funkcioi.md)
+ - [Nyelvtörténet: kéziratos és nyomtatott nyelvemlékeink](nyelvtortenet_nyelvemlekeink.md)
+ - [A nyelvújítási mozgalom](nyelvujitasi_mozgalom.md)
+ - [A főbb nyelvváltozatok, a nyelvi sztenderd, a köznyelv, a regionális köznyelv, a nyelvjárások és a csoportnyelvek](fobb_nyelvvaltozatok.md)
+ - [Többnyelvűség, kétnyelvűség, kettősnyelvűség](tobbnyelvuseg.md)
+ - [A magyar helyesírás alapelveinek alkalmazása és magyarázata példákkal](magyar_helyesiras_alapelvei.md)
+ - [Mondattan: az alany, az állítmány, és az egyszerű bővítmények](mondattan.md)
+ - [A magyar hang- és betűrendszer: magán- és mássalhangzók](magyar_hang_beturendszer.md)
+ - [A szóalkotás lehetőségei és módjai](szoalkotas.md)
+ - [Szövegfajták élőszóban és írásban](szovegfajtak.md)
+ - [Az érvelés fajtái, a bizonyítás, a cáfolás és az érvtípusok](erveles.md)
+ - [A tudományos és szakmai stílus sajátosságai](tudomanyos_szakmai_stilus.md)
+ - [A képszerűség stíluseszközei](kepszeruseg_stiluseszkozei.md)
