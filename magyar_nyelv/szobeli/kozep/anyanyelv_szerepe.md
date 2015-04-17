@@ -1,4 +1,4 @@
- - A nyelvészek, antropogusok *3000-6000 nyelvet tartanak számon*, melyek közül *több száz, ezer már kihalt* és túlnyomó többsége veszélyeztetett (elvesztésük pótolhatatlan veszteség)
+ - A nyelvészek, antropológusok *3000-6000 nyelvet tartanak számon*, melyek közül *több száz, ezer már kihalt* és túlnyomó többsége veszélyeztetett (elvesztésük pótolhatatlan veszteség)
  - A *magyar* nyelvünk és kultúránk *kicsiny, elszigetelt*.
  - Magyarországon 10 000 000 magyar anyanyelvű ember van, a határokon túl és szétszórva a világban még kb. 4-5 millió (összesen tehát kb. 15 000 000 ember). Ezen felül beszélik még körülbelül 2 millióan második nyelvként.
  - A világon 42., Európában a 12. nyelv (67-ből) beszélők száma szerint.
