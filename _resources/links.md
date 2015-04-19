@@ -26,3 +26,15 @@ ekvivalencia.png             -> http://i.imgur.com/LkAg5v6.png
 es_kapcsolat.png             -> http://i.imgur.com/EvhuQQm.png
 implikacio.png               -> http://i.imgur.com/Y28cCZE.png
 vagy_kapcsolat.png           -> http://i.imgur.com/lNOEA2x.png
+
+buborekdiagram.png           -> http://i.imgur.com/1XUG6W5.png
+kordiagram.png               -> http://i.imgur.com/DipQvpJ.png
+oszlopdiagram.png            -> http://i.imgur.com/S0beK19.png
+perecdiagram.png             -> http://i.imgur.com/7yZgtDt.png
+pontdiagram.png              -> http://i.imgur.com/00Vo3tf.png
+savdiagram.png               -> http://i.imgur.com/b8pprv6.png
+sugardiagram.png             -> http://i.imgur.com/gdGL8Xt.png
+teruletdiagram.png           -> http://i.imgur.com/AevzjmZ.png
+vonaldiagram.png             -> http://i.imgur.com/Rqy02EL.png
+log_exp_fvek.png             -> http://i.imgur.com/sZpeWmV.png
+nevezetes_kozepek.png        -> http://i.imgur.com/3h5aj9e.png
