@@ -1,4 +1,4 @@
-A *statisztika* adatok gyűjtésével, rendszerezésével és elemzésével foglalkozik. Statisztikai módszereket használnak a mindennapi életben például a gazdaság különböző mutatóinak, az időjárási adatoknak a jellemzésére. A statisztika használata több mint ezer éves (népszámlálások, nyilvántartások).
+A *statisztika* adatok gyűjtésével, rendszerezésével és elemzésével foglalkozik. Statisztikai módszereket használnak a mindennapi életben például a gazdaság különböző mutatóinak, vagy az időjárási adatoknak a jellemzésére. A statisztika használata több mint ezer éves (népszámlálások, nyilvántartások).
 
 Társadalomtudományok alapmódszere.
 
@@ -10,10 +10,10 @@ Társadalomtudományok alapmódszere.
 
 #### Alkalmazások:
  - Szélsőérték problémák esetén
- - statisztikai
+ - Statisztikai feladatoknál
  - Napilapokban, hetilapokban
- - gazdasági elemzésnél
- - Harmonikus közép: teljes útra vett   átlagsebesség
+ - Gazdasági elemzésnél
+ - Harmonikus közép: teljes útra vett átlagsebesség
 
 ## Statisztikai jellemzők:
  - *Adatsokaság* (számadatok, mint halmaz)
@@ -27,9 +27,9 @@ Társadalomtudományok alapmódszere.
  - *Átlag* (számtani közép)
    + pl.: iskolai napló súlyozás nélkül
  - *Súlyozott átlag* (bizonyos értékeket egy számmal megszorzunk fontossági indokkal)
-  + pl.: elektronikus napló súlyozása
+   + pl.: elektronikus napló súlyozása
  - *Relatív gyakoriság* (egy adott elem előfordulási számát osztjuk az összes elem számával)
-  + pl.: elektronikus naplóban a jegyek előfordulása
+   + pl.: elektronikus naplóban a jegyek előfordulása
  - *Szórás* !!KÉPLETEK!!
 
 ## Diagramok:
