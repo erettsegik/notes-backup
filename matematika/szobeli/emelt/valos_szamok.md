@@ -10,10 +10,7 @@ jele: [latex inline]\natural x^2[/latex]
 
 #### definíció1:
 
-A véges halmazok számosságát természetes számoknak nevezzük 5[/latex],
-
-- ha  AnB= 0   |AuB| = |A| + |B|
-- ha  AnB= 0   |AxB| = |A| * |B|
+A véges halmazok számosságát természetes számoknak nevezzük.
 
 #### definíció2:(*Peano-axiómák*)
 
@@ -31,6 +28,12 @@ neutrális elem(a nulla) nem tartozik hozzá a peano axiómák szerint, bár elf
 ### Műveletek a természetes számok halmazán:
 
 összeadás, szorzás (nincs inverzük)
+
+Ha veszünk két diszjunkt(nincs metszetük) halmazt akkor azok számosságának összege egyenlő a két halmaz úniójának számosságával.
+- ha  A ∩ B = 0   |A∪B| = |A| + |B|
+
+Ha veszünk két diszjunkt(nincs metszetük) halmazt akkor azok számosságának szorzata egyenlő a két halmaz descartes szorzatának számosságával. (descartes szorzat ld. halmazok)
+- ha  A ∩ B = 0   |AxB| = |A| * |B|
 
 0 → az összeadásra nézve neutrális elem
 
