@@ -1,12 +1,8 @@
-﻿Ajánlott nyitómondat:
+A valós számokat a természetes számoktól építjük fel.
 
-A valós számokat a természetes számoktól szeretném első körben felépíteni és csak utána kifejteni a tétel többi részét.
+## Természetes számok
 
-## TERMÉSZETES SZÁMOK
-
-[latex]x^3[/latex]
-
-jele: [latex inline]\natural x^2[/latex]
+jele: ℕ
 
 #### definíció1:
 

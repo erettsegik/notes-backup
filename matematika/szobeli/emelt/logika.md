@@ -1,5 +1,7 @@
 A logikai szita formula kettő, illetve három halmaz esetében:
 
+ - |A ⋃ B| = |A| + |B| - |A ⋂ B|
+ - |A ⋃ B ⋃ C| = |A| + |B| + |C| - |A ⋂ B| - |A ⋂ C| - |B ⋂ C| + |A ⋂ B ⋂ C|
 
 ## Logikai műveletek:
 
@@ -18,7 +20,7 @@ Diszjunkció(vagy) – két halmaz uniója
 
 Implikáció:
 
-![Implikiáció](http://i.imgur.com/Y28cCZE.png)
+![Implikáció](http://i.imgur.com/Y28cCZE.png)
 
 A fentiek szerint hamis állításból következhet hamis, hamisból következhet igaz, igazból nem következhet hamis, igazból következhet igaz állítás. Ez tulajdonképpen a "Ha..., akkor..." kijelentésnek felel meg.
 

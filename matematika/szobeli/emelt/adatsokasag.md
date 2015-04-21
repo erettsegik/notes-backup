@@ -31,6 +31,7 @@ Társadalomtudományok alapmódszere.
  - *Relatív gyakoriság* (egy adott elem előfordulási számát osztjuk az összes elem számával)
   + pl.: elektronikus naplóban a jegyek előfordulása
  - *Szórás* !!KÉPLETEK!!
+
 ## Diagramok:
 
 #### Kördiagram
@@ -60,19 +61,27 @@ Társadalomtudományok alapmódszere.
 #### Sugárdiagram
 ![Sugárdiagram](http://i.imgur.com/gdGL8Xt.png)
 
-
 #### A következőkre figyeljünk diagram készítése közben:
  - ha egy diagram túl csicsás és nem látszik rajta a lényeg
  - ha a skálákat elcsúsztatják, könnyen félrevezetheti az embert  
 
 ## Nevezetes közepek:
-#### Harmonikus közép
-H(a;b) !!KÉPLETEK!!; !!KÉPLETEK!!
-#### Mértani közép, Geometriai közép
-G(a;b) !!KÉPLETEK!!; !!KÉPLETEK!!
-#### Számtani közép, Aritmetikai közép
-A(a;b) !!KÉPLETEK!!; !!KÉPLETEK!!
-#### Négyzetes közép, Kvadratikus közép
-Q(a;b) !!KÉPLETEK!!; !!KÉPLETEK!!
+
++ H: Harmonikus közép
+  [latex]H = \frac{n}{\frac{1}{a_1} + \frac{1}{a_2} + \frac{1}{a_3} + ... + \frac{1}{a_n}}[/latex]
+  [latex] H_{a,b} = \frac{2}{\frac{1}{a} + \frac{1}{b}} [/latex]
++ G: Geometriai közép (mértani közép)
+  [latex] G = ^n\sqrt{a_1 * a_2 * a_3 * ... * a_n} [/latex]
+  [latex] G_{a,b} = \sqrt{a * b} [/latex]
++ A: Aritmetikai közép (számtani közép)
+  [latex] A = \frac{a_1 + a_2 + a_3 + ... + a_n}{n} [/latex]
+  [latex] A_{a,b} = \frac{a + b}{2} [/latex]
++ Q: Qvadratikus közép (négyzetes közép)
+  [latex] Q = \sqrt{\frac{a_1^2 + a_2^2 + a_3^2 + ... + a_n^2}{n}} [/latex]
+  [latex] Q_{a,b} = \sqrt{\frac{a^2 + b^2}{2}}
 
 *a ≤ H ≤ G ≤ Q ≤ b* - Ez csak akkor egyenlő, ha *a = b* fenn áll.
+
+### Geometriai interpretáció
+
+![Nevezetes közepek](http://i.imgur.com/3h5aj9e.png)

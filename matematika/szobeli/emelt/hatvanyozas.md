@@ -16,7 +16,7 @@
 
 *Definíció:* ahol a nem negatív valós szám az a nem negatív valós szám amelynek k-adik hatványa an.
 
- [latex] a^{\frac{x}{y}} = ^y\sqrt{a^x} [/latex]
+[latex] a^{\frac{x}{y}} = ^y\sqrt{a^x} [/latex]
 
 ##### A hatványkitevők növekedése egy függvényt formál [latex inline] f(x) = 2^x [/latex]:
 
