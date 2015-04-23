@@ -25,6 +25,8 @@ demorgan_metszet.png         -> http://i.imgur.com/iRtcdCe.png
 demorgan_unio.png            -> http://i.imgur.com/PCTNS7L.png
 ekvivalencia.png             -> http://i.imgur.com/LkAg5v6.png
 es_kapcsolat.png             -> http://i.imgur.com/EvhuQQm.png
+gyokfuggvenyek.png           -> http://i.imgur.com/ZqoHzkL.png
+hatvanyfuggvenyek.png        -> http://i.imgur.com/psZfvCe.png
 implikacio.png               -> http://i.imgur.com/Y28cCZE.png
 kordiagram.png               -> http://i.imgur.com/DipQvpJ.png
 log_exp_fvek.png             -> http://i.imgur.com/sZpeWmV.png
