@@ -44,11 +44,11 @@ Az ellenállásokat, a fogyasztókat, feszültségforrásokat *sorosan*, *párhu
 #### Feszültségmérés:
  - A feszültség mérése párhuzamosan kapcsolt voltmérővel történik.
  - Az ideális voltmérő ellenállása végtelen.
- - Méréshatár kiterjesztéséhez előtét ellenállásra van szükség. Ennek nagysága ahhoz, hogy a méréshatár az n-szeresére nőjön: R(előtét) = (n-1) * R(voltmérő)
+ - Méréshatár kiterjesztéséhez előtét ellenállásra van szükség. Ennek nagysága ahhoz, hogy a méréshatár az [latex inline]n[/latex]-szeresére nőjön: [latex inline]R_{elotet} = (n - 1) * R_{voltmero}[/latex]
 
 #### Áramerősség mérése:
  - Ehhez ampermérőt használunk. Ezt sorosan kapcsoljuk ahhoz a fogyasztóhoz, amin az átfolyó áram erősségét meg kívánjuk határozni.
- - Méréshatár kiterjesztéshez, hogy a méréshatár n-szeresére nőjön sönt ellenállást kell alkalmaznunk: R(sönt) = R(ampermérő) / (n-1)
+ - Méréshatár kiterjesztéshez, hogy a méréshatár [latex inline]n[/latex]-szeresére nőjön, söntellenállást kell alkalmaznunk: [latex inline]R_{sont} = \frac{R_{ampermero}}{n - 1}[/latex]
 
 Az elektromos áram létrejöttéhez elektromos feszültségforrásra van szükség: galvánelem, telep, akkumulátor, generátor, napelem stb.
 
