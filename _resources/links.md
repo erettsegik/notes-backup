@@ -39,3 +39,7 @@ sugardiagram.png             -> http://i.imgur.com/gdGL8Xt.png
 teruletdiagram.png           -> http://i.imgur.com/AevzjmZ.png
 vagy_kapcsolat.png           -> http://i.imgur.com/lNOEA2x.png
 vonaldiagram.png             -> http://i.imgur.com/Rqy02EL.png
+
+Történelem
+----------
+erdely_etnika.png            -> http://i.imgur.com/FbDU1Od.png
