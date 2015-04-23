@@ -11,7 +11,7 @@
    ![Jel, kommunikáció és nyelv viszonya](http://i.imgur.com/MLFnv2P.jpg)
  - A nyelvi közlésfolyamatban több *tényezőnek* van szerepe
 
-   ![Nyelvi közlésfolyamat](http://i.imgur.com/1WoPVrK.jpg)
+   ![Nyelvi közlésfolyamat](http://i.imgur.com/neCe4ph.png)
  - *beszélő:* közölni akar valamit (olykor reflexszerű) → neve adó, jeladó, közlő
  - *hallgató:* akinek az üzenetet szánják (észleli és foagadja) → vevő, befogadó, címzett (ha visszakérdez, már ő az adó)
  - a beszédtevékenység mindkét részről alkotó folyamat

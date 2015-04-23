@@ -11,7 +11,7 @@ a fő kommunikációs célok lehetnek: *önkifejezés, tájékoztatás, felhív�
 
 közlési folyamat:
 
-![Közlési folyamat](http://i.imgur.com/1WoPVrK.jpg)
+![Közlési folyamat](http://i.imgur.com/neCe4ph.png)
 
  - a szövegalkotást az *adó* (író, beszélő) végzi → kommunikációs cél
  - a beszélő gondolatai *üzenetben, közleményben* fejeződhetnek ki
