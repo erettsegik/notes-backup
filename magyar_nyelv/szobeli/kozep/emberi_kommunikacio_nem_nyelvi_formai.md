@@ -5,7 +5,7 @@
    pl: *gesztikuláció* és *mimika*, amely a beszédet is kíséri
  - Ezek az emberi testtel vannak kapcsolatban → *vizuális kommunikáció* - általában nem ölt nyelvi formát
  - Az emberi test többféle csatornán is közvetít egyszerre:
-   + ha ezek összhangban vannak (pl: azt mondja amit gondol) akkor a viseldkedés *kongruens*
+   + ha ezek összhangban vannak (pl: azt mondja amit gondol) akkor a viselkedés *kongruens*
    + ha nincs összhang (pl: műmosoly) akkor az ember gyanakvóvá válik
  - A nagyon visszafogott "testnyelv" ugyanúgy előnytelen, mint a színészkedő, fellengzős
  - A legfontosabb paralingvisztikai (nyelven kívüli) kommunikációs csatornák:
@@ -27,7 +27,7 @@
  - Van jelentése a kultúránként eltérő ugyancsak ösztönös *térközszabályozásnak (proxemika)* → az emberek jellemző terei, a különböző terekben különböző fajta kommunikáció alakul ki
 
    ![Térközszabályozás](http://i.imgur.com/d7sLya3.jpg)
- - minden embernek megvan a *saját térigénye*, de ez különböző kultúránként pl: Japánban kerülik, míg Amerikában, Olaszországban gyakran érintik meg egymást az emberek, vagy tartanak kisebb térközt
+ - Minden embernek megvan a *saját térigénye*, de ez különböző kultúránként pl: Japánban kerülik, míg Amerikában, Olaszországban gyakran érintik meg egymást az emberek, vagy tartanak kisebb térközt
  - Jelentéssel bíró tárgyak, eszközök is vannak a kommunikációban
 
    *Embléma →* maga a test, jel bír jelentőséggel (testalkat, tetoválás, öltözet, ékszerek, jelvények) és "beszéd közbeni" cselekvés pl: dohányzás

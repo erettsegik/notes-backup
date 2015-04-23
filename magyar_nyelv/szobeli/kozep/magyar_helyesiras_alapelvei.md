@@ -13,8 +13,8 @@
 
 ### Kiejtés szerinti alapelv:
 
- - a magyar helyesírás "kiejtés közeli", a kiejtéshez közel álló rendszer (a többi nyelv nem igazán) - a legtöbb szót úgy írjuk le, ahogy kiejtjük
- - fontos ennek az elvnek a betartása, mert a rövid és hosszú magánhangzók között különbség van
+ - A magyar helyesírás "kiejtés közeli", a kiejtéshez közel álló rendszer (a többi nyelv nem igazán) - a legtöbb szót úgy írjuk le, ahogy kiejtjük
+ - Fontos ennek az elvnek a betartása, mert a rövid és hosszú magánhangzók között különbség van
    + rövid-hosszú magánhangzók: irtok-írtok, oda-óda
    + egyes-kettős mássalhangzók: kel-kell, hal-hall
 
@@ -32,17 +32,17 @@ Azért van rá szükség, hogy megőrizzük a korábban megszokott írásmódot,
 
 ![Hagyományos írásmód](http://i.imgur.com/UPngp47.jpg)
 
- - helyesírásunk őriz egy másik hagyományt is, az ly-t
- - ma már a köznyelvben a j és az ly hangértéke ugyanaz, mégis a korábbi rendszer emlékét megőrizzük (lyuk, milyen, gólya, pocsolya stb.)
+ - Helyesírásunk őriz egy másik hagyományt is, az ly-t
+ - Ma már a köznyelvben a j és az ly hangértéke ugyanaz, mégis a korábbi rendszer emlékét megőrizzük (lyuk, milyen, gólya, pocsolya stb.)
 
 ### Egyszerűsítő írásmód:
 
-ésszerű esetekben egyszerűsíthetünk, rövidíthetünk
+Ésszerű esetekben egyszerűsíthetünk, rövidíthetünk
 
-pl: jegygyel → jeggyel (kivéve elválasztásnál és összetett szavak határán)
+Pl: jegygyel → jeggyel (kivéve elválasztásnál és összetett szavak határán)
 
- - toldalékoláskor az egymás mellé kerülő három azonos mássalhangzó esetén (fütty + tyel → füttyel)
- - nem érvényesül az egyszerűsítés családnevekre és az összetett szavakra
+ - Toldalékoláskor az egymás mellé kerülő három azonos mássalhangzó esetén (fütty + tyel → füttyel)
+ - Nem érvényesül az egyszerűsítés családnevekre és az összetett szavakra
 
 
  - A helyesírási elvek a következő eszközökkel valósíthatók meg: *toldalékolás, különírás és egybeírás, kötőjelezés, kis kezdőbetű, idegen szavak leírása, átírása (magyarosítása), rövidítés (mozaikszó), elválasztás, írásjelezés (központozás)*
@@ -51,5 +51,5 @@ pl: jegygyel → jeggyel (kivéve elválasztásnál és összetett szavak határ
    + *egybe- és különírás*
    + *összetett tulajdonnevek*
    + *szaknyelvi kifejezések*
- - ha ismerjük az elemi szabályokat, nem nehéz elboldogulni
- - bizonyos területeken *engedékeny*, különösen a kiejtés terén (tied-tiéd, levő-lévő, felemelkedik-fölemelkedik)
+ - Ha ismerjük az elemi szabályokat, nem nehéz elboldogulni
+ - Bizonyos területeken *engedékeny*, különösen a kiejtés terén (tied-tiéd, levő-lévő, felemelkedik-fölemelkedik)

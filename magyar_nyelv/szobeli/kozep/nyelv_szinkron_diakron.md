@@ -7,16 +7,16 @@
 
 ### Külső (közlési folyamatból adódó) okok:
 
- - az anyagi, szellemi műveltség (életmód) változása
- - társadalmi, történelmi, politikai változás
- - szokások változása
- - tudatos nyelvi ráhatások
+ - Az anyagi, szellemi műveltség (életmód) változása
+ - Társadalmi, történelmi, politikai változás
+ - Szokások változása
+ - Tudatos nyelvi ráhatások
 
 ### Belső (gondolkodásbeli, nyelvi) okok:
 
- - képzettársítás (asszociáció), névátvitel
- - a hangtani, a nyelvtani szerkezet belső mozgásai
- - természetesen a külső okok mind belső nyelvi következményt jelentenek, és a változási folyamat is mindig nyelvi
+ - Képzettársítás (asszociáció), névátvitel
+ - A hangtani, a nyelvtani szerkezet belső mozgásai
+ - Természetesen a külső okok mind belső nyelvi következményt jelentenek, és a változási folyamat is mindig nyelvi
 
 ### Eredmény:
 

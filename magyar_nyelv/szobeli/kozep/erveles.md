@@ -1,22 +1,22 @@
  - *Véleménymondásunk* társadalmi szerepünk kijelölése
- - a retorikus szöveg célja a hatáskeltés, a meggyőzés
-   + a meggyőzés céljának megfelelő egyensúly van a logosz, az etosz és a pátosz között:
+ - A retorikus szöveg célja a hatáskeltés, a meggyőzés
+   + A meggyőzés céljának megfelelő egyensúly van a logosz, az etosz és a pátosz között:
      - *logosz:* az értelmet, a bölcsességet, az igazság keresését jelenti
      - *ethosz:* az erkölcsi elvek rendszerét, erkölcsi tartást jelent
      - *pátosz:* a szónok tehetségét, szenvedélyességét jelenti
- - más meggyőzéséhez *érveket* használunk (véleményünk igazságát kívánja bizonyítani)
- - az érvelő szöveg legfontosabb része a *bizonyítás* → összefüggéseket keres és mutat
- - alapformájában a bizonyító érv három elemből áll:
+ - Más meggyőzéséhez *érveket* használunk (véleményünk igazságát kívánja bizonyítani)
+ - Az érvelő szöveg legfontosabb része a *bizonyítás* → összefüggéseket keres és mutat
+ - Alapformájában a bizonyító érv három elemből áll:
    1. *tétel*
    2. *bizonyíték*
    3. *a tétel és a bizonyíték*
- - a tétel olyan megállapítás, amely valamilyen következtetést fogalmaz meg, ennek előzményét, magyarázatát tartalmazza a bizonyíték, a tételt és a bizonyítékot pedig a harmadik elem kapcsolja össze, ha ez magától értetődő, akkor kihagyható, ekkor *lerövidített érvekről* beszélünk *(ethünéma)*
+ - A tétel olyan megállapítás, amely valamilyen következtetést fogalmaz meg, ennek előzményét, magyarázatát tartalmazza a bizonyíték, a tételt és a bizonyítékot pedig a harmadik elem kapcsolja össze, ha ez magától értetődő, akkor kihagyható, ekkor *lerövidített érvekről* beszélünk *(ethünéma)*
 
 ### Az érvelés módszerei:
 
- - *indukció:* tényekből és bizonyítékokból vonunk le általános következtetést
- - *dedukció:* először megfogalmazunk egy általános tételt (állitást és bizonyítékot - *premisszát*), s ezekből következtetést vonunk le az egyedi esetre vonatkozóan *(konklúzió)*
- - a haladás iránya általánostól az egyesig → *szillogizmus*
+ - *Indukció:* tényekből és bizonyítékokból vonunk le általános következtetést
+ - *Dedukció:* először megfogalmazunk egy általános tételt (állitást és bizonyítékot - *premisszát*), s ezekből következtetést vonunk le az egyedi esetre vonatkozóan *(konklúzió)*
+ - A haladás iránya általánostól az egyesig → *szillogizmus*
    + első (általános) tétel (premissza) → minden ember halandó
    + második tétel (premissza) → szókratész ember
    + következtetés (konklúzió) → tehát szókratész halandó
@@ -33,10 +33,10 @@ Vannak téves szillogizmusok *(álokoskodások)*
 
 Az első tétel csak bizonyos diákokról állitja, hogy puskáznak.
 
- - a *cáfolat* tulajdonképpen kritika → a kritika szó eredeti jelentése: szétválasztás
- - a szakszerű cáfolathoz először pontosan meg kell érteni az ellenfél érveit
- - soha nem az ellenfél személyét támadjuk, hanem érveit, cél a meggyőzés
- - *a cáfolás lehetőségei:*
+ - A *cáfolat* tulajdonképpen kritika → a kritika szó eredeti jelentése: szétválasztás
+ - A szakszerű cáfolathoz először pontosan meg kell érteni az ellenfél érveit
+ - Soha nem az ellenfél személyét támadjuk, hanem érveit, cél a meggyőzés
+ - *A cáfolás lehetőségei:*
    + *kisebbítés:* ellenfeleink kifogásait leszállítjuk, erejét csökkentjük
    + *kételkedés:* a felhozottak hitelességében való bizalmatlanság
    + *tagadás:* az ellenvetés vagy vád egyenes visszautasítása
@@ -44,12 +44,12 @@ Az első tétel csak bizonyos diákokról állitja, hogy puskáznak.
    + *rámutatás:* az ellenfél okfejtésének helytelen voltára való figyelmeztetés
    + *gúny, élc, elmésség*
    + *csúsztatás:* szántszándékkal vagy tudatlanságból hibás érvek használata
- - a bizonyítás-cáfolás eredménye a *meggyőzés*
- - a *reklám* alapvető feladata tájékoztatni a vásárlót és meggyőzni, hogy azt a terméket válassza
- - a reklámiparban gyakran használt eszközök:
+ - A bizonyítás-cáfolás eredménye a *meggyőzés*
+ - A *reklám* alapvető feladata tájékoztatni a vásárlót és meggyőzni, hogy azt a terméket válassza
+ - A reklámiparban gyakran használt eszközök:
    + ismétlés
    + összehasonlítás
    + varázsszó (jelmondat)
    + zene
- - a *politikai propaganda* eszméket vagy elméleteket terjeszt, gyakran illúziókat próbál eladni
+ - A *politikai propaganda* eszméket vagy elméleteket terjeszt, gyakran illúziókat próbál eladni
    + ennek eszközei: általánosítás, címkézés, csúsztatás

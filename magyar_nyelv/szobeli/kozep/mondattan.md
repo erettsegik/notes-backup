@@ -1,72 +1,72 @@
  - Az alany többnyire alanyesetben álló főnév vagy főnévi természetű szó, az állítmány pedig igei vagy névszói jellegű
- - *az állítmány fajtája* szófaja szerint különíthető el: *igei, névszói, névszói-igei*
+ - *Az állítmány fajtája* szófaja szerint különíthető el: *igei, névszói, névszói-igei*
 
 ### Igei állítmány
 
-kifejezheti az alany cselekvését, történést, létezést, birtoklást, és jelölheti az alany valamilyen állapotba kerülését
+Kifejezheti az alany cselekvését, történést, létezést, birtoklást, és jelölheti az alany valamilyen állapotba kerülését
 
- - a létige létezést, birtoklást, az alanynak valamihez való tartozását fejezi ki
- - az igei állítmány igealakja ragozási rendszerével képes kifejezni az alany számát és személyét, a cselekvés módját és idejét, továbbá irányultságát, határozottságát
-   + mivel ezekben a mondatokban az alany el is maradhat, ezt az alakját *nem kifejtett alanynak* nevezzük (pl.: "Jövök!")
-   + a *kell, lehet, illik, tetszik, van, nincs* igéket *személytelen igéknek* nevezzük, mellettük az alany főnévi igenévvel kifejezett cselekvésfogalom
- - az igei állítmányt összetett (analitikus) igealakkal fejezzük ki
+ - A létige létezést, birtoklást, az alanynak valamihez való tartozását fejezi ki
+ - Az igei állítmány igealakja ragozási rendszerével képes kifejezni az alany számát és személyét, a cselekvés módját és idejét, továbbá irányultságát, határozottságát
+   + Mivel ezekben a mondatokban az alany el is maradhat, ezt az alakját *nem kifejtett alanynak* nevezzük (pl.: "Jövök!")
+   + A *kell, lehet, illik, tetszik, van, nincs* igéket *személytelen igéknek* nevezzük, mellettük az alany főnévi igenévvel kifejezett cselekvésfogalom
+ - Az igei állítmányt összetett (analitikus) igealakkal fejezzük ki
 
 ### A névszói és a névszói-igei állítmány
 
- - a névszói állítmány *azonosítást* vagy *minőséget* fejez ki, szófaja leggyakrabban főnév vagy melléknév (pl.: "A sas madár.", "Az ember halandó.")
- - azonosító szerkezet esetén segíthet a mondat állítmányának felismerésében az aktuális mondattagolás, a téma-réma szerkezet (téma: régi elem, réma: új elem), a hangsúlyos és hangsúlytalan mondategységek
- - mivel a névszói állítmány csak egyes szám harmadik személyű, kijelentő módú, jelen idejű alak esetén áll magában - ha megváltoztatjuk az alany számát és személyét, vagy az időt és a módot, névszói-igei állítmányt hozunk létre
+ - A névszói állítmány *azonosítást* vagy *minőséget* fejez ki, szófaja leggyakrabban főnév vagy melléknév (pl.: "A sas madár.", "Az ember halandó.")
+ - Azonosító szerkezet esetén segíthet a mondat állítmányának felismerésében az aktuális mondattagolás, a téma-réma szerkezet (téma: régi elem, réma: új elem), a hangsúlyos és hangsúlytalan mondategységek
+ - Mivel a névszói állítmány csak egyes szám harmadik személyű, kijelentő módú, jelen idejű alak esetén áll magában - ha megváltoztatjuk az alany számát és személyét, vagy az időt és a módot, névszói-igei állítmányt hozunk létre
 
 ## Az alany szófaja és fajtái
 
- - az alany rendszerint alanyesetben álló *főnév* vagy *főnévi jellegű* szófaj
- - az alany lehet *kifejtett* vagy *nem kifejtett*
- - az alany gyakran cselekvést kifejező főnévi igenév (a személytelen igék mellett)
- - a többi *névszó* is állhat alanyként, leggyakrabban a *személyes* vagy *mutató névmás*
- - *az alany alakja:* mindig alanyesetben áll, viszonyragja nincs, csak igenévi és birtokos személyrag kapcsolódhat hozzá
- - *az alany fajtái:*
+ - Az alany rendszerint alanyesetben álló *főnév* vagy *főnévi jellegű* szófaj
+ - Az alany lehet *kifejtett* vagy *nem kifejtett*
+ - Az alany gyakran cselekvést kifejező főnévi igenév (a személytelen igék mellett)
+ - A többi *névszó* is állhat alanyként, leggyakrabban a *személyes* vagy *mutató névmás*
+ - *Az alany alakja:* mindig alanyesetben áll, viszonyragja nincs, csak igenévi és birtokos személyrag kapcsolódhat hozzá
+ - *Az alany fajtái:*
    + határozott
    + határozatlan (valaki, bárki, akárki)
- - *az általános alany:*
+ - *Az általános alany:*
    + minden, mindenki, semmi, senki
    + általános értelmű főnévvel (világ, ember)
    + többes szám, első személyű igealakkal
- - az alany *elmaradásának* speciális esetei
+ - Az alany *elmaradásának* speciális esetei
    + tapadásos alanyi (következtetni lehet → pl.: "Terítve van" (az asztal))
    + alanytalan mondat (pl.: "Esik.")
 
 ### Az alany és az állítmány egyeztetése
 
- - alaki egyeztetés (szám, személy)
- - értelmi egyeztetés (jelentéshez alkalmazkodik)
- - több alannyal: alaki és értelmi is lehet
- - ha az alanyok különböző számúak és személyűek, az állítmány mindig a többes számú és a legkisebb nyelvtani személyhez igazodik (értelmi egyeztetés)
+ - Alaki egyeztetés (szám, személy)
+ - Értelmi egyeztetés (jelentéshez alkalmazkodik)
+ - Több alannyal: alaki és értelmi is lehet
+ - Ha az alanyok különböző számúak és személyűek, az állítmány mindig a többes számú és a legkisebb nyelvtani személyhez igazodik (értelmi egyeztetés)
 
 ## Az egyszerű mondat bővítményei
 
- - az igés mondatformában *az ige állítményként a mondat magja*, amelyhez szorosabban vagy lazábban egyéb mondatrészek kapcsolódnak
- - ezek az ige *lehetséges* vagy *fakultatív bővítményei*
- - némely ige jelentésének vannak *kötelező bővítményei*, vagyis *vonzatai*
-   + az ige legfőbb vonzatai: *a tárgyas ige tárgya* (néz valamit), az *állandó határozók* (vágyik valamire), az *igekötők által irányt kifejező határozók* (benéz valamibe)
-   + a kötelező bővítmények megadják a mondat gerincét, a szabad szerkezettagok pedig árnyalják és testesítik a közlést
-   + az igenemek is meghatározzák a létrejövő mondatformát
+ - Az igés mondatformában *az ige állítményként a mondat magja*, amelyhez szorosabban vagy lazábban egyéb mondatrészek kapcsolódnak
+ - Ezek az ige *lehetséges* vagy *fakultatív bővítményei*
+ - Némely ige jelentésének vannak *kötelező bővítményei*, vagyis *vonzatai*
+   + Az ige legfőbb vonzatai: *a tárgyas ige tárgya* (néz valamit), az *állandó határozók* (vágyik valamire), az *igekötők által irányt kifejező határozók* (benéz valamibe)
+   + A kötelező bővítmények megadják a mondat gerincét, a szabad szerkezettagok pedig árnyalják és testesítik a közlést
+   + Az igenemek is meghatározzák a létrejövő mondatformát
 
 ### A tárgy:
 
-azt nevezi meg, amire a cselekvés irányul - iránytárgy (pl.: "Hoztam *kenyeret*."), illetőleg, ami a cselekvés eredményeképpen létrejön - eredménytárgy (pl.: "*Vacsorát* készítek.")
+Azt nevezi meg, amire a cselekvés irányul - iránytárgy (pl.: "Hoztam *kenyeret*."), illetőleg, ami a cselekvés eredményeképpen létrejön - eredménytárgy (pl.: "*Vacsorát* készítek.")
 
- - a tárgy szófaja *főnév* vagy *főnévi jellegű szó*
- - kettős tárgyú mondat (alaptag + főnévi igenév) → "Hallottam az *esőt nevetni*."
- - összetett alakú tárgy a létigés szerkezettel → "Szeretnék *tanár lenni*."
+ - A tárgy szófaja *főnév* vagy *főnévi jellegű szó*
+ - Kettős tárgyú mondat (alaptag + főnévi igenév) → "Hallottam az *esőt nevetni*."
+ - Összetett alakú tárgy a létigés szerkezettel → "Szeretnék *tanár lenni*."
 
 #### A tárgy alakja
 
- - jelölt: -t tárgyrag
- - jelöletlen: "Csókoljad arcom" (Ady)
- - határozott: az igei alaptag tárgyas ragozású → "Visszahoztam a *lemezedet*."
+ - Jelölt: -t tárgyrag
+ - Jelöletlen: "Csókoljad arcom" (Ady)
+ - Határozott: az igei alaptag tárgyas ragozású → "Visszahoztam a *lemezedet*."
 
    3\. személyű esetek: "*Sört* is hozz!", "*Bélát* keresem."
- - határozatlan: alanyi ragozású igei alaptagot kíván maga mellé
+ - Határozatlan: alanyi ragozású igei alaptagot kíván maga mellé
    1. nincs birtokos személyjel: "*Csodákat* művelsz."
    2. kérdő, vonatkozó, határozott vagy általános névmás: "*Valamit* olvas."
    3. az előző névmások jelzői: "Milyen könyvet olvasol?"
@@ -74,13 +74,13 @@ azt nevezi meg, amire a cselekvés irányul - iránytárgy (pl.: "Hoztam *kenyer
    5. melléknévi vagy számnévi mutató névmás: "Vegyél amilyet akarsz."
 
 
- - *iránytárgy* (a cselekvésre irányul)
- - *eredménytárgy* (a cselekvés eredményeképpen jön létre)
- - *határozói értékű tárgy* (jelentését tekintve határozók): "*Mit* integettek, vén hegyek?"
+ - *Iránytárgy* (a cselekvésre irányul)
+ - *Eredménytárgy* (a cselekvés eredményeképpen jön létre)
+ - *Határozói értékű tárgy* (jelentését tekintve határozók): "*Mit* integettek, vén hegyek?"
 
 ### A határozó:
 
-jellemzője a *háromirányúság - az előzmény-, tartam- és véghatározó* szerint rendezett határozók
+Jellemzője a *háromirányúság - az előzmény-, tartam- és véghatározó* szerint rendezett határozók
 
 1. hely
 2. időféle
@@ -90,10 +90,10 @@ jellemzője a *háromirányúság - az előzmény-, tartam- és véghatározó* 
 6. egyéb állandó jellegű
 
 
- - a határozó alaptagja *ige* vagy *igenévvel* kifejezett mondatrész
- - a határozó másik típusa *névszói* alaptag bővítménye
- - a határozó szófaja leggyakrabban ragos vagy névutós főnév vagy főnévi névmás
- - a határozó alakja:
+ - A határozó alaptagja *ige* vagy *igenévvel* kifejezett mondatrész
+ - A határozó másik típusa *névszói* alaptag bővítménye
+ - A határozó szófaja leggyakrabban ragos vagy névutós főnév vagy főnévi névmás
+ - A határozó alakja:
    + ragos névszó: "*Hajón* megyek Pestre."
    + névutós névszó: "*A barlang közepén* üst alatt tűz égett."
    + határozói igenév: "*Sietve* kapott magára néhány ruhát."
@@ -132,7 +132,7 @@ Az állandó határozó vonzatszerű (kalandból)
 
 ### A jelző
 
-a jelzett szó minőségét, mennyiségét, birtoklását fejezi ki
+A jelzett szó minőségét, mennyiségét, birtoklását fejezi ki
 
 #### Minőségjelző
 
@@ -140,8 +140,8 @@ a jelzett szó minőségét, mennyiségét, birtoklását fejezi ki
  - kijelölő jelző - kiemelő jellegű (legmagasabb)
 
 
- - a minőségjelző általában nem egyezik meg a jelzett szavával, nem veszi fel annak rangját, jelét
- - a minőségjelző megelőzi a jelzett szót
+ - A minőségjelző általában nem egyezik meg a jelzett szavával, nem veszi fel annak rangját, jelét
+ - A minőségjelző megelőzi a jelzett szót
 
 *a minőségjelző szófaja:*
 
@@ -150,7 +150,7 @@ a jelzett szó minőségét, mennyiségét, birtoklását fejezi ki
  - melléknévi névmás (bármelyik)
  - főnév (elefántcsont)
 
-a tulajdonnévi minőségjelző:
+A tulajdonnévi minőségjelző:
 
  - főnévi névmás (ugyanazok)
  - sorszámnév (negyedik)
@@ -164,13 +164,13 @@ a tulajdonnévi minőségjelző:
 
 #### Birtokosjelző
 
- - alaptag a birtokszó, a jelsző a birtokosszó
- - ragos, ragtalan
+ - Alaptag a birtokszó, a jelsző a birtokosszó
+ - Ragos, ragtalan
 
 #### Értelmezőjelző
 
- - mindig alaptagja után áll
- - utólag értelmezi a jelzett szóban megjelölt dolgot
- - minőség-, mennyiség-, illetve birtokos jelzőnek felel meg (pl.: "Vettem húst is, *két kilót*.", "Láttam két nagy szemet, *bogárzót*."
- - általában a jelzett szava mögé áll, de néha közéékelődik
- - külön hangsúly esik az értelmezőre
+ - Mindig alaptagja után áll
+ - Utólag értelmezi a jelzett szóban megjelölt dolgot
+ - Minőség-, mennyiség-, illetve birtokos jelzőnek felel meg (pl.: "Vettem húst is, *két kilót*.", "Láttam két nagy szemet, *bogárzót*."
+ - Általában a jelzett szava mögé áll, de néha közéékelődik
+ - Külön hangsúly esik az értelmezőre

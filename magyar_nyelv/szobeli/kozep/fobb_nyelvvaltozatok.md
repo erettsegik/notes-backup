@@ -1,16 +1,16 @@
  - A *kis- és nagyközösségek, csoportok* - olykor alig észrevehető módon, máskor kirívóan - szokásokban, normákban eltérnek egymástól
-   + nyelvközösséget alkotnak
-   + a *nyelvközösség* tagjai azonos nyelvváltozatot beszélnek, gyakrabban érintkeznek egymásssal, mint más közösségek tagjaival
+   + Nyelvközösséget alkotnak
+   + A *nyelvközösség* tagjai azonos nyelvváltozatot beszélnek, gyakrabban érintkeznek egymásssal, mint más közösségek tagjaival
  - *A nyelvváltozat nem önálló nyelv*
    + szókészlet rétegződésről kell beszélnünk → legfontosabb tényezői: a földrajzi, társadalmi hovatartozás, a foglalkozás, az életkor, a magatartás, az írásbeliség - szóbeliség és a témakör, amiről éppen beszélgetünk
  - *Minden ember több nyelvközösségnek a tagja*
  - Nyelvváltozataink, *nyelvhasználati módunk*, *kódunk*, és ezek alkalmazásai, a *kódváltások* legalább annyira jellemeznek bennünket (pl: öltözködés)
  - Minden embernek van csak őrá jellemző nyelvhasználata (*szavajárás* - tudományosan *idiolektus*)
  - A *családi (familiáris) nyelvhasználat* ugyancsak sok eredetiséget mutat
-   + családi szóláskészlet alakulhat ki, szövegek pl: este: "fellőtték már a pizsamát"
+   + családi szóláskészlet alakulhat ki, szövegek (pl: este: "fellőtték már a pizsamát")
  - Minden nyelvre jellemző vonás, hogy földrajzilag (vízszintesen) és társadalmilag (függőlegesen, szociológiai szempontból) tagolódik
- - *földrajzi* tagolódásból születnek a *nyelvjárások (dialektusok)*
- - *társadalmi* tagolódásból szletnek a *szociolektusok (csoportnyelvek, szaknyelvek, korosztályi és rétegnyelvek)*
+ - *Földrajzi* tagolódásból születnek a *nyelvjárások (dialektusok)*
+ - *Társadalmi* tagolódásból szletnek a *szociolektusok (csoportnyelvek, szaknyelvek, korosztályi és rétegnyelvek)*
 
 A legfontosabb nyelvváltozatokat, *szókészleti rétegeket* így ábrázolhatjuk:
 

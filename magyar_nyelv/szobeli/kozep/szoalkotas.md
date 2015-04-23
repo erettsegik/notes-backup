@@ -8,14 +8,14 @@ A legrégebbi szavaink alapvető fontosságúak, ezek alkotják az *ősi, eredet
 
 Az *idegen nyelvekből átvett szavak csoportja* a más népekkel való érintkezés során keletkezett. (Ősiráni, alán, perzsa és török jövevényszavak.)
  - pl.: tehén, tej, híd, betű, vám
- - természetes, hogy átadó nyelvként a három nagy indoeurópai nyelvcsaláddal is kapcsolatba kerültünk. (Szláv, germán, újlatin.)
+ - Természetes, hogy átadó nyelvként a három nagy indoeurópai nyelvcsaláddal is kapcsolatba kerültünk. (Szláv, germán, újlatin.)
    + pl.: udvar, rozs, megye
- - latinból átvett szavaink
+ - Latinból átvett szavaink
    + pl.: iskola, templom, sekrestye → kereszténység
 
 A *belső keletkezésű szavak* közé azok a szavak tartoznak, amelyek nem külső hatásra jöttek létre (tárgyak, fogalmak, gazdasági élet szavai)
 
-két nagy csoportjuk:
+Két nagy csoportjuk:
 
  - *szóteremtés:* nincs kapcsolatuk a korábbi nyelvi elemekkel, érzelmi hangkitörés és a hangalakkal való tartalmi kifejezés
    + *indulatszavak:* természetes hangkitörés, váratlan érzéki benyomás kifejezése
@@ -28,8 +28,8 @@ két nagy csoportjuk:
 
 ### A szóalkotás ritkább módjai:
 
- - két leggyakoribb módja a képzés és az összetétel
- - különösen a XX. században tapasztaljuk némelyik ritkább szóalkotási mód - főként a mozaikszók - előtérbe kerülését
+ - Két leggyakoribb módja a képzés és az összetétel
+ - Különösen a XX. században tapasztaljuk némelyik ritkább szóalkotási mód - főként a mozaikszók - előtérbe kerülését
  - *szóelvonás:* egy látszólagos vagy rosszul tagolt szóból egy addig nem létező alapszót vonunk el (vád-vádol)
  - *szórövidülés:* csak a szó eleje vagy vége marad meg (köszönöm-kösz)
  - *szóvegyülés:* két rokon jelentésű szó hangalakjának keveredésével jön létre az új szó (csupa × kopasz: csupasz)
@@ -39,5 +39,5 @@ két nagy csoportjuk:
    + szóeleji betűcsoportokból állnak össze (pl.: MAHART - Magyar Hajózási Részvénytársaság)
  - *Népetimológia vagy szóértelmesítés:* idegen, nehezen értelmezhető új szót, már ismert szóhoz hasonlóvá formálunk (pl.: latin tuberosa → tubarózsa, török kara kárna → kárókatona)
 
-   játékos hangulatú népetimológiák, szándékos torzítással (pl.: nyugdíjas → nyögdíjas)
- - bár nyelvünkben ezek a szavak már meghonosodtak, mégis ügyelnünk kell használatukra és helyesírásukra (pl.: képmutat szó így használva nem helyes)
+   Játékos hangulatú népetimológiák, szándékos torzítással (pl.: nyugdíjas → nyögdíjas)
+ - Bár nyelvünkben ezek a szavak már meghonosodtak, mégis ügyelnünk kell használatukra és helyesírásukra (pl.: képmutat szó így használva nem helyes)
