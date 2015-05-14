@@ -30,7 +30,8 @@ Társadalomtudományok alapmódszere.
    + pl.: elektronikus napló súlyozása
  - *Relatív gyakoriság* (egy adott elem előfordulási számát osztjuk az összes elem számával)
    + pl.: elektronikus naplóban a jegyek előfordulása
- - *Szórás* !!KÉPLETEK!!
+ - *Szórás:*
+   [latex]s = \sqrt{\sum_{i = 1}^n \frac{(x_i - <x>)^2}{n}} \text{, ahol } <x> = \sum_{i = 1}^n \frac{x_i}{n}[/latex]
 
 ## Diagramok:
 
@@ -41,7 +42,7 @@ Társadalomtudományok alapmódszere.
 ![Oszlopdiagram](http://i.imgur.com/S0beK19.png)
 
 #### Vonaldiagram
-![Vonaldiagram]( http://i.imgur.com/Rqy02EL.png)
+![Vonaldiagram](http://i.imgur.com/Rqy02EL.png)
 
 #### Sávdiagram
 ![Sávdiagram](http://i.imgur.com/b8pprv6.png)
@@ -62,7 +63,7 @@ Társadalomtudományok alapmódszere.
 ![Sugárdiagram](http://i.imgur.com/gdGL8Xt.png)
 
 #### A következőkre figyeljünk diagram készítése közben:
- - ha egy diagram túl csicsás és nem látszik rajta a lényeg
+ - ha egy diagram túl csicsás, nem látszik rajta a lényeg
  - ha a skálákat elcsúsztatják, könnyen félrevezetheti az embert  
 
 ## Nevezetes közepek:
@@ -80,7 +81,7 @@ Társadalomtudományok alapmódszere.
   [latex] Q = \sqrt{\frac{a_1^2 + a_2^2 + a_3^2 + ... + a_n^2}{n}} [/latex]
   [latex] Q_{a,b} = \sqrt{\frac{a^2 + b^2}{2}}
 
-*a ≤ H ≤ G ≤ Q ≤ b* - Ez csak akkor egyenlő, ha *a = b* fenn áll.
+*a ≤ H ≤ G ≤ Q ≤ b* - Ezek csak akkor egyenlőek, ha *a = b* fennáll.
 
 ### Geometriai interpretáció
 
