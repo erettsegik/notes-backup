@@ -3,7 +3,7 @@ A görögök átvették a tengeri uralmat, és megkezdődött a *görög gyarmat
 
 *Athén* a korszakban *arisztokratikus köztársaság* volt, azaz minden politikai hatalmat a nagybirtokos arisztokrata tisztségviselők gyakoroltak. Az állam élén a *9 arkhón* állt, akit (végül) évente választottak. Az államügyek és az arkhónok irányítása érdekében kezdődött meg a démosz polgárjogi küzdelme Athénban.
 
-*Drakón* arkhón *Kr.e. 621-ben* írásba foglalta a törvényeket, ezzel megakadályozva a szokásjog önkényes értelmezését. Ugyan még az arisztokrácia érdekeit védték, de a *hoplita* harcosok (parasztok, kézművesek) térnyerése a nemesi hadakkal szemben megnövelte a démosz befolyását a hadseregben.
+*Drakón* *Kr.e. 621-ben* írásba foglalta a törvényeket, ezzel megakadályozva a szokásjog önkényes értelmezését. Ugyan még az arisztokrácia érdekeit védték, de a *hoplita* harcosok (parasztok, kézművesek) térnyerése a nemesi hadakkal szemben megnövelte a démosz befolyását a hadseregben.
 
 *Szolón* arkhónságához (Kr.e. 594.) új alkotmány megalkotása köthető, amely (a Kr.e. 570-es évekig tartva) megszüntette a belső ellentéteket Athénban. A politikai jog alapja a vagyon lett *(timokrácia)*, ezzel Athénban *timokratikus rendszer* alakult ki. A társadalmat a következő vagyoni csoportok szerint osztotta be:
 
