@@ -1,18 +1,17 @@
-*Németország* területén a történelem során több szerveződés, állam is létezett: a *Német-Római Birodalom (962-1806)*, a Rajnai Szövetség (Napóleon alatt) és a *Német Szövetség=Bund (1815 után) fogta össze a német területeket*, ám nem alakult ki egységes német állam.
+*Németország* területén a történelem során több szerveződés, állam is létezett: a *Német-Római Birodalom (962-1806)*, a Rajnai Szövetség (Napóleon alatt) majd a *Német Szövetség = Bund (1815 után) fogta össze a német területeket*, ám nem alakult ki egységes német állam.
 
 *1848-ban forradalmi úton* próbálták ezt elérni, de sikertelenül.
 
-Ezután merült föl a *dinasztikus út* gondolata; két elképzelés is napvilágot látott. A *kisnémet terv* Ausztria kizárásával, a protestáns *Hohenzollern-dinasztia* és *Poroszország* vezetésével (szoros szövetség), míg a *nagynémet terv* a katolikus *Habsburg-dinasztia* és *Ausztria* vezetésével kívánta a német egységet végrehajtani (laza szövetség) a Hb. birodalom nem német tartományai is beletartoztak volna. Poroszország és Ausztria versengtek az egység-folyamat vezetéséért.Több ok miatt végül a kisnémet terv jutott érvényre.
+Ezután merült föl a *dinasztikus út* gondolata; két elképzelés is napvilágot látott. A *kisnémet terv* Ausztria kizárásával, a protestáns *Hohenzollern-dinasztia* és *Poroszország* vezetésével (szoros szövetség), míg a *nagynémet terv* a katolikus *Habsburg-dinasztia* és *Ausztria* vezetésével kívánta a német egységet végrehajtani (laza szövetség) melybe a Habsburg birodalom nem német tartományai is beletartoztak volna. Poroszország és Ausztria versengtek az egység-folyamat vezetéséért. Több ok miatt végül a kisnémet terv jutott érvényre, ezek a következők:
 
-Okok:
-1. Egységesebb volt a német gazdaság , hiszen a *Zollverein – Vámszövetség* 1839-től segítette a gazdaság integrációját. (Ennek Ausztria nem volt része.)
+1. Egységesebb volt a német gazdaság , hiszen a *Zollverein (Vámszövetség)* 1839-től segítette a gazdaság integrációját. (Ennek Ausztria nem volt része.)
 2. 1848 forradalmai után Németország területén hatalmas mértékű gazdasági fejlődés indult, elsősorban a *nehézipar* és a *gépgyártás* területén. Mindennek az élén *Poroszország* járt, mivel itt volt található a térség két legfejlettebb iparvidéke, *Szilézia* és a *Ruhr-vidék*.
 3. Rendkívüli ütemű volt a vasútépítés.
 4. Modernizált mezőgazdasága volt.
 5. Poroszország államformája már alkotmányos monarchia volt, kormánya élére *1862-ben* *Otto von Bismarck*, a *„vaskancellár”* került. Ő a német egységet nem reformok, hanem háború útján látta megvalósíthatónak, ezért a liberális többségű parlament megkerülésével keresztülvitt egy jelentős hadseregreformot (1862): 3 éves általános hadkötelezettséget vezetett be, és a haderőt modern fegyverekkel szerelte fel (pl. a poroszok használtak először hátultöltős, *Dreyser-féle puskát*). Ütőképesebb volt a porosz hadsereg.
 6. Ragyogó felkészültségű hadvezetése volt Poroszországnak. (Moltke)
 
-A két nagyhatalom versengése az 1860-as években éleződött ki, amikor 1863-ban Ferenc József a frankfurti birodalmi gyűlésen sikertelenül császárrá akarta választatni magát és az 1864-es *Schleswig-Holstein-i konfliktus (1864)* során. Akkor még együtt szálltak harcba a két tartományért Dánia ellen, és közösen meg is nyerték a háborút; az északi *Schleswig* porosz, míg a déli *Holstein* osztrák ellenőrzés alá került. A Habsburgok területcserével (Szilézia) próbálták a helyzetet megoldani (Holstein messze volt), amit persze a poroszok nem hagytak; végül kitört a *porosz-osztrák háború (1866)*.
+A két nagyhatalom versengése az 1860-as években éleződött ki, amikor 1863-ban Ferenc József a frankfurti birodalmi gyűlésen sikertelenül császárrá akarta választatni magát, majd az 1864-es *Schleswig-Holstein-i konfliktus (1864)* során. Akkor még együtt szálltak harcba a két tartományért Dánia ellen, és közösen meg is nyerték a háborút; az északi *Schleswig* porosz, míg a déli *Holstein* osztrák ellenőrzés alá került. A Habsburgok területcserével (Szilézia) próbálták a helyzetet megoldani (Holstein messze volt), amit persze a poroszok nem hagytak; végül kitört a *porosz-osztrák háború (1866)*.
 
 Poroszország megszerezte Olaszországot szövetségesnek, és területekért cserébe III. Napóleon sem avatkozott be Ausztria oldalán. Ausztria nem számíthatott Oroszország támogatására, elszigetelődött, szövetséges nélkül maradt a háborúban. Az olasz fronton (Custozza) az osztrákok győztek,de a döntő csatára *Königgrätz-Sadowánál* került sor. Itt Poroszország aratott győzelmet.
 
@@ -22,15 +21,15 @@ Ezután a poroszoknak *Franciaországgal* kellett szembenézniük, akik nem tűr
 
 *1871. január 18-án*, a versailles-i palota tükörtermében kikiáltották a *Német Császárságot*, amelyhez ekkor csatlakoztak a délnémet államok is.
 
-Németországhoz csatolták *Elzász-Lotaringiát* is, és 5 milliárd frank hadisarc kifizetéséig fennmaradt a német megszállás Franciaországban.
+Németországhoz csatolták *Elzász-Lotharingiát* is, és 5 milliárd frank hadisarc kifizetéséig fennmaradt a német megszállás Franciaországban.
 
 Mindezen események jelentős csorbát ejtettek a franciák becsületén, amelyet később visszafizettek az első világháború után.
 
 A Német Császárság *szövetségi állam* és *alkotmányos monarchia* volt. Császára a mindenkori porosz király *(I. Vilmos, 1871-1888)*, a mindenkori szövetségi kancellár pedig a mindenkori porosz kancellár lett (Bismarck 1871-1890).
 
-A törvényjavaslatok és a költségvetés jóváhagyása a *Reichstag (birodalmi gyűlés)* jogköre=törvényhozó testület.
+A törvényjavaslatok és a költségvetés jóváhagyása a *Reichstag (birodalmi gyűlés)* jogköre - törvényhozó testület.
 
-A szövetségi tanácsot (Bundesrat) a szövetségi államok küldöttei alkották. Hatásköre a közös ügyekre=hadügy, külügy, pénzügyre terjedt ki.
+A szövetségi tanácsot (Bundesrat) a szövetségi államok küldöttei alkották. Hatásköre a közös ügyekre (hadügy, külügy, pénzügy) terjedt ki.
 
 A végrehajtóhatalmat a kormány gyakorolja, vezetője a kancellár, a külügyek teljhatalmú irányítója.
 

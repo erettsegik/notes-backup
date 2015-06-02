@@ -12,7 +12,7 @@ A fenti folyamatok jelentős változásokat idéztek elő Magyarország etnikai 
 
 A *magyarság teljes társadalmat* alkotott, azaz minden feudális réteg képviseltette magát (a másik ilyen a horvát volt). A társadalom tetejét a *nemesség (4-5%)* alkotta, akiket is a kb. 150 családból (pl. Esterházy, Batthyány, Festetics, Grassalkovich) álló *aulikus (udvarhű) arisztokrácia* ékesített. A jómódú köznemesség (kb. 700-800 család) vármegyei pozíciókat töltött be, de döntő többségük kisbirtokos, vagy birtoktalan *(armalista)* nemes volt; a nemesség körében döntően a református, evangélikus és katolikus tanok terjedtek el. A polgárság száma csekély volt, a társadalom többségét a *parasztság* tette ki, akik helyzetén a vándorlások nem változtattak.
 
-A legnépesebb nemzetiség a *román* volt (1,5 millió). *Csonka társadalmat* alkottak, hiányzott a vezető réteg (a földesurak többsége elmagyarosodott). Elsősorban Erdélyben telepedtek le, görögkatolikus vallásúak voltak, papságuk vezetésével, *Balázsfalva* székhellyel, később a román nemzeti mozgalom jött létre (XIX.század).
+A legnépesebb nemzetiség a *román* volt (1,5 millió). *Csonka társadalmat* alkottak, hiányzott a vezető réteg (a földesurak többsége elmagyarosodott). Görögkatolikus vallásúak voltak, elsősorban Erdélyben telepedtek le, papságuk vezetésével, *Balázsfalva* székhellyel, később román nemzeti mozgalom jött létre (XIX.század).
 
 A *szlovákok* (1,25 millió) is csonka társadalmat alkottak, mivel a nemesség már a magyar nemesség részének tekintette magát. A sovány megélhetést nyújtó észak-magyarországi hegyvidéken éltek, ezért többségük vándorkézműves (drótostót), illetve idénymunkás szakmát vett föl. Elsősorban a katolikus és evangélikus vallásokat követték.
 
@@ -20,7 +20,7 @@ A *németek* (1 millió) három rétegre tagolódtak: a városlakó németekre, 
 
 A *horvátok* (800 ezer) teljes társadalmat alkottak, és egyedül őket ismerte el a magyar közjog nemesi nemzetként a magyarok mellett; ráadásul Horvátországnak területi autonómiája volt, nem tartozott Magyarországhoz. Katolikus vallásuk központja a zágrábi püspökség.
 
-A *szerbek* (600 ezer) vezetését a *kiváltságos szerb ortodox=görögkeleti egyház* vette át (*Karlóca* központtal), és a nemzeti fejlődésük is egyházi segítséggel történt. Egyházi önkormányzatok alakultak, amiknek autonómiáját a Habsburgok elismerték.
+A *szerbek* (600 ezer) vezetését a *kiváltságos szerb ortodox (görögkeleti) egyház* vette át (*Karlóca* központtal), és a nemzeti fejlődésük is egyházi segítséggel történt. Egyházi önkormányzatok alakultak, amiknek autonómiáját a Habsburgok elismerték.
 
 A *ruszinok* (300 ezer) erősen csonka társadalomban éltek; a tömeges jobbágyság mellett szinte teljesen hiányzott a polgári és nemesi réteg. Vezetőik főleg az unitus egyház papjai közül kerültek ki.
 

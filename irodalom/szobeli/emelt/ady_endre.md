@@ -38,6 +38,7 @@ E reprezentatív válogatás a háború alatt írt kb. 250 verséből 125 költe
 9. Vallomás a szerelemről
 
 ## A tematika és a lírai nyelv általános jellemzői
+
 Az életművet lezáró pályaszakaszban meghatározó tapasztalatként jelenik meg- ahogy Schöplin Aladár is utal rá- a háború élménye, ami minden más viszonyt, életet, halált, szerelmet, Istent, magyarságot áthat. A kötetbe válogatott versek témája is ugyanez. A korábban megszokott harcos, perlekedő, dacos kiállás azonban jelentősen megváltozik. Sokkal inkább jellemző az újragondolás, a féltés, a belső beszéd.
 
 Ady az első pillanattól kezdve szembe fordult a háborúval, gyűlölte a vérrontást, minden szava tiltakozás a háború ellen. A nemzetostorozó hangot a szánalom és a részvét váltotta fel.
@@ -52,6 +53,7 @@ Ady az első pillanattól kezdve szembe fordult a háborúval, gyűlölte a vér
  - mondatszerkesztés: szaggatottság, a töredékesség, a kihagyásos szerkezet, sok ismétlés
 
 ## Emlékezés egy nyár-éjszakára (1917)
+
  - egyfajta emlékként jeleníti meg nekünk a fiktív énje segítségével a háború kitörésének rémületes, első éjszakáját
  - a refrénszerűen visszatérő „különös” szó a mű kulcsszava „Különös, különös nyár-éjszaka volt”.
  - pánikot, katasztrófaélményt sugall a vers, a végzetes fordulat élményét
@@ -62,6 +64,7 @@ Ady az első pillanattól kezdve szembe fordult a háborúval, gyűlölte a vér
  - a halál közelébe sodródva, reménytelenül, mégis az utolsó ítélet Istenére várva tud csak emlékezni „ S Isten-várón emlékezem.”
 
 ## Ember az embertelenségben
+
  - cikluscím is, figura etymoligicával él
  - személyes élményen alapul:az Erdélybe betörő román csapatok elől menekülő katonák látványát írja verssé
  - szimbolista tulajdonnevesítése csak a „Föld” és a „Téboly” szavakban figyelhető meg, ezzel hangsúlyozza a háború hatását az emberre
