@@ -23,7 +23,7 @@ Mindezek hatására Ferenc József reformokat ígért, és ki is adta az *októb
 
 Az országgyűlés végül (a szavazás előtti éjszakán Teleki öngyilkos lett) *1861. május 7-én* megszavazta a feliratot (csekély győzelemmel), aminek hatására Ferenc József feloszlatta az országgyűlést, és visszatért a neoabszolutizmushoz: ezt nevezzük *provizóriumnak* (*1861-65*, Schmerling vezetésével). Ezen állapot azonban már jóval enyhébb elnyomást jelentett a Bach-korszaknál: visszaállították Magyarország területi egységét, megszüntették az 5 kerületet.
 
-Viszont még mindig fennálltak a két fél közeledéseinek okai: a magyar nemesség belefáradt és így feladta a passzív ellenállást (tönkrementek abban, hogy nem vállaltak hivatalokat). Egyre nyilvánvalóbbá vált, hogy az egyre erősebb Orosz és Német birodalom között szükség van Ausztria védőernyője, a Habsburg Birodalom reményei a *nagynémet terv* végrehajtásában egyre csak csökkentek.
+Viszont még mindig fennálltak a két fél közeledéseinek okai: a magyar nemesség belefáradt és így feladta a passzív ellenállást (tönkrementek abban, hogy nem vállaltak hivatalokat). Egyre nyilvánvalóbbá vált, hogy az egyre erősebb Orosz és Német birodalom között szükség van Ausztria védőernyőjére, a Habsburg Birodalom reményei a *nagynémet terv* végrehajtásában egyre csak csökkentek.
 
 Ebben a helyzetben, Deák Ferenc rájött arra, hogy az alkotmányosság nem oldható meg az 1848-as perszonáluniós elképzelésekkel, és kiadta a híres *húsvéti cikket (1865. április)*. *A Pragmatica Sanctiora hivatkozva (egy és oszthatatlan) kijelentette, hogy a magyar fél hajlandó lemondani az önálló had-és külügyről.* Megnyugtatta a kormányt, hogy a magyarok lemondtak a perszonáluniós elképzeléseikről.
 
