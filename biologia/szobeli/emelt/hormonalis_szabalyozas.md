@@ -1,139 +1,141 @@
-A hormonális szabályozás
-Szerkesztette: Vizkievicz András
-1. Bevezetés
+## 1. Bevezetés
 
-Az élőrendszerekben végbemenő folyamatok nem véletlenszerű irányban, sebességgel, stb. mennek végbe, hanem meghatározott irányítás alatt állnak.
+Az *élőrendszerekben végbemenő folyamatok* nem véletlenszerű irányban, sebességgel, stb. mennek végbe, hanem *meghatározott irányítás alatt állnak*.
 
-1.1 Az irányítás alapműveletei
+### 1.1 Az irányítás alapműveletei
 
-Alapjel képzés: valamilyen jellemzőnek – testhőmérséklet - tervezett értéket kell adni (kell érték).
-Mérés: ugyanannak a jellemzőnek a tényleges értékét méri a rendszer (van érték).
-Összehasonlítás: a különbség meghatározása a kell és a van érték között (hibajel).
-Döntés: beavatkozás a rendszer működésébe.
+ - *Alapjel* képzés: valamilyen jellemzőnek – testhőmérséklet - tervezett értéket kell adni (kell érték).
+ - *Mérés*: ugyanannak a jellemzőnek a tényleges értékét méri a rendszer (van érték).
+ - *Összehasonlítás*: a különbség meghatározása a kell és a van érték között (hibajel).
+ - *Döntés*: beavatkozás a rendszer működésébe.
 
-1.2 Irányítás módszerei
+### 1.2 Irányítás módszerei
 
-Vezérlés során a vezérlő az irányított rendszert egyirányúan működteti különféle jelekkel, azonban az irányított rendszer működése során nem hat a vezérlő központra. (egyirányú kapcsolat)
-A szabályozás alatt az irányított rendszer folyamatosan visszajelez a központnak, befolyásolva annak működését. (kétirányú kapcsolat)
+*Vezérlés* során a *vezérlő az irányított rendszert egyirányúan működteti* különféle jelekkel, azonban az *irányított rendszer működése során nem hat a vezérlő központra*. (egyirányú kapcsolat)
 
-A biológiai szabályozás alapja a negatív visszacsatolás. A negatív visszacsatolás az a folyamat, amelynek során a rendszerből kilépő hatások gyengítik a belépő hatásokat, ellentétesek azokkal. Pl.:
-Alacsony környezeti hőmérséklet esetén a testhőmérséklet csökken (van érték),
-a központ összehasonlítja a kell (37 °C) és a van értéket, létrejön a hibajel,
-a fűtőközpont aktivitása fokozódik (belépőhatás), a testhőmérséklet emelkedik (kilépőhatás), ami csökkenti a fűtőközpont aktivitását.
+A *szabályozás* alatt az *irányított rendszer folyamatosan visszajelez a központnak, befolyásolva annak működését*. (kétirányú kapcsolat)
+
+A biológiai szabályozás alapja a *negatív visszacsatolás*. A negatív visszacsatolás az a folyamat, amelynek során a *rendszerből kilépő hatások gyengítik a belépő hatásokat*, ellentétesek azokkal. Pl.:
+
+ - Alacsony környezeti hőmérséklet esetén a testhőmérséklet csökken (van érték),
+ - a központ összehasonlítja a kell (37 °C) és a van értéket, létrejön a hibajel,
+ - a fűtőközpont aktivitása fokozódik (belépőhatás), a testhőmérséklet emelkedik (kilépőhatás), ami csökkenti a fűtőközpont aktivitását.
+
 A szabályozó rendszer a hibajellel ellentétes előjelű hatással módosítja a rendszer működését (csökkenésre növelés, növekedésre csökkentés).
-Önszabályozás jön létre, a rendszer egy dinamikus egyensúlyi állapotban tartja fenn önmagát.
 
-Pozitív visszacsatolásról akkor beszélünk, ha a rendszerből kilépő hatások tovább erősítik a belépő hatásokat, azonos irányúak azokkal. (növekedésre növelés, csökkenésre csökkentés).
+*Önszabályozás jön létre*, a rendszer *egy dinamikus egyensúlyi állapotban tartja fenn önmagát*.
 
-Pl. A hipotalamusz GnRH faktorai fokozzák az FSH és az LH elválasztását, melyek hatására nő az ösztrogén elválasztás, ugyanakkor az ösztrogén serkenti a GnRH termelődését.
-Az állandóan változó külső környezetben az állati szervezet homeosztázisát a biológiai szabályozás teszi lehetővé. A homeosztázis feltétele az egyes sejtek, szövetek, szervek működésének összehangolása.
-A különféle feladatokat ellátó egységek összehangolását a köztük működő kommunikáció teszi lehetővé. Ennek lényege, hogy egyes sejtek különféle jeleket - kémiai, elektromos - bocsátanak ki, amelyeket más sejtek - a célsejtek - felismernek, aminek következtében működésüket megváltoztatják.
+*Pozitív visszacsatolásról* akkor beszélünk, ha a *rendszerből kilépő hatások tovább erősítik a belépő hatásokat, azonos irányúak azokkal*. (növekedésre növelés, csökkenésre csökkentés)
+
+> Pl. A hipotalamusz GnRH faktorai fokozzák az FSH és az LH elválasztását, melyek hatására nő az ösztrogén elválasztás, ugyanakkor az ösztrogén serkenti a GnRH termelődését.
+
+Az állandóan változó külső környezetben az állati *szervezet homeosztázisát a biológiai szabályozás teszi lehetővé*. A homeosztázis feltétele az egyes sejtek, szövetek, szervek működésének *összehangolása*.
+
+A különféle feladatokat ellátó egységek összehangolását a köztük működő *kommunikáció* teszi lehetővé. Ennek lényege, hogy egyes sejtek különféle *jeleket* - kémiai, elektromos - bocsátanak ki, amelyeket más sejtek - a *célsejtek* - felismernek, aminek következtében *működésüket megváltoztatják*.
 
 A kommunikációnak a szervezet szintjén több formája alakult ki:
-endokrin kommunikáció, amely a hormonális,
-neurokrin kommunikáció, amely az idegi szabályozás alapja.
-parakrin kommunikáció, melyre példát a tápcsatorna falában termelődő szöveti hormonok kapcsán láttunk.
-autokrin kommunikáció, ahol az elválasztott anyag a sejt saját működését befolyásolja.  A kibocsátó sejt saját magát értesíti, többnyire arról, hogy a kiürülő anyag mennyisége mekkora. Például sok idegsejt a szinaptikus transzmitterét az axonvégződésen meg is tudja kötni, és az itteni receptorok izgatása legtöbbször negatív visszacsatolással szabályozza – csökkenti - a transzmitter ürüléstét.
 
-2. Az endokrin szabályozás
+ - endokrin kommunikáció, amely a hormonális,
+ - neurokrin kommunikáció, amely az idegi szabályozás alapja.
+ - parakrin kommunikáció, melyre példát a tápcsatorna falában termelődő szöveti hormonok kapcsán láttunk.
 
-2. 1  Belső elválasztású mirigyek
+> autokrin kommunikáció, ahol az elválasztott anyag a sejt saját működését befolyásolja.  A kibocsátó sejt saját magát értesíti, többnyire arról, hogy a kiürülő anyag mennyisége mekkora. Például sok idegsejt a szinaptikus transzmitterét az axonvégződésen meg is tudja kötni, és az itteni receptorok izgatása legtöbbször negatív visszacsatolással szabályozza – csökkenti - a transzmitter ürüléstét.
 
-Az endokrin kommunikáció során a jelkibocsátó egységet belső elválasztású mirigynek nevezzük, amelyek kivezetőcső nélküli mirigyek, hatóanyagaikat a hormonokat közvetlenül a vérbe ürítik.
+## 2. Az endokrin szabályozás
+
+### 2.1  Belső elválasztású mirigyek
+
+Az endokrin kommunikáció során a *jelkibocsátó egységet belső elválasztású mirigynek* nevezzük, amelyek *kivezetőcső nélküli mirigyek, hatóanyagaikat a hormonokat* közvetlenül a vérbe ürítik.
 A fontosabb belső-elválasztású mirigyek:
 
-agyalapi mirigy
-tobozmirigy
-pajzsmirigy
-mellékpajzsmirigy
-mellékvesék
-hasnyálmirigy
-ivarmirigyek (here, petefészek)
+ - *agyalapi mirigy*
+ - *tobozmirigy*
+ - *pajzsmirigy*
+ - *mellékpajzsmirigy*
+ - *mellékvesék*
+ - *hasnyálmirigy*
+ - *ivarmirigyek (here, petefészek)*
 
+### 2.2 Hormonok
 
-2.2 Hormonok
+A jelként funkcionáló anyagokat - transzmittereket - *hormonoknak* hívjuk.
 
-A jelként funkcionáló anyagokat - transzmittereket - hormonoknak hívjuk.
-A hormonok sejtek által termelt hatóanyagok, amelyek más sejtek működését megváltoztatják.
-
+A hormonok sejtek által termelt hatóanyagok, amelyek *más sejtek működését megváltoztatják*.
 
 A hormonok lehetnek:
-aminosav származékok: tiroxin, adrenalin,
-peptidek: ADH, oxitocin, inzulin,
-fehérjék: növekedési hormon,
-szteroidok: mellékvesekéreg hormonok, nemi hormonok.
 
-A hormonok rövid élettartalmúak (percekben, szteroidhormonok órákban mérhető), viszonylag gyorsan lebomlanak.
-A hormonális hatás általában lassú, de tartós.
+ - *aminosav származékok: tiroxin, adrenalin*
+ - *peptidek: ADH, oxitocin, inzulin*
+ - *fehérjék: növekedési hormon*
+ - *szteroidok: mellékvesekéreg hormonok, nemi hormonok*
 
-Hormonokat nemcsak belső elválasztású mirigyek termelnek, hanem különféle szövetek, az általuk termelt transzmittereket környezetükbe a szövetnedvbe bocsátják, amelyek a környező sejteket diffúzióval érik el. A jelenséget parakrin kommunikációnak nevezzük, ilyen pl. a gasztrin.
-Amennyiben a szabályozóanyagokat idegsejtek termelik neuroszekrécióról beszélünk.
+A hormonok *rövid élettartalmúak* (percekben, szteroidhormonok órákban mérhető), viszonylag *gyorsan lebomlanak*.
+A hormonális hatás általában *lassú, de tartós*.
 
-2. 3 A vérpálya
+Hormonokat nem csak belső elválasztású mirigyek termelnek, hanem különféle szövetek, az általuk termelt transzmittereket környezetükbe a szövetnedvbe bocsátják, amelyek a *környező sejteket* diffúzióval érik el. A jelenséget *parakrin kommunikációnak* nevezzük, ilyen pl. a *gasztrin*.
 
-A hormonok szállítása a vérpályán keresztül valósul meg. A vérben a hormonok általában fehérjékhez kötve szállítódnak, így lassabban bomlanak le, ill. nem kevésbé ürülnek ki a vesén keresztül.
-Koncentrációjuk igen csekély, peptidhormonok esetén 10-11 mol/dm3 körül mozog, egyéb hormonok esetén néhány nagyságrenddel nagyobb.
-A hormonális szabályozás során a belső-elválasztású mirigyek hatóanyagaikat, a hormonokat a vérbe ürítik, amely elszállítja azokat a célsejtekhez megváltoztatva működésüket.
+Amennyiben a szabályozóanyagokat *idegsejtek termelik, neuroszekrécióról* beszélünk.
 
-2.4 A célsejt
+### 2.3 A vérpálya
 
-A hormonok szállításának végállomása a célsejt. A célsejt a transzmittert a specifikus receptoraival köti meg. A receptor jelenléte teszi szelektívvé a különféle sejtek között a hormonális hatást. A receptorok elhelyezkedésük szerint lehetnek:
-sejten belüliek - szteroid hormonok receptorai,
-sejten kívüliek - a peptid hormonok receptorai.
+A *hormonok szállítása a vérpályán* keresztül valósul meg. A vérben a hormonok általában *fehérjékhez kötve szállítódnak*, így lassabban bomlanak le, ill. nem kevésbé ürülnek ki a vesén keresztül.
 
-A szteroid hormonok képesek akadály nélkül átjutni a membránon és a citoplazmában vagy a sejtmagban kapcsolódnak a receptorhoz.
-A kötődést követően a receptor-hormon komplex a DNS-hez kötődik, így a szteroid hormonok általában az örökítő anyag működésének a megváltoztatásával fejtik ki hatásukat (nemi érés).
+Koncentrációjuk igen csekély, peptidhormonok esetén [latex inline]10^{-11} \frac{mol}{dm^3}[/latex] körül mozog, egyéb hormonok esetén néhány nagyságrenddel nagyobb.
 
+*A hormonális szabályozás során a belső-elválasztású mirigyek hatóanyagaikat, a hormonokat a vérbe ürítik, amely elszállítja azokat a célsejtekhez megváltoztatva működésüket.*
 
+### 2.4 A célsejt
 
+A hormonok szállításának végállomása a *célsejt*. A célsejt a transzmittert a specifikus *receptoraival* köti meg. A receptor jelenléte teszi szelektívvé a különféle sejtek között a hormonális hatást. A receptorok elhelyezkedésük szerint lehetnek:
 
-A sejten kívüli receptorok a sejthártya felszínén találhatók, melyek általában peptidhormon receptorok. Mivel a hormon nem jut be a sejt belsejébe - ahol azok az anyagcsere folyamatok zajlanak, amelyekre hat - szükség van egy olyan ún. másodlagos hírvivőre, amely a membrán felszínén történő változásokat közvetíti a sejt belseje felé.
-Ilyen másodlagos hírvivő a cAMP amelynek keletkezése és működése a májsejtekben a következő:
-az adrenalin hormon megkötődik a májsejtek felszínén található receptorokon,
-a receptor konformációt vált, amelynek hatására a mellette levő G-fehérje GTP-t köt meg.
-Ennek hatására a G-fehérje konformációja változik meg, aminek következménye az adenilát-cikláz aktiválódása.
-Az adenilát-cikláz egy enzim, amely az ATP-ből cAMP-t csinál.
-A cAMP protein kinázokat aktivál, ezek olyan enzimek, amelyek foszfátcsoportokat kapcsolnak más enzimekhez azokat aktív állapotba hozva.
-Jelen esetben ezek olyan enzimek, melyek a glikogént glükózzá bontják.
+ - *sejten belüliek - szteroid hormonok receptorai,*
+ - *sejten kívüliek - a peptid hormonok receptorai.*
 
+A *szteroid hormonok* képesek akadály nélkül átjutni a membránon és a citoplazmában vagy a sejtmagban kapcsolódnak a receptorhoz. A kötődést követően a *receptor-hormon komplex a DNS-hez kötődik*, így a szteroid hormonok általában az örökítő anyag működésének a megváltoztatásával fejtik ki hatásukat (nemi érés).
 
+A *sejten kívüli receptorok* a *sejthártya felszínén találhatók*, melyek általában peptidhormon receptorok. Mivel a hormon nem jut be a sejt belsejébe - ahol azok az anyagcsere folyamatok zajlanak, amelyekre hat - szükség van egy olyan ún. *másodlagos hírvivőre*, amely a membrán felszínén történő változásokat közvetíti a sejt belseje felé.
 
+Ilyen másodlagos hírvivő a *cAMP* amelynek keletkezése és működése a *májsejtekben* a következő:
 
-Összefoglalva, adrenalin hatására a májsejtekben a glikogén glükózzá bomlik le, amelyet a sejtek a vérpályába adnak le növelve a vércukorszintet.
-Az inzulin, amely pont ellentétes hatású az adrenalinnal csökkenti a májsejtekben a cAMP szintet, mivel a glikogén szintéziséért felelős enzimek defoszforilált állapotban aktívak.
+ - az *adrenalin* hormon megkötődik a májsejtek felszínén található receptorokon,
+ - a receptor konformációt vált, amelynek hatására a mellette levő *G-fehérje GTP-t köt meg*.
+ - Ennek hatására a G-fehérje konformációja változik meg, aminek következménye az *adenilát-cikláz* aktiválódása.
+ - Az *adenilát-cikláz egy enzim, amely az ATP-ből cAMP-t csinál*.
+ - A cAMP *protein kinázokat* aktivál, ezek olyan enzimek, amelyek *foszfátcsoportokat kapcsolnak más enzimekhez* azokat aktív állapotba hozva.
+ - Jelen esetben ezek olyan enzimek, melyek a *glikogént glükózzá bontják*.
 
+*Összefoglalva, adrenalin hatására a májsejtekben a glikogén glükózzá bomlik le, amelyet a sejtek a vérpályába adnak le növelve a vércukorszintet.*
 
+Az *inzulin*, amely pont *ellentétes hatású az adrenalinnal csökkenti a májsejtekben a cAMP szintet*, mivel a glikogén szintéziséért felelős enzimek defoszforilált állapotban aktívak.
 
 Továbbá a célsejtek cAMP koncentrációjának fokozásával fejtik ki a hatását a TSH, STH, ACTH, LH, FSH, parathormon, kalcitonin.
 
-Egyéb másodlagos hírvivők
+#### Egyéb másodlagos hírvivők
 
-Más hormonok (pl. acetilkolin, oxitocin, szerotonin, ADH) a célsejtek citoplazmájában a szabad Ca2+ koncentrációjának fokozásával érik el a hatásukat.
+Más hormonok (pl. acetilkolin, oxitocin, szerotonin, ADH) *a célsejtek citoplazmájában a szabad [latex inline]Ca^{2+}[/latex] koncentrációjának fokozásával* érik el a hatásukat.
 
-A kalcium-ion egyike a legelterjedtebb másodlagos hírvivőnek a sejtekben. A citoplazmába két úton kerülhetnek a Ca-ionok:
-csatornákon keresztül az extracelluláris térből,
-valamint a belső kalcium raktárakból (SER és mitokondrium).
+> A kalcium-ion egyike a legelterjedtebb másodlagos hírvivőnek a sejtekben. A citoplazmába két úton kerülhetnek a Ca-ionok:
+>  - csatornákon keresztül az extracelluláris térből,
+>  - valamint a belső kalcium raktárakból (SER és mitokondrium).
+>
+> A kalcium [latex inline]Ca^{2+}[/latex]-kötő fehérjékhez való kapcsolódása által fejti ki a hatását, melyek közül a legelterjedtebb a *kalmodulin*, amely minden eukarióta sejtben megtalálható. Amikor a kalmodulin megköti [latex inline]Ca^{2+}[/latex]-t, térszerkezeti változáson megy keresztül, amely képessé teszi, hogy más fehérjék köré tekeredjen, s ezáltal aktiválja azokat. A kalmodulin egy rendkívül fontos célpontja kalmodulin-függő kinázok csoportja (CaM-kinázok). A CaM-kinázok, a [latex inline]Ca^{2+}[/latex]/kalmodulin komplex hatására aktiválódnak, s különféle folyamatokat aktiválnak foszforiláció révén.
 
-A kalcium Ca2+-kötő fehérjékhez való kapcsolódása által fejti ki a hatását, melyek közül a legelterjedtebb a kalmodulin, amely minden eukarióta sejtben megtalálható. Amikor a kalmodulin megköti Ca2+-t, térszerkezeti változáson megy keresztül, amely képessé teszi, hogy más fehérjék köré tekeredjen, s ezáltal aktiválja azokat. A kalmodulin egy rendkívül fontos célpontja kalmodulin-függő kinázok csoportja (CaM-kinázok). A CaM-kinázok, a Ca2+/kalmodulin komplex hatására aktiválódnak, s különféle folyamatokat aktiválnak foszforiláció révén.
+### 2.5 A neuroendokrin rendszer
 
-2.5 A neuroendokrin rendszer
-
-A belső elválasztású rendszer az idegrendszerrel szoros kölcsönhatásban, annak irányítása mellett látja el feladatait, ezért helyesebb neuroendokrin rendszerről beszélni.
+A *belső elválasztású rendszer az idegrendszerrel szoros kölcsönhatásban*, annak irányítása mellett látja el feladatait, ezért helyesebb *neuroendokrin rendszerről* beszélni.
 
 Az egyes belső elválasztású mirigyek különféle szabályozás alatt állnak:
-neuroszekréció útján, pl. az agyalapi mirigy elülsőlebenye,
-közvetlen idegek által, mint pl. a mellékvesevelő sejtjei,
-hormonok közvetítésével, ilyen pl. az agyalapi mirigy pajzsmirigyserkentő hormonja,
-belső környezetváltozással, mint pl. az inzulin termelődését a vércukorszint szabályozza.
+
+ - *neuroszekréció* útján, pl. az agyalapi mirigy elülsőlebenye,
+ - *közvetlen idegek által*, mint pl. a mellékvesevelő sejtjei,
+ - *hormonok közvetítésével*, ilyen pl. az agyalapi mirigy pajzsmirigyserkentő hormonja,
+ - *belső környezetváltozással*, mint pl. az inzulin termelődését a vércukorszint szabályozza.
 
 A neuroendokrin rendszer funkciója széles spektrumú:
-morfogenetikus hatású, azaz biztosítja a gének által meghatározott testmértek kialakulását,
-a belső környezet szabályozása révén a fenntartja homeosztázist,
-lehetővé teszi a fajfennmaradást az ivarsejtek termelődésének, az embrionális fejlődés zavartalanságának, a szaporodáshoz szükséges magatartásformák biztosításával.
 
-
-
-
+ - *morfogenetikus hatású*, azaz biztosítja a gének által meghatározott testmértek kialakulását,
+ - *a belső környezet szabályozása* révén a fenntartja homeosztázist,
+ - *lehetővé teszi a fajfennmaradást* az ivarsejtek termelődésének, az embrionális fejlődés zavartalanságának, a szaporodáshoz szükséges magatartásformák biztosításával.
 
 3. Az agyalapi mirigy (hipofízis)
 
