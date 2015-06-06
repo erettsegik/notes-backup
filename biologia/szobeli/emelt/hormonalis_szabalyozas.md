@@ -137,139 +137,136 @@ A neuroendokrin rendszer funkciója széles spektrumú:
  - *a belső környezet szabályozása* révén a fenntartja homeosztázist,
  - *lehetővé teszi a fajfennmaradást* az ivarsejtek termelődésének, az embrionális fejlődés zavartalanságának, a szaporodáshoz szükséges magatartásformák biztosításával.
 
-3. Az agyalapi mirigy (hipofízis)
+## 3. Az agyalapi mirigy (hipofízis)
 
 Az agyalapi mirigy (hipofízis) központi jelentőséggel bíró belső elválasztású mirigy.
-Az endokrin rendszer összes funkciójára kifejti hatását,
-a legtöbb belső elválasztású mirigyre szabályozó hatású,
-közvetíti az idegrendszer szabályozó hatásait a szervezet felé.
 
-3.1 Elhelyezkedése
+ - *Az endokrin rendszer összes funkciójára kifejti hatását,*
+ - *a legtöbb belső elválasztású mirigyre szabályozó hatású,*
+ - *közvetíti az idegrendszer szabályozó hatásait a szervezet felé.*
 
-Az agy alapján, a koponya ékcsontjának töröknyergében elhelyezkedő, borsó nagyságú szerv, 0,6 g tömegű.
-A felette elhelyezkedő agyterülettel a hipotalamusszal az ún. hipofízisnyél kapcsolja össze.
+### 3.1 Elhelyezkedése
 
-3.2 Szerkezete
+Az agy alapján, a koponya *ékcsontjának* töröknyergében elhelyezkedő, borsó nagyságú szerv, 0,6 g tömegű.
+
+A felette elhelyezkedő agyterülettel *a hipotalamusszal az ún. hipofízisnyél kapcsolja össze*.
+
+### 3.2 Szerkezete
 
 Szerkezeti és működési szempontból két részre osztható:
-elülső lebenyre (adenohipofízis),
-hátulsó lebenyre (neurohipofízis).
-Középső lebeny (MSH hormon, mely fokozza a bőrben a melanin képződését, szétszóródását.)
 
-3.3 Az agyalapi mirigy elülső lebenye.
+ - *elülső lebenyre* (adenohipofízis),
+ - *hátulsó lebenyre* (neurohipofízis).
 
-Az embrionális fejlődés során a garathámból alakul ki (endodermális), a mirigy fő tömegét adja, hatféle hormont termel.
+> Középső lebeny (MSH hormon, mely fokozza a bőrben a melanin képződését, szétszóródását.)
+
+### 3.3 Az agyalapi mirigy elülső lebenye.
+
+Az embrionális fejlődés során a garathámból alakul ki (endodermális), a mirigy fő tömegét adja, *hatféle hormont termel*.
 
 Igen gazdag a vérellátottsága, az erek lefutása speciális ún. portális keringés jellemzi, ahol a kapilláris rendszerből összeszedődő vénák újra kapillárisokra oszlanak.
 
-3.4 Működése
+### 3.4 Működése
 
 Az adenohipofízis 6 féle hormont termel.
 
-Növekedési hormon, STH, GH,
-pajzsmirigyserkentő hormon, TSH,
-mellékvesekéreg serkentő hormon, ACTH,
-tüszőserkentő hormon, FSH
-sárgatest serkentő hormon, LH,
-tejelválasztást serkentő hormon, PRL.
+ - *Növekedési hormon, STH, GH,*
+ - *pajzsmirigyserkentő hormon, TSH,*
+ - *mellékvesekéreg serkentő hormon, ACTH,*
+ - *tüszőserkentő hormon, FSH*
+ - *sárgatest serkentő hormon, LH,*
+ - *tejelválasztást serkentő hormon, PRL.*
 
-E hormonok általában polipeptidek, egyesek (TSH, FSH, LH) glikoproteidek.
+E hormonok általában *polipeptidek*, egyesek (TSH, FSH, LH) glikoproteidek.
 
-A biológiai szabályozás általános elve a feed-back, azaz a negatív visszacsatolás mechanizmusa.
+A biológiai szabályozás általános elve a feed-back, azaz a *negatív visszacsatolás* mechanizmusa.
 Ennek lényege, hogy a szabályozott egység működésének eredménye (terméke) gátlóan hat vissza a szabályozó egység működésére. Ugye?
 
-A hipotalamusz állományában megtalálható ún. kissejtes magcsoportokban működő neuroszekréciós sejtek serkentő (releasing) és gátló (inhibiting) faktorokkal (pl. GnRH az ivarmirigyekre ható hormonok (FSH, LH) termelődését fokozza) szabályozzák az elülső lebeny hormonjainak termelődését ill. felszabadulását.
+A *hipotalamusz* állományában megtalálható ún. *kissejtes magcsoportokban* működő *neuroszekréciós sejtek serkentő* (releasing) *és gátló* (inhibiting) *faktorokkal* (pl. *GnRH* az ivarmirigyekre ható hormonok (FSH, LH) termelődését fokozza) *szabályozzák az elülső lebeny hormonjainak termelődését ill. felszabadulását*.
+
 Ezen idegsejtek nyúlványai az adenohipofízis portális keringésének kapilláris rendszerébe juttatják hatóanyagaikat.
 
-3.4.1 Növekedési hormon (STH szomatotrop hormon)
+#### 3.4.1 Növekedési hormon (STH szomatotrop hormon)
 
-Biztosítja a genetikailag meghatározott testméretek elérését. Nincsenek kitüntetett célszervei. 190 aminosavból álló polipeptid.
+*Biztosítja a genetikailag meghatározott testméretek elérését.* Nincsenek kitüntetett célszervei. 190 aminosavból álló *polipeptid*.
 
-Anyagcserére gyakorolt hatásai:
+##### Anyagcserére gyakorolt hatásai:
 
-Szénhidrát anyagcsere.
-Növeli a vércukorszintet,
-serkenti a cukor raktározását,
-gátolja a cukor oxidációt.
-Lipid anyagcsere.
-Serkenti a zsírok oxidációját.
-Fehérje anyagcsere.
-Serkenti a fehérjék szintézisét.
+ - *Szénhidrát anyagcsere.*
+   + *Növeli a vércukorszintet,*
+   + *serkenti a cukor raktározását,*
+   + *gátolja a cukor oxidációt.*
+ - *Lipid anyagcsere.*
+   + *Serkenti a zsírok oxidációját.*
+ - *Fehérje anyagcsere.*
+   + *Serkenti a fehérjék szintézisét.*
 
 Termelődését serkenti a
-mélyalvás,
-fizikai munka,
-dopamin,
-éhezés,
-kortizol alacsony koncentrációja,
-csökkent vércukorszint.
 
-A növekedési hormon hatásaiért az inzulinszerű növekedési faktor (IGF-I vagy régi nevén somatomedin C) a felelős. Az IGF-1 a májban, izomban, bélben, vesében termelődik. Az IGF-1 klasszikus negatív visszacsatolás révén gátolja a hipotalamusz GHRH és a hipofízis GH elválasztását.
+ - *mélyalvás,*
+ - *fizikai munka,*
+>  - dopamin,
+>  - éhezés,
+>  - kortizol alacsony koncentrációja,
+>  - csökkent vércukorszint.
 
+> A növekedési hormon hatásaiért az *inzulinszerű növekedési faktor (IGF-I vagy régi nevén somatomedin C)* a felelős. Az IGF-1 a májban, izomban, bélben, vesében termelődik. Az IGF-1 klasszikus negatív visszacsatolás révén gátolja a hipotalamusz GHRH és a hipofízis GH elválasztását.
 
+##### Rendellenességek
 
+###### 1. Hypofunkció
 
+*Gyermekkori hormonhiány* következtében *arányos törpeség* (hipofizer törpeség) alakul ki. A hipofízer törpék apró (50-120 cm), de arányos termetűek, habitusuk kissé öreges, másodlagos nemi jellegeik kevéssé kifejezettek. Intelligenciahányadosuk gyakran az átlagot meghaladja.
 
+###### 2. Hiperfunkció
 
-Rendellenességek
+*Fiatalkorban túltermelődése óriásnövekedést eredményez* (hipofízer gigantizmus), amikor a testmagasság elérheti akár a 270 cm is.
 
-1. Hypofunkció
+*Felnőttkori túlműködés* esetén a test kiálló részei - fül, orr, állkapocs, kézfej, lábfej - növekednek meg, ez az *akromegália*.
 
-Gyermekkori hormonhiány következtében arányos törpeség (hipofizer törpeség) alakul ki. A hipofízer törpék apró (50-120 cm), de arányos termetűek, habitusuk kissé öreges, másodlagos nemi jellegeik kevéssé kifejezettek. Intelligenciahányadosuk gyakran az átlagot meghaladja.
+> Amennyiben ezt a hasi zsigerek megnagyobbodása is követi, akkor splanchnomegáliáról beszélünk.
 
-2. Hiperfunkció
+### 3.5 Az agyalapi mirigy hátulsó lebenye
 
-Fiatalkorban túltermelődése óriásnövekedést eredményez (hipofízer gigantizmus), amikor a testmagasság elérheti akár a 270 cm is.
-Felnőttkori túlműködés esetén a test kiálló részei - fül, orr, állkapocs, kézfej, lábfej - növekednek meg, ez az akromegália.
-Amennyiben ezt a hasi zsigerek megnagyobbodása is követi, akkor splanchnomegáliáról beszélünk.
+Klasszikus értelemben nem tekinthető belső elválasztású mirigynek, *benne hormon szintézis nem folyik, csupán olyan hormonokat raktároz*, ill. a véráramba juttat, amelyek *a hipotalamusz ún. nagysejtes magvaiban termelődnek*.
 
+A hipofízis hátulsó lebenyében kétféle hormon *raktározódik, ill. szükség esetén felszabadul*, az *ADH és az oxitocin*.
 
+#### 3.5.1 ADH, oxitocin
 
+Az *ADH vagy vazopresszin* 9 aminosavból álló *oligopeptid*. Élettani hatása, hogy a vese disztális csatornáiban és a gyűjtőcsövek területén *fokozza a víz passzív visszaszívását* (úgy növeli a csatornák vízáteresztő képességét, hogy fokozza az aquaporin fehérje által alkotott vizescsatornák beépülését a membránokba), miáltal csökkenti a vizelet mennyiségét (antidiuretikus hatás).
 
+Mivel nagyobb koncentrációban az ereket is szűkíti, *emeli a vérnyomást* (vazopresszin).
 
-
-
-3.5 Az agyalapi mirigy hátulsó lebenye
-
-Klasszikus értelemben nem tekinthető belső elválasztású mirigynek, benne hormon szintézis nem folyik, csupán olyan hormonokat raktároz, ill. a véráramba juttat, amelyek a hipotalamusz ún. nagysejtes magvaiban termelődnek.
-
-A hipofízis hátulsó lebenyében kétféle hormon raktározódik, ill. szükség esetén felszabadul, az ADH és az oxitocin.
-
-
-
-
-
-3.5.1 ADH, oxitocin
-
-Az ADH vagy vazopresszin 9 aminosavból álló oligopeptid. Élettani hatása, hogy a vese disztális csatornáiban és a gyűjtőcsövek területén fokozza a víz passzív visszaszívását (úgy növeli a csatornák vízáteresztő képességét, hogy fokozza az aquaporin fehérje által alkotott vizescsatornák beépülését a membránokba), miáltal csökkenti a vizelet mennyiségét (antidiuretikus hatás).
-Mivel nagyobb koncentrációban az ereket is szűkíti, emeli a vérnyomást (vazopresszin).
-Az ADH elválasztás szabályozását a vér összetétele határozza meg, melyet a hipotalamusz nagysejtes állománya közvetlenül érzékel.
+Az *ADH elválasztás szabályozását a vér összetétele határozza meg*, melyet a hipotalamusz nagysejtes állománya közvetlenül érzékel.
 
 Az ADH elválasztását fokozza
-a vér koncentrációjának emelkedése,
-a vérnyomás csökkenése,
-a dohányzás,
-láz, fájdalom, hányás.
 
-Kóros állapotok.
+ - *a vér koncentrációjának emelkedése,*
+ - *a vérnyomás csökkenése,*
+ - a dohányzás,
+ - láz, fájdalom, hányás.
+
+##### Kóros állapotok.
 
 Az ADH termelődés megszűnése a diabetes insipidus nevű betegséghez vezet, melynek tünete a napi akár 15 liter híg vizelet ürítése, gyötrő szomjúság mellett.
 
-Az oxitocin (jelentése gyors szülés (gör.)) szintén 9 aminosavból álló nonapeptid. Az oxitocin hatására elsősorban a méh és az emlő simaizomsejtjei erőteljesen összehúzódnak.
+Az *oxitocin* (jelentése gyors szülés (gör.)) szintén 9 aminosavból álló *nonapeptid*. Az oxitocin hatására elsősorban a *méh és az emlő simaizomsejtjei erőteljesen összehúzódnak*.
 
-1. Az emlőmirigyek esetén az oxitocin a tej kiürülését teszi lehetővé, ugyanis a mirigyvégkamrákban felhalmozódott tej csak az azokat körülvevő simaizomsejtek erőteljes összehúzódásával képes kiürülni.
+1. Az emlőmirigyek esetén az oxitocin a *tej kiürülését teszi lehetővé*, ugyanis a mirigyvégkamrákban felhalmozódott tej csak az azokat körülvevő simaizomsejtek erőteljes összehúzódásával képes kiürülni.
 
-Az oxitocin felszabadulását kiválthatják
-feltétlen ingerek, mint pl. az emlőbimbó ingerlése (30-60 sec. késéssel tejkiürülést eredményez),
-feltételes ingerek, mint pl. a csecsemő látványa, szaga, sírása, stb.
+   Az oxitocin felszabadulását kiválthatják
 
+    - *feltétlen ingerek*, mint pl. az emlőbimbó ingerlése (30-60 sec. késéssel tejkiürülést eredményez),
+    - *feltételes ingerek*, mint pl. a csecsemő látványa, szaga, sírása, stb.
 
-2. A méh falának simaizomzatára gyakorolt hatása főleg a szülés megindítása és lefolyása szempontjából fontos, amikor is az oxitocin jelentős mértékben választódik el.
+2. A méh falának simaizomzatára gyakorolt hatása főleg a *szülés megindítása és lefolyása szempontjából fontos*, amikor is az oxitocin jelentős mértékben választódik el.
 
-Ezenkívül szerepe van az orgazmus kiváltásában mind férfiakban – ejakuláció -, mind nőkben  – méh összehúzódás.
-Az agyban termelődő oxitocin közvetlen hatást gyakorol az idegrendszer működésére, a viselkedésre:
-csökkenti a fájdalomérzetet, csökkenti a félelemérzetet,
-fokozza a bizalmat, erősíti a szociális kötődést.
+> Ezenkívül szerepe van az orgazmus kiváltásában mind férfiakban – ejakuláció -, mind nőkben  – méh összehúzódás.
+> Az agyban termelődő oxitocin közvetlen hatást gyakorol az idegrendszer működésére, a viselkedésre:
+>  - csökkenti a fájdalomérzetet, csökkenti a félelemérzetet,
+>  - fokozza a bizalmat, erősíti a szociális kötődést.
+
 4. A pajzsmirigy
 4.1 Elhelyezkedése
 
