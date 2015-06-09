@@ -37,7 +37,6 @@ Közdolgokban való részvétel: jog és egyben kötelesség
  - Romantikus: nagy szavak, érzelmesség, túlzott romantikus képek (vér)
  - Reformkor: téma (múlt idézés)
 
-
 *Zrínyi dala (Szobránci dal):*
  - 3x szerepel a „hol a… ? kérdés
  - Zrínyi Miklós (Szigeti veszedelem) → miért ő, akit segítségül hív?
@@ -49,7 +48,6 @@ Közdolgokban való részvétel: jog és egyben kötelesség
  - Múltbéli hőst hív be → hitelesebb
  - Romantikus nemzetostorozás
 
-
 *Zrínyi második éneke (1838):*
  - Nem Kölcsey adta a címet
  - Zrínyi megint itt van → most a sorshoz idézi panaszszavát → szenvedésekről, a sors sajnálja meg a magyart és tegyen valamit → a sors kegyetlenül válaszol: adott egy esélyt, de nem éltek vele
@@ -57,7 +55,6 @@ Közdolgokban való részvétel: jog és egyben kötelesség
  - Sors végítélete: nem fog megmaradni, nemzethalál (Vörösmarty), népcsere
  - Önkényes sors: nem egyenlő a könyörgő és a válaszadó sorsa
  - Kulcsszavak: szenvedő, áldás, megsokasodó nép, gyávaság, méltatlanság, nemzethalál
-
 
 *Huszt (1831):*
  - epigramma: rövid, végén csattan, időmértékes (hexa- és pentameterek)

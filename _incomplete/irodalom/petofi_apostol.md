@@ -15,12 +15,12 @@ A mű fordított időszerkezettel dolgozik, a főhős múltja sokkal epikusabb, 
 
 *Beszédhelyzet*: magány, egyedüllét
 
-Az emberiség mutat fejlődést -> célelvű folyamat a történelem. A szabadság megvalósulását keresi. A romantika megkérdőjelezi a felvilágosodást. Lehet útja a szabadságnak és a költő hisz benne.
+Az emberiség mutat fejlődést → célelvű folyamat a történelem. A szabadság megvalósulását keresi. A romantika megkérdőjelezi a felvilágosodást. Lehet útja a szabadságnak és a költő hisz benne.
 
 Nem abból fakad a szerepdilemma, hogy van-e fejlődés. A kudarcokkal teli sors mégsem adja fel a harcot.
 
-„Mindig másoknak éljen-e?
-És soha se magáért.”
+    „Mindig másoknak éljen-e?
+    És soha se magáért.”
 
 Az ember – polgár (apostolszerep) kérdésfeltevésének lényege Rousseau-nál merül fel először ez a kapcsolat. Azonosító és megkülönböztető szerepe van.
 
@@ -28,11 +28,11 @@ Az ember és a polgár egymást kizáró fogalmak. Választania kell Szilveszter
 
 *Csak úgy töltheti be az egyik szerepet, ha a másikról lemond.*
 
-ember – örömelvűség <–> apostol – lemondó mártíromság
+ember – örömelvűség ↔ apostol – lemondó mártíromság
 
-Az emberhez az élet kapcsolódik <-> az apostol szerephez a halál
+Az emberhez az élet kapcsolódik ↔ az apostol szerephez a halál
 
-*Belső konfliktus* – érték váltások pl. meghal a felesége -> a szabadság egy üres szó.
+*Belső konfliktus* – érték váltások pl. meghal a felesége → a szabadság egy üres szó.
 
 A szabadságért nem szabad áldozatot hozni.
 
@@ -40,11 +40,11 @@ Az apostol szerep eddig is jelen volt Petőfi költészetében, de változik a s
 
 Szilveszter börtönből való kimenetele után, még rosszabb lett a világ (nem fejlődik)
 
-Cselekedni kell a nép helyett, mert a nép kiskorú. Az emberiség történelme egy vérfolyam – elnyomott emberek folytonos harca -> Szőlőszem hasonlat!! -> célelvű világtörténet: rendíthetetlenül halad a célja felé és ez csak a szabadság kiterjesztésével fog bekövetkezni.
+Cselekedni kell a nép helyett, mert a nép kiskorú. Az emberiség történelme egy vérfolyam – elnyomott emberek folytonos harca → Szőlőszem hasonlat!! → célelvű világtörténet: rendíthetetlenül halad a célja felé és ez csak a szabadság kiterjesztésével fog bekövetkezni.
 
 Az egyes ember önfeláldozó harca az, ami jobbá teszi a világot.
 
-A nép 3x tagadja meg Szilvesztert -> kiválasztottság és kitaszítottság; megszégyenítik. Ezek a dolgok Krisztushoz teszik hasonlóvá.
+A nép 3x tagadja meg Szilvesztert → kiválasztottság és kitaszítottság; megszégyenítik. Ezek a dolgok Krisztushoz teszik hasonlóvá.
 
 *A szerepkonfliktus feloldhatatlan.* Ezért mindkét szerepben sikertelen. Szilveszter története így egy tragikus iróniával végződik, mivel a magánéletben és az apostoli szerepben is kudarcot vallott.
 

@@ -1,7 +1,7 @@
 ## Móricz Zsigmondról röviden
 
  - 1879-ben született Tiszacsécsén
- - tanulmányait a debreceni, majd a sárospataki református kollégiumban végezte -> bukott (nagybátyja segít)
+ - tanulmányait a debreceni, majd a sárospataki református kollégiumban végezte → bukott (nagybátyja segít)
  - református teológiát, jogot tanult, de nem fejezte be
  - 1906-ig a kisfaludy társaság megbízásából 5 népmese és népdalgyűjtő út
  - 1905 Holics Eugénia oo (de öngyilkos lett) majd Simonyi MÁria, 1936 Littkei Erzsébet
@@ -99,7 +99,7 @@ A fia ijesztően hasonlít hozzá → ugyan ez lesz a sorsa. Kis János apja az 
 
 #### Barbárok
 
- - forrás: 2 népballada -> a megölt havasi pásztor és a bárányka
+ - forrás: 2 népballada → a megölt havasi pásztor és a bárányka
  - alföldi ridegpásztor
  - 3 részből áll: mindhárom tetőpontjánál fontos szerep a rézveretes szíjnak (gyilkosság, bírósági tárgyalás)
  - már a cím nyomasztó érzést kelt
@@ -112,7 +112,7 @@ A fia ijesztően hasonlít hozzá → ugyan ez lesz a sorsa. Kis János apja az 
  - nyomasztó csend
  - a veres juhász a feleségétől kérdezi, aki a faluban lakik, van még egy 12 éves kisfia
  - az egyik juhász megkérdezi Bodrit eladó-e az öve, azt mondja nem
- - a vendég juhászok megölik Bodri juhászt, a kisfiát és kutyáit -> eltemetik
+ - a vendég juhászok megölik Bodri juhászt, a kisfiát és kutyáit → eltemetik
  - a szíj bodrin marad
  - megvacsoráznak és elhajtják a nyájat (ezért jöttek)
 
@@ -120,16 +120,16 @@ A fia ijesztően hasonlít hozzá → ugyan ez lesz a sorsa. Kis János apja az 
 
  - bodri juhász felesége férje keresésére indul
  - csak a rézveretes szíjat és a botot találja meg
- - a veres juhászra és társaira talált -> azt mondják neki, a dunántólra ment
- - a felesége nem nyogodott -> a "ment" szó: akaraterő, távolság, férjéhez való ragaszkodás - a puli kölykével keres sikertelenül
+ - a veres juhászra és társaira talált → azt mondják neki, a dunántólra ment
+ - a felesége nem nyogodott → a "ment" szó: akaraterő, távolság, férjéhez való ragaszkodás - a puli kölykével keres sikertelenül
  - visszatérve a körtefánál megáll, ahol férjével szokott találkozni, a puli kölyke megtalálja a holttesteket, mindent megértett
- - szegedre ment a csendbiztoshoz -> rézveretes szíj átadása
+ - szegedre ment a csendbiztoshoz → rézveretes szíj átadása
 
 ##### 3. rész
 
  - 2 fontos szereplő: a bíró és a vres juhász
  - már az elejétől tudjuk, hogy a veres juhászt felakasztják
- - a vers juhász makacsul tagad -> a rézveretes szíj megpillantása után vall
+ - a vers juhász makacsul tagad → a rézveretes szíj megpillantása után vall
 
 ---
 

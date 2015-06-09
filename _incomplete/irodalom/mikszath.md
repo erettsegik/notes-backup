@@ -1,6 +1,6 @@
 ## Mikszáth Kálmánról röviden
 
- - *1847*-ben született Szklabonyán -> evangélikus, nemesi család -> gazdálkodók
+ - *1847*-ben született Szklabonyán → evangélikus, nemesi család → gazdálkodók
  - a győri jogakadémián tanult, majd a pesti jogi karon, de nem diplomázott
  - Balassagyarmaton Mauks Mátyás nógrádi főszolgabíróval esküdt, ügyészsegéd
  - elvette lányát, Mauks Ilonát (mátyás ellennezte) (kétszer is elvette)

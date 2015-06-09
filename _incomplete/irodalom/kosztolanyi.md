@@ -30,7 +30,7 @@ Az esztétikumot, a nyelviséget helyezte előtérbe, az erkölcs nem volt szám
    + pl: mostan színes tintákról álmodom
      - (gyermek és a költő is fest) szecesszió, impresszionizmus
      - (színek, pillanatnyi benyomások)
-     - rokonvers: magánhangzók szonettje -> bevezető vers: mint aki sínek közé esett
+     - rokonvers: magánhangzók szonettje → bevezető vers: mint aki sínek közé esett
      - emlékezés: rokon minden, megszúnik, létösszegzés, szembesülés a múlttal - emlékezet játéka
      - utolsó vers: menj kisgyerek! gyerekkor: szép időszak, igazi boldogság, freudi lélektan
      - még kötetek: öszi koncert, kártyamánia

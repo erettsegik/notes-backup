@@ -41,7 +41,7 @@ Emerenc mitikus alak:
 2. erkölcsi tartás
 3. önfegyelem
 
-Ha ezek megrendülnek akkor elveszíti a lába alól a talajt - > ez történik amikor rátörik az ajtót
+Ha ezek megrendülnek akkor elveszíti a lába alól a talajt → ez történik amikor rátörik az ajtót
 
 Szerinte mindenkinek joga van meghalni úgy ahogy akar, de nem hagyják neki…
 

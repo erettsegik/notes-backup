@@ -28,7 +28,6 @@
  - Mindentudó narrátor, élőbeszédszerű
  - Véleménynyilvánítás, kiszólások
 
-
 *Az orr*
  - Társadalmat veszi alá
  - Egyenruhát öltő orr – már tisztelik
