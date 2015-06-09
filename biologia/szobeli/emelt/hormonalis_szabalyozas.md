@@ -33,6 +33,8 @@ Az állandóan változó külső környezetben az állati *szervezet homeosztáz
 
 A különféle feladatokat ellátó egységek összehangolását a köztük működő *kommunikáció* teszi lehetővé. Ennek lényege, hogy egyes sejtek különféle *jeleket* - kémiai, elektromos - bocsátanak ki, amelyeket más sejtek - a *célsejtek* - felismernek, aminek következtében *működésüket megváltoztatják*.
 
+![Irányítás](http://i.imgur.com/b7OZTp5.png)
+
 A kommunikációnak a szervezet szintjén több formája alakult ki:
 
  - endokrin kommunikáció, amely a hormonális,
@@ -40,6 +42,8 @@ A kommunikációnak a szervezet szintjén több formája alakult ki:
  - parakrin kommunikáció, melyre példát a tápcsatorna falában termelődő szöveti hormonok kapcsán láttunk.
 
 > autokrin kommunikáció, ahol az elválasztott anyag a sejt saját működését befolyásolja.  A kibocsátó sejt saját magát értesíti, többnyire arról, hogy a kiürülő anyag mennyisége mekkora. Például sok idegsejt a szinaptikus transzmitterét az axonvégződésen meg is tudja kötni, és az itteni receptorok izgatása legtöbbször negatív visszacsatolással szabályozza – csökkenti - a transzmitter ürüléstét.
+
+![Kommunikáció formái](http://i.imgur.com/ARFopaC.png)
 
 ## 2. Az endokrin szabályozás
 
@@ -55,6 +59,8 @@ A fontosabb belső-elválasztású mirigyek:
  - *mellékvesék*
  - *hasnyálmirigy*
  - *ivarmirigyek (here, petefészek)*
+
+![Mirigyek](http://i.imgur.com/cII8mTP.png)
 
 ### 2.2 Hormonok
 
@@ -95,6 +101,8 @@ A *szteroid hormonok* képesek akadály nélkül átjutni a membránon és a cit
 
 A *sejten kívüli receptorok* a *sejthártya felszínén találhatók*, melyek általában peptidhormon receptorok. Mivel a hormon nem jut be a sejt belsejébe - ahol azok az anyagcsere folyamatok zajlanak, amelyekre hat - szükség van egy olyan ún. *másodlagos hírvivőre*, amely a membrán felszínén történő változásokat közvetíti a sejt belseje felé.
 
+![Célsejt](http://i.imgur.com/jp9Fl8c.png)
+
 Ilyen másodlagos hírvivő a *cAMP* amelynek keletkezése és működése a *májsejtekben* a következő:
 
  - az *adrenalin* hormon megkötődik a májsejtek felszínén található receptorokon,
@@ -104,9 +112,15 @@ Ilyen másodlagos hírvivő a *cAMP* amelynek keletkezése és működése a *m�
  - A cAMP *protein kinázokat* aktivál, ezek olyan enzimek, amelyek *foszfátcsoportokat kapcsolnak más enzimekhez* azokat aktív állapotba hozva.
  - Jelen esetben ezek olyan enzimek, melyek a *glikogént glükózzá bontják*.
 
+![cAMP](http://i.imgur.com/QdGM3Uo.png)
+![cAMP](http://i.imgur.com/jNShZLy.png)
+
 *Összefoglalva, adrenalin hatására a májsejtekben a glikogén glükózzá bomlik le, amelyet a sejtek a vérpályába adnak le növelve a vércukorszintet.*
 
 Az *inzulin*, amely pont *ellentétes hatású az adrenalinnal csökkenti a májsejtekben a cAMP szintet*, mivel a glikogén szintéziséért felelős enzimek defoszforilált állapotban aktívak.
+
+![cAMP](http://i.imgur.com/6oGRjIW.png)
+![cAMP](http://i.imgur.com/Ao7f1cm.png)
 
 Továbbá a célsejtek cAMP koncentrációjának fokozásával fejtik ki a hatását a TSH, STH, ACTH, LH, FSH, parathormon, kalcitonin.
 
