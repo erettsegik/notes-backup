@@ -1,4 +1,4 @@
-Az üvegcsõben állóhullámok alakulnak ki a hangvilla gerjesztése révén. A hang felerõsödése jelzi, hogy rezonancia alakult ki a levegõoszlop és a gerjesztõ hangvilla között. Rezonancia akkor következik be ha a levegõoszlop sajátfrekvenciája megegyezik a hangvilla gerjesztõ frekvenciájával. A levegõoszlop sajátfrekvenciáját a csõ hosszának változtatásával hangolhatjuk. Nyitott végen duzzadó hely, zárt végen csomópont van, a szomszédos duzzadó és csomópontok távolsága a *hullámhossz negyede*.
+Az üvegcsőben állóhullámok alakulnak ki a hangvilla gerjesztése révén. A hang felerősödése jelzi, hogy rezonancia alakult ki a levegőoszlop és a gerjesztő hangvilla között. Rezonancia akkor következik be ha a levegőoszlop sajátfrekvenciája megegyezik a hangvilla gerjesztő frekvenciájával. A levegőoszlop sajátfrekvenciáját a cső hosszának változtatásával hangolhatjuk. Nyitott végen duzzadó hely, zárt végen csomópont van, a szomszédos duzzadó és csomópontok távolsága a *hullámhossz negyede*.
 
 Alapegyenlet: c=l×f
 c: hangsebesség
@@ -7,23 +7,23 @@ f: frekvencia
 
 II. Feladat:
 
-Ismert frekvenciájú hangra rezonáló levegõoszlop hosszának mérésével határozza meg a hang terjedési sebességét levegõben!
+Ismert frekvenciájú hangra rezonáló levegőoszlop hosszának mérésével határozza meg a hang terjedési sebességét levegőben!
 
 III. Anyag és eszközlista
 
-Nagyméretû, egyik végén zárt üveg- vagy mûanyaghenger, mindkét végén nyitott, a hengeres edénybe illeszthetõ mûanyag csõ, oldalán centiméteres beosztású skála ismert rezgésszámú hangvilla, nagyméretû tálca, víz tartóedényben, mérõszalag
+Nagyméretű, egyik végén zárt üveg- vagy műanyaghenger, mindkét végén nyitott, a hengeres edénybe illeszthető műanyag cső, oldalán centiméteres beosztású skála ismert rezgésszámú hangvilla, nagyméretű tálca, víz tartóedényben, mérőszalag
 
-![]()
+![](http://i.imgur.com/adMVwHW.png)
 
 IV. A kísérlet menete
 
-A hengert állítsa a tálcára és töltsön bele vizet! Az oldalán skálával ellátott csövet merítse a vízbe! A csõben lévõ levegõoszlopot alulról a víz zárja be, így a légoszlop hossza a csõ emelésével és süllyesztésével változtatható. A csõ szabad vége fölé tartsunk rezgõ hangvillát, majd a maximálisan vízbe merített csövet emeljük lassan egyre magasabbra, közben figyeljük a hang felerõsödését!
+A hengert állítsa a tálcára és töltsön bele vizet! Az oldalán skálával ellátott csövet merítse a vízbe! A csőben lévő levegőoszlopot alulról a víz zárja be, így a légoszlop hossza a cső emelésével és süllyesztésével változtatható. A cső szabad vége fölé tartsunk rezgő hangvillát, majd a maximálisan vízbe merített csövet emeljük lassan egyre magasabbra, közben figyeljük a hang felerősödését!
 
-A maximális hangerõsséghez tartozó levegõoszlop-magasságot (a csõ peremének és a henger vízszintjének különbsége) mérjük le!
+A maximális hangerősséghez tartozó levegőoszlop-magasságot (a cső peremének és a henger vízszintjének különbsége) mérjük le!
 
-Folytassuk a csõ emelését egészen a második rezonancia-helyzetig, és mérjük le ismét a belsõ csõben lévõ levegõoszlop hosszát!
+Folytassuk a cső emelését egészen a második rezonancia-helyzetig, és mérjük le ismét a belső csőben lévő levegőoszlop hosszát!
 
-A villa hangjának erõsödése jelzi, hogy a csõben lévõ légoszlop rezonál a hangvillára, azaz a csõben hang-állóhullám alakul ki.
+A villa hangjának erősödése jelzi, hogy a csőben lévő légoszlop rezonál a hangvillára, azaz a csőben hang-állóhullám alakul ki.
 
 *A hullám fogalma:* A fizikában minden olyan változást (zavart), amely valamilyen közegben tovaterjed, hullámnak nevezünk.
 

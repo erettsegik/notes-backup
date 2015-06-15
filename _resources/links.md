@@ -1,9 +1,12 @@
 Fizika
 ------
 csucshatas.png               -> http://i.imgur.com/JWxwflL.png
+gyorsulas_ido.png            -> http://i.imgur.com/DmDVSnb.png
 hangvilla.png                -> http://i.imgur.com/adMVwHW.png
 kotesi_osztalyresz_gorbe.png -> http://i.imgur.com/m41CRVd.png
+sebesseg_ido.png             -> http://i.imgur.com/N3wdqTB.png
 stabilitasi_gorbe.png        -> http://i.imgur.com/RCj3Fon.png
+ut_ido.png                   -> http://i.imgur.com/72IxDdh.png
 
 Magyar nyelv
 ------------

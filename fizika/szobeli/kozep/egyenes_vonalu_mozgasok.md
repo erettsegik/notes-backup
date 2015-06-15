@@ -5,11 +5,13 @@ Két pont közötti legrövidebb távolság: elmozdulásvektor. Ha a pálya egyb
 
 ## Egyenes vonalú egyenletes mozgás:
 
-Mikola-csővel végzett kísérlet során megfigyelhetjük, hogy a buborék egyenlő idő alatt egyenlő utat tesz meg. Az egyenes vonalú egyenletes mozgás *dinamikai feltétele*, hogy a testet érő erők eredője nulla legyen. Ebből arra következtetünk, hogy a buborék által megtett út és az út megtételéhez szükséges idő között egyenes arányosság van (s~t) a kettő hányadosa egy állandót határoz meg. Az egyenletes mozgás jellemzésére alkalmas, a neve *sebesség*.
+Mikola-csővel végzett kísérlet során megfigyelhetjük, hogy a buborék egyenlő idő alatt egyenlő utat tesz meg. Az egyenes vonalú egyenletes mozgás *dinamikai feltétele*, hogy a testet érő erők eredője nulla legyen. Ebből arra következtetünk, hogy a buborék által megtett út és az út megtételéhez szükséges idő között egyenes arányosság van (s ~ t), a kettő hányadosa egy állandót határoz meg. Az egyenletes mozgás jellemzésére alkalmas, a neve *sebesség*.
 
- - Jele: v, v=s/t
- - SI-beli mértékegysége: m/s vagy km/h 1 m/s = 3,6 km/h
+ - Jele: [latex inline]v[/latex]
+ - SI-beli mértékegysége: [latex inline]\frac{m}{s} (1 \frac{m}{s} = 3,6 \frac{km}{h})[/latex]
  - vektromennyiség: iránya és nagysága is van
+
+[latex]v = \frac{s}{t}[/latex]
 
 Annak a testnek nagyobb a sebessége, amelyik ugyanannyi idő alatt hosszabb utat jár végig, vagy ugyanakkora utat rövidebb idő alatt tesz meg.
 
@@ -17,16 +19,16 @@ Annak a testnek nagyobb a sebessége, amelyik ugyanannyi idő alatt hosszabb uta
 
 #### Út-idő grafikon
 
-![]()
+![Út-idő](http://i.imgur.com/72IxDdh.png)
 
 Egyenes vonalú egyenletes mozgásnál az út-idő grafikon az origóból kiinduló félegyenes.
 Minnél meredekebb az egyenes annál nagyobb a sebessége.
 
 #### Sebesség-idő grafikon
 
-![]()
+![Sebesség-idő](http://i.imgur.com/N3wdqTB.png)
 
-A sebesség-idő grafikon az x(t) tengellyel párhuzamos egyenes.
+A sebesség-idő grafikon az [latex inline]x(t)[/latex] tengellyel párhuzamos egyenes.
 A sebesség-idő grafikon alatti terület mérőszáma a megtett út mérőszámával egyezik meg.
 
 ## Egyenes vonalú egyenletesen változó mozgás:
@@ -45,31 +47,35 @@ Változatlan feltételek között gyorsulva mozgó test sebessége egyenlő idő
 
 ### Gyorsulás:
 
-Az egyenes vonalú egyenletesen változó mozgásnát egyenlő időtartamok alatt minidg ugyanannyival változik a sebesség (v~t), hányadosuk állandó állandó, melyet *gyorsulásnak* nevezünk. Számértéke megmutatja, hogy egy másodperc alatt mennyivel változik meg a test sebessége.
+Az egyenes vonalú egyenletesen változó mozgásnál egyenlő időtartamok alatt minidg ugyanannyival változik a sebesség (v ~ t), hányadosuk állandó állandó, melyet *gyorsulásnak* nevezünk. Számértéke megmutatja, hogy egy másodperc alatt mennyivel változik meg a test sebessége.
 
- - [latex inline]a = \frac{\delta v}{\delta t} = \frac{v_t - v_0}{\delta t}[/latex]jele: a
- - mértékegysége: m/s2
+ - jele: [latex inline]a[/latex]
+ - mértékegysége: [latex inline]\frac{m}{s^2}[/latex]
  - vektormennyiség: nagysága és iránya van.
+
+[latex]a = \frac{\Delta v}{\Delta t} = \frac{v_t - v_0}{\Delta t}[/latex]
 
 Annak a testnek nagyobb a gyorsulása, amelyiknek ugyanannyi idő alatt nagyobb a sebességváltoztatása, vagy ugyanakkora sebességváltoztatáshoz rövidebb időre van szükség.
 
-![]()
+![Gyorsulás-idő](http://i.imgur.com/DmDVSnb.png)
 
 A gyorsulás-idő grafikon az idő tengellyel párhuzamos egyenes. A grafikon alatti terület mérőszáma a t idő alatt bekövetkező sebességváltozás mérőszámával egyezik meg.
 
 Út idő grafikonon egy fél parabolát kapunk.
 
-A sebesség idő grafikonon, ha nincs kezdősebesség, akkor egy origóból kiinduló vonal, ami annál meredekebb, minnél nagyobb a gyorsulás. A grafikon alatti területből kiszámítható, hogy s=(v*t)/2=a/2*t^2.
+A sebesség idő grafikonon, ha nincs kezdősebesség, akkor egy origóból kiinduló vonal, ami annál meredekebb, minnél nagyobb a gyorsulás. A grafikon alatti területből kiszámítható a következő:
+[latex]s = \frac{v*t}{2} = \frac{a}{2} * t^2[/latex]
 
-Az álló helyzetből induló test pillanatnyi sebessége a test gyorsulásának és eltelt idő szorzatának eredményével egyezik meg (v=a*t). Ha van kezdősebessége a testnek akkor a megtett út képlete megváltozik; s=v0*t+1/2a*t^2.
+Az álló helyzetből induló test pillanatnyi sebessége a test gyorsulásának és eltelt idő szorzatának eredményével egyezik meg ([latex inline]v = a * t[/latex]). Ha van kezdősebessége a testnek akkor a megtett út képlete megváltozik:
+[latex]s = v_0 * t + \frac{a}{2} * t^2[/latex]
 
 Az út tehát az idő négyzetével arányos, ezért ezt négyzetes úttörvénynek szokás nevezni.
 
 ### Szabadesés
 
-Az egyenletesen változó mozgásoknak vannak speciális fajtái. Ilyen a *szabadesés*. Egy test szabadon esik, amikor csak a gravitációs mező hatása érvényesül. A szabadon eső tetek gyorsulása Mo.-n 9,81 m/s^2, amit g-vel szokás jelölni. Ez a gravitációs gyorsulás például *fonálinga* segítségével könnyen megmérhető.
+Az egyenletesen változó mozgásoknak vannak speciális fajtái. Ilyen a *szabadesés*. Egy test szabadon esik, amikor csak a gravitációs mező hatása érvényesül. A szabadon eső tetek gyorsulása Mo.-n [latex inline]9,81 \frac{m}{s^2}[/latex], amit [latex inline]g[/latex]-vel szokás jelölni. Ez a gravitációs gyorsulás például *fonálinga* segítségével könnyen megmérhető.
 
-Ha egy testet nem csak elejtünk hanem lefele vagy felfele elhajítjuk, akkor *függőleges hajításról* beszélünk. Ezeket a mozgásokat az, s=v0*t+1/2g*t^2, v=v0+g*t egyenletekkel írhatjuk le, illetve felfele hajított testeknél a g negatív, mert a mozgás irányával ellentétes.
+Ha egy testet nem csak elejtünk hanem lefele vagy felfele elhajítjuk, akkor *függőleges hajításról* beszélünk. Ezeket a mozgásokat az, [latex inline]s = v_0 * t + \frac{g}{2} * t^2, v = v_0 + g * t[/latex] egyenletekkel írhatjuk le, illetve felfele hajított testeknél a [latex inline]g[/latex] negatív, mert a mozgás irányával ellentétes.
 
 A *vízszintes hajítás* gyakorlatilag egy szabadesésből és egy egyenletes mozgásból áll. Ez a Lőwy-féle ejtőgéppel bebizonyítható.
 

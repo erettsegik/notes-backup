@@ -1,9 +1,13 @@
 A *belső energia* az anyagot felépítő atomok, molekulák rendezetlen mozgásából származó mozgási energiáinak összege.
 
 *Ekvipartíció tétele:*
-Ideális gázban, amelynek hőmérséklete T minden egyes részecske mindegyik szabadsági fokára átlagosan ½ k*T  energia jut. tehát N részecskéből álló rendszerben ahol f a szabadsági fokok száma:
+Ideális gázban, amelynek hőmérséklete T minden egyes részecske mindegyik szabadsági fokára átlagosan [latex inline]\frac{1}{2} * k * T[/latex]  energia jut. Tehát N részecskéből álló rendszerben ahol f a szabadsági fokok száma:
 
-[latex inline]E belső= f/2 *N*k*T mólok számával: E belső= f/2*n*R*T[/latex]
+[latex]E_{belso} = \frac{f}{2} * N * k * T [/latex]
+
+mólok számával:
+
+[latex]E_{belso}= \frac{f}{2} * n * R * T[/latex]
 
 A belső energia is állapotjelző hőmérséklettől függ, ezért:
 
@@ -12,28 +16,28 @@ A belső energia is állapotjelző hőmérséklettől függ, ezért:
 
 A testek belső energiája minden halmazállapotban kétféleképpen változtatható meg:
 
-- hőmennyiség felvételével, leadásával : Q
-- a rendszer térfogatának megváltoztatásával, térfogati munkával: W
+- hőmennyiség felvételével, leadásával: [latex inline]Q[/latex]
+- a rendszer térfogatának megváltoztatásával, térfogati munkával: [latex inline]W[/latex]
 
-Tehát a *termodinamika első főtétele*: [latex inline](delta) E (belső) = Q + W[/latex] (akkor pozitív, ha növelik a belső energiát)
-leadott vagy felvett hőmennyiség: [latex inline]Q = c * m * (delta)T[/latex] (c a fajhő, anyagi minőségre jellemző állandó)
+Tehát a *termodinamika első főtétele*: [latex inline]\Delta E_{belso} = Q + W[/latex] (akkor pozitív, ha növelik a belső energiát)
+leadott vagy felvett hőmennyiség: [latex inline]Q = c * m * \Delta T[/latex] (c a fajhő, anyagi minőségre jellemző állandó)
 
-A *fajhő* megmutatja, hogy egységnyi tömegű anyag hőmérsékletének 1 Celsius fokkal történő megváltozásához mekkora hőmennyiség szükséges. Jele: c, mértékegysége J/(K*kg) vagy J/(C*kg).
+A *fajhő* megmutatja, hogy egységnyi tömegű anyag hőmérsékletének 1 Celsius fokkal történő megváltozásához mekkora hőmennyiség szükséges. Jele: c, mértékegysége: [latex inline]\frac{J}{K * kg}[/latex] vagy [latex inline]\frac{J}{C * kg}[/latex].
 
-Gázoknál megkülönböztetünk állandó nyomáshoz (izobár , 'cv'), illetve állandó térfogathoz (izochor, 'cp') fajhőt.
+Gázoknál megkülönböztetünk állandó nyomáshoz (izobár , [latex inline]c_v[/latex]), illetve állandó térfogathoz (izochor, [latex inline]c_p[/latex]) fajhőt.
 
-[latex inline]*cp>cv*[/latex]
+[latex inline]c_p > c_v[/latex]
 
 Ennek az az oka, hogy állandó nyomáson a felvett hőmennyiség nemcsak a belső energiát növeli, hanem a gáz térfogati munkáját is fedezi. Állandó térfogaton pedig a felvett hőmennyiség nemcsak a belső energiát növeli, hanem a gáz térfogati munkáját is fedez. Állandó térfogaton pedig a felvett hőmennyiség csak a belső energia növelésére fordítódik.
 
-Állandó nyomáson a térfogati munka: [latex inline]W = p * (delta)V[/latex]
+Állandó nyomáson a térfogati munka: [latex inline]W = p * \Delta V[/latex]
 
 Speciális esetek:
 
-- *izoterm:* T- állandó: [latex inline]delta E=0 0=Q+W[/latex]
-- *izochor:* V- állandó: [latex inline]delta V=0 W=0 delta E=Q[/latex]
-- *izobár:* p- állandó: [latex inline]W=p*delta V delta E=Q+W[/latex]
-- *adiabatikus:* [latex inline]Q=0 delta E=W[/latex]
+- *izoterm:* T- állandó: [latex inline] \Delta E = 0,  0 = Q + W[/latex]
+- *izochor:* V- állandó: [latex inline] \Delta V=0,  W=0, \Delta E = Q[/latex]
+- *izobár:* p- állandó: [latex inline]W = p * \Delta V,  \Delta E = Q + W[/latex]
+- *adiabatikus:* [latex inline]Q = 0,  \Delta E = W[/latex]
 
 Gázok egymás utáni különböző típusú állapotváltozásaiból *körfolyamatok* tehetők össze. Körfolyamatban a belső energia a teljes ciklusban végeredményében nem változik meg.
 
