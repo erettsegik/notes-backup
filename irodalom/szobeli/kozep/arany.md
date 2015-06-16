@@ -1,45 +1,40 @@
  - Magyar romantikus kölrő, a Kisfaludi Társaság igazgatója, a Magyar Tudományos akadémia tagja és főtitkára volt
 
-### Életéről röviden
+## Életéről röviden
 
  - 1817-ben született Nagyszalontán
  - Szegény családból származott, késői gyermek volt
  - A debreceni kollégiumban tanult, utána tanított, majd vándorszínész lett
  - 1840-ben aljegyző lett és feleségül vette *Ecsery Juliannát*, két gyermeke: Juliska és László
  - Első műve Az elveszett alkotmány (elküldte a Kisfaludi Társaságnak, de nem nyert)
+ - Pályája elejét főként epikus művek jellemezték, mint például a Toldi, Toldi estéje (eposzok, elbeszélő költemények)
  - *1847*-ben megírta a *Toldit*, ezzel már nyert. Ekkor üdvözölte levelében *Petőfi* és életre szóló barátok lettek
  - *1848*-ban a Kisfaludy Társaság tagja lett, majd a Nép Barátja, Szépirodalmi Figyelő és a Koszorú című lapok szerkesztője, és az MTA tagja, főtitkára
- - Nagy veszteség éérte, amikor lánya meghalt; a Margit-szigeten alkotott
- - *1882* októberében betegségben hunyt el
-
-<!-- -->
-(1817 márc. 2. Nagyszalonta – 1882 okt. 22. Budapest)
- - 1817-82-ig élt és alkotott
- - Pályája elejét főként epikus művek jellemezték, mint például a Toldi, Toldi estéje (eposzok, elbeszélő költemények)
  - Majd a lírai alkotások domináltak, amik komor elégikus hangulatúak. Tematizálják az egyén és a világ szemben állását. Történelmi, népi jellegű és kísértet balladákat írt.
  - Nagykőrösi évei alatt írta legtöbb illetve legjelentősebb balladáit, ezek a legjobban szerkesztett költeményei
  - Nagykőrösi balladáiban a bűn és bűnhődés kapcsolatát tematizálja
+ - Nagy veszteség érte, amikor lánya meghalt; a Margit-szigeten alkotott
  - Pályája utolsó éveiben epigramma jellegű verseket írt témái általában a beteljesítetlen életpálya volt.  Kapcsos könyvbe írott költemények ezek
-<!-- -->
+ - *1882* októberében betegségben hunyt el Budapesten
 
-### Pályája
+## Pályája
 
-#### 1. pályaszakasz: 1845-49
+### 1. pályaszakasz: 1845-49
 
 Az elveszett alkotmány és a Toldi, népies helyzetdalok, a harmónia visszaállítása
 
-#### 2. pályaszakasz: 1851-60
+### 2. pályaszakasz: 1851-60
 
  - balladák - nagykörösi évek
    + egyensúly hiány - ön- és nemzetazonosság elvesztése
    + tragikus élmény - elégikus létszemlélet, lemondás
 
-#### 3. pályaszakasz: 1860-77
+### 3. pályaszakasz: 1860-77
 
  - alig ír, inkább irodalomszervező
  - 1863 - Buda halála
 
-#### 4. pályaszakasz: 1877-82
+### 4. pályaszakasz: 1877-82
 
  - Margit-sziget - Őszikék
 
@@ -96,36 +91,38 @@ Három fontos balladáját vettük Aranynak, amiben megjelenik a bűn és bűnh�
  - átmeneti csoport (a bűnt büntetés követi és azt bűn) - Ágnes asszony
  - eltűnik a gondviselés (káosz) - Híd-avatás, Tengeri-hántás
 
-### Ágnes asszony (1853)
+---
+
+## Ágnes asszony (1853)
 
  - nagykőrösi balladákhoz tartozik (1851-60)
  - átmeneti, népi jellegű
  - Ágnes asszony lelki világa áll a középpontban
 
-#### 1. rész: 1-4. versszak
+### 1. rész: 1-4. versszak
 
  - fehér: népművészetben a gyász színe
  - felkiáltás: "Óh irgalom atyja"
- - hazugság, tagadás -> megölte a férjét
- - a nő zavart: "Csillagom, hisz odabent alszik" -> lelkiismeret-furdalás
- - 4. versszak: mosás -> mániákus tisztítás
+ - hazugság, tagadás → megölte a férjét
+ - a nő zavart: "Csillagom, hisz odabent alszik" → lelkiismeret-furdalás
+ - 4. versszak: mosás → mániákus tisztítás
 
-#### 2. rész: 5-9. versszak (a megőrülés folyamata)
+### 2. rész: 5-9. versszak (a megőrülés folyamata)
 
  - börtön(kép) = Ágnes asszony lelke
  - az elbeszélő sajnálja Ágnest
  - "néz merően" - az őrületet írja, fokozza
 
-#### 3. rész: 10-19. versszak (tárgyalás)
+### 3. rész: 10-19. versszak (tárgyalás)
 
- - Ágnes sírni kezd -> sírás = víz = tisztulás -> mosás
+ - Ágnes sírni kezd → sírás = víz = tisztulás → mosás
  - harmónia: mogbánja bűneit
  - megőrülés: vezeklés, bűnhúdés
 
-#### 4. rész: 20-26. versszak (hazatérés)
+### 4. rész: 20-26. versszak (hazatérés)
 
  - hazaengedik, mert megőrült
- - folyamatos körforgás megjelenítése: "virradattól késő estig", "télen nyáron", "szünet nélkül" -> mos
+ - folyamatos körforgás megjelenítése: "virradattól késő estig", "télen nyáron", "szünet nélkül" → mos
  - az idő múlását mégis érzékelni lehet
 
 <!-- -->
@@ -143,7 +140,7 @@ Három fontos balladáját vettük Aranynak, amiben megjelenik a bűn és bűnh�
 <!-- -->
 
 <!-- -->
-*Szondi két apródja:*
+## Szondi két apródja
  - 2 túlélő – török követ
  - Apródok: költők, költői bátorság, kitartás szimbóluma, illetve ifjak, feddhetetlenek → örök erkölcsi példák
  - Kétszólamú ballada (hegycsúcs – Szondi sírja: pátosz, fensőséget ad völgy: török tábor)
@@ -151,33 +148,33 @@ Három fontos balladáját vettük Aranynak, amiben megjelenik a bűn és bűnh�
  - Követ: mézes-mázosból fenyegető hangnemre vált  
  - Tér: Drégely vára, idősíkok: követ → jelenből jövő, 2 apród → jelenből múlt
 
-*Tengeri hántás:*
+## Tengeri hántás
  - Népies: őszi kukoricafosztáskor zajlik
  - Egy szerelmes pár, eltűnik a lány, Tuba Ferkó lelkét hívják → bűntudat ébrentartása (hiedelemvilág)  
 
  *A tengeri hántás:* Szintén nép ihletésű ballada. Az elbeszélő feladata, hogy a kukorica hántás közben szórakoztasa a többieket, ugyanakkor erkölcsi tanítást is adjon a fiataloknak. Tuba Ferkó elhagyja a szeretőjét Dalos Esztit. A lány öngyilkos lesz, Ferkónak bűntudata támad és lezuhan egy toronyból. A büntetés most is az elme megbomlása, a hallucináció és vízió, s ennek következménye a halál.
 
-*A walesi bárdok:*
+## A walesi bárdok
  - Párhuzamos szerkezet
  - lineáris, egyszólamú
  - Példázat jelleg (Ferenc József → cím: nem lehetett volna direktben) → nemzeti függetlenség, önrendelkezés gondolata
 
  *A walesi bárdok:* Történelmi ballada, ami a hatalom és a nép viszonyát mutatja be: az elnyomó uralkodó dicsőségére egyetlen bárd sem hajlandó énekelni, ezért 500-an halnak meg. A király hallucinációiban hallja a halott vértanúk énekét, felébred a bűntudata. Zenével próbálja elnyomni a belső hangot: hiába.
 
-*Vörös rébék:*
+## Vörös rébék:*
  - Alapanyag: saját falujából (Nagyszalonta)
  - Terka és Pörge Dani, Terkát megkörnyékezi Rebeka (boszorkánysággal foglalkozik)
  - Születik egy gyerek, de nem tudni, kié → P. Dani felmérgesedik → megöli Rebi nénit, aki visszatér kísérteni → P. Daninak bűnhődnie kell, meghal
 <!-- -->
 
-### Híd-avatás (1877)
+## Híd-avatás (1877)
 
  - az Őszikék ciklus egyik balladája (Nagyvárosi ballada)
- - története: egy fiú kártyán veszít -> le akar ugrani a hídról (Margit-híd), de kísértetek jönnek fel és újra leugranak a hídról - éjfél (a kísértetek órája)
+ - története: egy fiú kártyán veszít → le akar ugrani a hídról (Margit-híd), de kísértetek jönnek fel és újra leugranak a hídról - éjfél (a kísértetek órája)
  - *"Új híd! avatni mind! vígan"*
    1. szerelmes pár - egymásé a halál után
    2. gazdag - milliomos - tönkrement
-   3. sorra jönnek - kis történetek -> ki miért lett öngyilkos -> a társadalom minden rétegéből -> mindenkit utolér a halál; gazdagot, szegényt, fiatalt, öreget
+   3. sorra jönnek - kis történetek → ki miért lett öngyilkos → a társadalom minden rétegéből → mindenkit utolér a halál; gazdagot, szegényt, fiatalt, öreget
  - *Haláltánc* - a híd átvezet
  - a híd születése - *korszakváltás*
  - a fiú története a keret - öngyilkosság - az életünk nem a mienk, hanem Istené

@@ -9,19 +9,19 @@
    2. Kivonulás (Exodus)
    3. Törvények könyve
    4. Családfák
-   5. 2.Törvénykönyv
+   5. 2\. Törvénykönyv
  - Nagypróféták (Ésaiás, Jeremiás, Ezékiel, Dániel), kispróféták
  - Bölcsességmondások: Példabeszédek
  - Énekek éneke: szerelmes levél (férfi-nő/Isten-ember)
  - Zsoltárok könyve: zsoltár → könyörgő/hálaadó/dicsőítő/panasz/átok
  - Dávid, Salamon (1. jeruzsálemi templom felépíttetése)
- - 23.Zsoltár: képek
+ - 23\. Zsoltár: képek
  - Kánon: gondos válogatás → jeruzsálemi és alexandriai gyűjtőcsapat, illetve Dávid (Ószöv.könyvei)
  - Septuaginta: 70 zsidó bölcs Alexandriában → Biblia lefordítása (Ószöv: héber, Újszöv: arámi, görög)
  - Elohimista/ jahvista teremtéstörténet
  - Monoteista vallás → Isten célszerűen, előre eltervezetten teremt
-    1. elohimista: 7 nap, rendettevés, szó ereje (szómágia – Ez jó), szétválasztás – megsokszorosítás, embert teszi a Föld urává
-    2. jahvista: a föld porából, sárból, illetve a férfi álmában az ő oldalbordájából a nőt, lehelet, édenkert
+   1. elohimista: 7 nap, rendettevés, szó ereje (szómágia – Ez jó), szétválasztás – megsokszorosítás, embert teszi a Föld urává
+   2. jahvista: a föld porából, sárból, illetve a férfi álmában az ő oldalbordájából a nőt, lehelet, édenkert
  - Bűnbeesés → ember szemének a felnyílása, kellemetlen következmények → kiűzetés, halandóság
  - Gondolatritmus: újabb és újabb megerősítés, mindig ismétli az elmondottakat, hogy megerősítse az olvasót
  - Vulgata: latinra lefordította a Bibliát (Károli a héberből, Szilveszter (katolikus) ebből dolgozik)

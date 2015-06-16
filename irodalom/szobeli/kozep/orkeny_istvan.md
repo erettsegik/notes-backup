@@ -5,8 +5,7 @@
  - Forradalom után egy ideig nem publikálhatott
  - 1973 Kossuth-díj
  - Groteszk: műveinek fő jellemzője, esztétikai minőség, a komikum egyik fajtája, rövid és tömör, a hiba központi erejű és feloldhatatlan, van szerkezete: a mű elemeinek egymáshoz való viszonya, elidegenedettség –> félelem, szorongás
- - Látásm
-ódja azért alakul ki → mindkét végletet megjárta (tragédia+komédia) → groteszk
+ - Látásmódja azért alakul ki → mindkét végletet megjárta (tragédia + komédia) → groteszk
 
 <!-- -->
 ## Élete:

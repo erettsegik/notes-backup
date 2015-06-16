@@ -22,7 +22,7 @@ A szerelmes verseket virágénekek mintájára írja meg.
 
 *Virágének*: olyan műdal, amelynek ismerjük a szerzőjét és témája a szerelem.
 
-*Szerelmi költészete:*
+### Szerelmi költészete
 
  - vallomásos jellegű
  - széphistóriák és virágénekek mintája → nyelvhasználat, ritmizálás
@@ -33,13 +33,15 @@ A szerelmes verseket virágénekek mintájára írja meg.
  - megszólítás
  - *Balassi-strófa*: olyan magyaros verselésű két 6 szótagos és egy 7 szótagos sorból álló versszak, melynek tagolása attól függ, hogy a belső rímet figyelembe vesszük vagy sem. Ennek megfelelően lehet 3,6 illetve 9 soros.
 
-*Júliára talála így köszöne néki:*
+---
 
-Az egész vers elragadott ujjongó bókok halmaza, mely túlzással indul: “Ez világ sem kell már nékem…”
+## Júliára talála így köszöne néki
+
+Az egész vers elragadott ujjongó bókok halmaza, mely túlzással indul: “Ez világ sem kell már nékem...”
 
 Boldog felkiáltás, üdvözlés. Júlia nélkül értéktelen, értelmetlen a világ. Metaforák sorozatával dicsőíti Júliát. Az imádott hölgy tulajdonságai nem derülnek ki, csak a költő érzelmei. A köszöntéssel nem áll arányban a válasz.
 
-Bókok halmozásán keresztül (szívem, lelkem, szerelmem) jut el az 5. versszakig, melyben vallomást tesz: ” Csak téged óhajt lelkem”
+Bókok halmozásán keresztül (szívem, lelkem, szerelmem) jut el az 5. versszakig, melyben vallomást tesz: ”Csak téged óhajt lelkem”
 
 Az utolsó versszakban látszik a szerelmesek közötti végtelen távolság. A megközelíthetetlen Júlia képével zárul a vers, mivel Júlia csak elmosolyodik Balassin, ki térdet és fejet hajt előtte, nem viszonozza szerelmét. A középkor udvarlóköltészetének elemei a versben:
 
@@ -47,4 +49,4 @@ Az utolsó versszakban látszik a szerelmesek közötti végtelen távolság. A 
  - virág metaforákkal nevezi meg: viola (fiatalság), rózsa (szerelem)
  - ütemhangsúlyos verstechnika: hangsúlyos és hangsúlytalan szótagok szabályos váltakozása alkotják a ritmust, kétütemű nyolcasok (ütemosztás 4/4), pattogó, élénk ritmus
  - felsorolások, fokozások, ellentétek (nap – szemöldök feketesége)
- - alliterációk (élj, élj életem…)
+ - alliterációk (élj, élj életem...)

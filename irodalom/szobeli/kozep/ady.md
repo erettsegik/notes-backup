@@ -1,4 +1,4 @@
-A xx. század legjelentősebb magyar költőinek egyeike. a magyar politikai újságírás egyik legnagyobb alakja, a Nyugat szerkesztője
+A XX. század legjelentősebb magyar költőinek egyeike. a magyar politikai újságírás egyik legnagyobb alakja, a Nyugat szerkesztője
 
 ## Életéről röviden
 

@@ -1,4 +1,4 @@
-## Vörösmarty Mihályról röviden
+## Életéről röviden
 
  - A Szózat szerzője
  - 1800-ban született Pusztanyéken, Székesfehérváron tanult, majd Pesten

@@ -12,7 +12,7 @@ Műfaja(i):
 
 Az egymást követő színek csak laza kapcsolatban állnak egymással. A laza kapcsolatot a szereplők adják meg. Háttérbe kerül a tett váltás → előtérbe kerül a szöveg líraisága.
 
-*Szerkezet*ében is 2 szintes a dráma. Alá-fölérendeltségi viszonyban van egymással a Menny és az Emberi világ. A tapasztalaton túli szinten az Isten és a Sátán küzdelme az ember lelkéért
+*Szerkezetében* is 2 szintes a dráma. Alá-fölérendeltségi viszonyban van egymással a Menny és az Emberi világ. A tapasztalaton túli szinten az Isten és a Sátán küzdelme az ember lelkéért
 
 A Tragédiában is 2 cselekmény szál fut
 
@@ -29,30 +29,31 @@ csak 13 helyszín
    + felező pont az álomszíneknél → 11/6
  - A párizsi szín az egyetlen pozitív kicsengésű szín (lelkesedéssel végződik).
 
-*Idő- és térszerkezet:*
+### Idő- és térszerkezet:
+
  - Transzcendens/tapasztalaton túli, normaadó szint
-Tér: 1-2szín: Menny, Paradicsom
-Idő: végtelen, mitikus idő, örökkévalóság
-Úr: „Én végtelen időtől tervezem…”
-Lucifer: „Mindöröktől fogva élek én…”
+   + Tér: 1-2szín: Menny, Paradicsom
+   + Idő: végtelen, mitikus idő, örökkévalóság
+   + Úr: „Én végtelen időtől tervezem…”
+   + Lucifer: „Mindöröktől fogva élek én…”
  - Átmeneti helyzet
-2 szint határa: 3.,15. szín
-Tér: Pálmafás vidék
-Idő: a teremtés befejezése és a történelem kezdete közötti idő
+   + 2 szint határa: 3.,15. szín
+   + Tér: Pálmafás vidék
+   + Idő: a teremtés befejezése és a történelem kezdete közötti idő
  - Evilági, nomakövető szint
-Tér: 4-14. szín
-Idő:
-   + történelmi idő (emberiség)
-Madách idejéhez képest 6 múltbéli szín (3-3 ókori, középkori), 1 jelen (londoni szín) és 3 jövő szín (Falanszter, Űr, Eszkimó)
+   + Tér: 4-14. szín
+   + Idő:
+     - történelmi idő (emberiség)
+     - Madách idejéhez képest 6 múltbéli szín (3-3 ókori, középkori), 1 jelen (londoni szín) és 3 jövő szín (Falanszter, Űr, Eszkimó)
    + életidő (egyén)
-ifjú Ádám → élemedett Ádám → megtört aggastyán
-utal az eredendő bűnre, evett a tudás fájából, az örök élet fájából már nem, mert kiűzték a Paradicsomból
+     - ifjú Ádám → élemedett Ádám → megtört aggastyán
+     - utal az eredendő bűnre, evett a tudás fájából, az örök élet fájából már nem, mert kiűzték a Paradicsomból
 
 15 szín kell, hogy osztható legyen 3-mal (ezért van a helyszín duplázása)
 
-*HEGEL-i dialektika:*
+### HEGEL-i dialektika:
 
-TÉZIS= rendező elv: meghatározza a kor szerepét
+TÉZIS = rendező elv: meghatározza a kor szerepét
 
 ANTITÉZIS: a tézisre ellentétesen ható erő
 

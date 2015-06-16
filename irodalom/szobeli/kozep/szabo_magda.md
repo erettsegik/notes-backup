@@ -1,6 +1,10 @@
+## Életéről röviden
+
  - híresebb regényei: Régimódi történet, Für Elise, Abigél
  - emellett színpadi szerző: pl. Az a szép fényes nap
  - 2007-ben halt meg
+
+## Az ajtó
 
 Az ajtó 1987-ben jelent meg, és 2003-ban Femina díjat kapott érte, több nyelvre is lefordították, ez a legismertebb műve.
 
@@ -9,7 +13,7 @@ Az ajtó 1987-ben jelent meg, és 2003-ban Femina díjat kapott érte, több nye
 
 A regény az írónő és a háztartást vezető Szeredás Emerenc közötti kapcsolatra épül, annak kiépülését és leépülését mutatja be.
 
-## Emerenc
+### Emerenc
 
 Megfordítja a munkáltató – munkás viszonyt, ő dönti el, hogy hajlandó-e beállni Magdához dolgozni vagy sem (mondhatni ő interjúztatja).
 
@@ -45,23 +49,23 @@ Ha ezek megrendülnek akkor elveszíti a lába alól a talajt → ez történik 
 
 Szerinte mindenkinek joga van meghalni úgy ahogy akar, de nem hagyják neki…
 
-## Kapcsolat
+### Kapcsolat
 
 Társfüggőség alakul ki az írónő és Emerenc között, túlságosan nagy szeretet, anya-lánya viszony.
 
 Legborzongatóbb jelenet: A kórházban mikor Emerenc tehetetlen test és rászorul mások segítségére, a kendőjét is leveszik, akkor megharapja az írónő ujját. Ezzel átszakítja a határt, a legintimebben fejezi ki bizalmát és szeretetét.
 
-## Narráció
+### Narráció
 
 Úgy hangzik mint egy vallomás, gyónás, magyarázat (az írónő magának és a külvilágnak).
 
 A személyes gyónás egyfajta példázatra megy át az emberi viselkedésről. Magdának döntenie kellett hogy átveszi a Kossuth-díját vagy pedig megvárja  a mentőket és Emerenc mellett marad. A Kosstuh-díjat választotta és ez visszavonhatatlan hiba, amiért lelkiismeret furdalása van.
 
-## Időrendiség
+### Időrendiség
 
 Ugrál a jelen és a történet között, plusz Emerenc múltjába tekintések.
 
-## KINT (az utca, külvilág) – BENT (a lakás, saját világa)
+#### Kint (az utca, külvilág) – bent (a lakás, saját világa)
 
  - megismerhető világ – titokzatos
  - tisztaság- mocskos lakás

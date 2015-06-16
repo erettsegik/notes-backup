@@ -1,13 +1,13 @@
- - kÖltő, író, irodalomtörténész
- - a xx. század eleji magyar irodalom jelentős alakja, a Nyugat első nemzedékének tagja
+ - Költő, író, irodalomtörténész
+ - A XX. század eleji magyar irodalom jelentős alakja, a Nyugat első nemzedékének tagja
 
-### Életéről röviden
+## Életéről röviden
 
  - 1883-ban született Szekszárdon, katolikus családban (nemesi család)
  - Műveltségének gyökereit családi hátteréből kapta
  - A katolikus főgimnázium után a Pesti Egyetem magyar-francia szakán tanult, ahol részt vett a *Négyesi László féle stílusgyakorlaton* (Nyugat nagyjaival - Juhász Gyula, Kosztolányi Dezső)
  - Tanári képesítést szerzett, 5 nyelven beszélt, egy ideig Fogarason tanított
- - Járt velencében is, több műve megjelent olaszul is -> szoros kapcsolata volt Olaszországgal (Dante: Isteni színjáték)
+ - Járt velencében is, több műve megjelent olaszul is → szoros kapcsolata volt Olaszországgal (Dante: Isteni színjáték)
  - 1909-től kezdett publikálni a Nyugatban
  - Tanítványa volt *Szabó Lőrinc*
  - Felesége *Tanner Ilona (Török Sophie)* írónő - gyermekük nem született, de örökbe fogadták Babits Ildikót (Sophie öccsének gyermeke)
@@ -18,7 +18,6 @@
  - Gégerákja miatt 1941-ben halt meg, betegsége idejébőlfennmaradtak a beszélgető füzetek
 
 <!-- -->
-- (1883-1941)
 - Poéta doctus (tudós költő, művelt, latinul tud, tökéletes egység forma -tartalom)
 - Esztétizálás
 - Vád: elvonul a közélettől, bezárkózik (elefántcsonttoronyban ül)
@@ -35,7 +34,7 @@
 - Záró versek: Jónás könyve, Jónás imája
 <!-- -->
 
-### Pályája
+## Pályája
 
  - életműve sokoldalú és jelentős, munkája egyedülálló és nem besorolható
  - konzervatív, klasszikus elveket képvisel, klasszikus formákhoz, hagyományokhoz nyúl vissza
@@ -47,18 +46,18 @@
  - alapproblémái: ember és a világ viszonya, megismerés és kifejezhetőség, az európai hagyomány újraértelmezhetősége
  - regényei: a gólyakalifa, Tímár Virgil fia, Elza pilóta avagy a tökéletes társadalom
 
-#### 1. szakasz: 1909 (Levelek Iris koszorújáról)
+### 1. szakasz: 1909 (Levelek Iris koszorújáról)
 
  - szembehelyezkedik az élménylíra hagoymányaival, tárgyiasabb beszédmódokban nyilatkozik meg, témagazdagság és formai sokszínűség jellemzi
  - szerkesztett kötetek
  - szimbolizmus, szecessziós, impressionista jegyek Pl: in horatium
 
-#### 2. szakasz: 1916
+### 2. szakasz: 1916
 
  - *Recitatív:* etikai látószög, moralista (erkölcsös), humanista (emberséges) vonal, a háborúval szemben tesz hitvallást, erkölcsi elvek mérlegelése
  - pl: húsvét előtt, fortissimo
 
-#### 3. szakasz: 1920-30-as évek
+### 3. szakasz: 1920-30-as évek
 
  - katolicizmus: ebben találja meg az európai szellemiséget
  - Babits európaiként volt magyar, kicsit szemben állt a nacionalizmussal (Hazám)
@@ -68,12 +67,14 @@
  - *1933: Versenyt az esztendőkkel:* önértelmező, reflexív költészet (Cigány a siralomházban, Balázsolás)
  - Utolsó műve 1937-38: Jónás könyve, Jónás imája: küldetéstudat szempontjából értelmezi újra életmúvét
 
-### In Horatium (1904 - első pályaszakasz)
+---
+
+## In Horatium (1904 - első pályaszakasz)
 
  - Levelek Isis koszorújáról kötet első verse, ars poetica
- - első 4 sor, idézet egy horatiusi ódából -> antik költészet, filozófia felelevenítése
+ - első 4 sor, idézet egy horatiusi ódából → antik költészet, filozófia felelevenítése
  - Alkaioszi strófa, időmértékes verselés (⋃—|⋃—|— // —|⋃⋃—|⋃—|)
- - Költészet = múzsák napja, ahol csak a kiválasztott lehet költő -> a versek csak a kiválasztottakhoz szólnak (művelt, nyitott)
+ - Költészet = múzsák napja, ahol csak a kiválasztott lehet költő → a versek csak a kiválasztottakhoz szólnak (művelt, nyitott)
  - a költészet arisztokratikus és intellektuális (európai látásmód)
  - az 5. sortól minden változik: őselemeket jeleníti meg (föld, levegő, tűz, víz)
  - a főnix egy toposz, az újjászületés szimbóluma
@@ -94,21 +95,21 @@
  - Vendégszövegek!
 <!-- -->
 
-### Húsvét előtt (1916 - második pályaszakasz)
+## Húsvét előtt (1916 - második pályaszakasz)
 
  - A Recitatív kötet verse
  - Húsvét: áldozat, feltámadás (tényleges időpont: március 26-án adta elő)
  - közösségi óda (magasztos hangvétel, béke, ami közös érdek)
- - tagolás: a fogaskerék és a versszakok elrendezése zilált hangvételre utal -> háború, rendszertelen világ, kaotikus állapot, ingatag világkép
+ - tagolás: a fogaskerék és a versszakok elrendezése zilált hangvételre utal → háború, rendszertelen világ, kaotikus állapot, ingatag világkép
  - az egységek különbözőek, megnyúlnak a versszakok
  - a lírai én egy szónok, próféta, aki békére buzdít, egyetemesen hívja fel az emberek figyelmét
  - prófétai hang, zaklatottság, heves, indulatos, kétségbeesett (vér)
- - a szónoklat tárgya: "szakadjon a véres ének" -> legyen vége az öldöklésnek
+ - a szónoklat tárgya: "szakadjon a véres ének" → legyen vége az öldöklésnek
  - szónoki alakzatok: ismétlés, megszólítás, kérdőszó, in medias res
  - a vér toposz, az áldozatot, öldöklést, eletet szimbolizálja
  - más hasonló közösségi művet is megidéz: Berzsenyi - A magyarokhoz: érckeze (itt érctalpa), Petőfi - Egy gondolat...: tipró diadal, Vörösmarty - A vén cigány: pokoli malom
  - "Hogy elég! Hogy elég! Elég volt!" - csúcspont
- - 1. rész: malom -> fogaskerék -> I. vh. gyilkológépei -> halál
+ - 1. rész: malom → fogaskerék → I. vh. gyilkológépei → halál
  - 2. rész: bort, búzát, békességet szimbolizálva jelenik meg - biblikus kép
  - utolsó versszak: új élet látomása
 
@@ -136,24 +137,25 @@
  - Soráthajlások! kintről jön és hoz valamit
 <!-- -->
 
-### Csak posta voltál (1933)
+## Csak posta voltál (1933)
 
  - versenyt az esztendőkkel
  - későmodernség problémáit veti fel
- - cím: lefokozás "csak" közvetítő voltál -> megszólítás, önmegszólítás
- - kulcsmondat: "keresd tovább magad" -> önkeresés
+ - cím: lefokozás "csak" közvetítő voltál → megszólítás, önmegszólítás
+ - kulcsmondat: "keresd tovább magad" → önkeresés
  - személyiségválság jelenik meg, nincs többé egész
  - nyomhagyás kérdése: ki vagy és milyen nyomot hagysz a világban?
  - életrajzi adatok: Fogaras, Pest, Dunántúl, bor, szekszárdon született - tőke
- - 1. versszak: por -> posta
+ - 1. versszak: por → posta
  - 2. versszak: másodlagos környezet: házak, elsődleges környezet: természet
  - 3. versszak: ki vagy te? írás, olvasás = nyomhagyás
  - 4. versszak: emlék "rád tapad" mint a por: visszafelé halad a múltban, visszafelé keresi önazonosságát
- - x. versszak: meder -> nem csinál semmit, átfolyik rajta a víz, az emlékképek változnak rajta, de az emlékek is változnak "s mult dob hurkot a jövőnek"
+ - x. versszak: meder → nem csinál semmit, átfolyik rajta a víz, az emlékképek változnak rajta, de az emlékek is változnak "s mult dob hurkot a jövőnek"
 
 <!-- -->
 
-*Jónás könyve (1938):*
+## Jónás könyve (1938)
+
  - Károli Biblia, ekkor már beteg, beszélgető füzet
  - Összegzés, megtalálja az önazonosságát
  - Ironikus: makacs, nagyképű Jónás, számon kéri Istent, besértődik
@@ -161,22 +163,22 @@
  - Jónást mindenhol kiröhögik (Babits) → Babits magát sem veszi komolyan
  - Részei:
    1. megbizatás – cet
-   2. cethalban (mélységből…)
+   2. cethalban (mélységből...)
    3. újabb isteni megbizatás – Ninivébe bevonul, kiröhögik, megsértődik
    4. Jónás durcizik, isteni kegyelem Ninivének, Jónás megleckéztetése
  - Babits az akkori Európát is meg akarta jeleníteni – carpe diemben dobzódó emberek
  - *Jónás imája:* a költő már nem akar semmit mondani saját magától → csak amit Isten
 
-#### Előzmények
+### Előzmények
 
 1937-38 között írja, halálos beteg, gégerákot kapott, betegágyán írja. Saját kínjai valamint emberiség kínjai (politikai helyzet, fasizmus, újabb háború lehetősége) is vezetik a mű megírásában.
 Emberi értékek, kultúra  védelmének megőrzésének gondolata, mit tehet egy költő ilyen helyzetben a barbársággal szemben
 
-#### Műfaj
+### Műfaj
 
 elbeszélő költemény, romantikából ismert lírai jegyek, epikus eseménysor (pl. Petőfi, Arany művei)
 
-#### Bibliai háttér
+### Bibliai háttér
 
  - Jónás : kispróféta
  - intertextualitás, parafrázis, újraírja a saját létállapotában a költő
@@ -184,25 +186,25 @@ elbeszélő költemény, romantikából ismert lírai jegyek, epikus eseménysor
  - próféciák: jövendölések
  - egyedülálló Jónás könyve mert nem próféciát tartalmaz, hanem maga a  próféta a téma
 
-#### Jelentőség
+### Jelentőség
 
  - Isten egyetemes jósága a pogányokra is kiterjed
  - a prófétaság lényege itt a *kényszerűség* volt
 
-#### Irodalmi hagyományok
+### Irodalmi hagyományok
 
  - 16.sz Batizi András: prédikátor-költő - Jónás története
  - századforduló: Ambrus Zoltán: novellista író „Ninive pusztulása” közvetlen előzménye Babitsénak
  - Arany János: hasonló életút, kitér a trténetre, talán hasonló kétségek gyötörhették őt "Próféta lomb"
  - ezekkel szemben Babits nagyon fontos pontokon átírja a történetet
 
-#### Helye az életműben
+### Helye az életműben
 
 Már a 20-as években: Babits figyelme a próféták felé fordul,de nem foglalkozik vele komolyabban
 
 *újklasszicizmus:* Régi hagyományok őrzésének fontossága, megkerülhetetlen értékeket tulajdonít hagyományoknak
 
-#### új költői felfogás
+### Új költői felfogás
 
 Alapvetően esztétizáló költő (szépségért alkot).
 
@@ -242,7 +244,7 @@ Az ítélkezés nem Babits feladata, csak az, hogy harcoljon az embertelenség e
 Nem hallgathatunk, nem menekülhetünk
  - „Vétkesek közt cinkos aki néma.”
 
-#### A mű nyelvezete
+### A mű nyelvezete
 
  - Biblia hatása érződik rajta, jelképes beszéd
  - archaizáló – régi korokba visszanyúló nyelvhasználat

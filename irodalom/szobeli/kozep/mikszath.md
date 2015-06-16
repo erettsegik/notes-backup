@@ -1,4 +1,4 @@
-## Mikszáth Kálmánról röviden
+## Életéről röviden
 
  - *1847*-ben született Szklabonyán → evangélikus, nemesi család → gazdálkodók
  - a győri jogakadémián tanult, majd a pesti jogi karon, de nem diplomázott
@@ -8,7 +8,7 @@
  - a petőfi társaság, a kisfaludy társaság tagja és mta levelezőtag volt
  - *1910*-ben súlyos tüdőgyulladásban halt meg
 
-## A mikszáthi anekdota
+### A mikszáthi anekdota
 
  - az anekdotát fő prózavezető elvvé teszi
  - anekdoták laza füzére
@@ -33,6 +33,8 @@
    + otthonosság, jártasság érzete, úgy tesz, mintha a befogadó is a közösség tagja lenne
    + az elbeszélői tudás korlátozott, a kifejtettség hiányait a befogadónak kell kitöltenie
 
+---
+
 ## A tót atyafiak
 
  - négy közepesen hosszú novellát tartalmaz
@@ -41,8 +43,9 @@
    + lapaj, a híres dudás
    + jasztrabek pusztulása
 
-   zord hegyek közt a Fárra vidékén élő magányos hősök
-   természet
+
+    zord hegyek közt a Fárra vidékén élő magányos hősök
+    természet
 
 ## A jó palócok
 

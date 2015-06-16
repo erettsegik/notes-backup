@@ -1,4 +1,4 @@
-*A kávé származása:*
+### A kávé származása
 
 X. századból ered, őshazája *Abesszínia*, a nomád pásztorok fedezték fel a kávé élénkítő hatását. Összezúzták és állati zsiradékkal összekeverve golyókat formáztak belőlük.
 
@@ -7,11 +7,13 @@ Később terjedt el italként: bogyókat hideg vízzel keverték és állni hagy
 Allah küldte az első csészét Mohamed prófétának hogy szellemi frissességét megóvja, az arabok szigorúan őrizték a kávéfőzés titkát, de a zarándokok miatt kiderült
 
 13\. század: első *kávéházak* kialaulása:
+
  - vidám az élet
  - filozófusok, politikusok, kereskedők is jártak ide → véleménycsere
  - ez gondforrás jelentett az uralmon lévőknek → próbálták korlátozni
 
 Szulejmán:
+
  - a kávéivók feltámadáskor fekete arccal bújnak elő
  - tiltó rendelkezések → eredménytelen
  - 14-15. század: orvosságként is használták
@@ -35,7 +37,8 @@ Hazánkban a török uralom alatt honosodik meg, eleinte csak a törökök ittá
  - a török kiűzése után megszűnik az idegenkedés, első ismert kávés: Kávéfőző Balázs → utcákon, tereken, piacokon énekelve kínálta
  . kávémérések jöttek létre
 
-*3 típusú kávéház*
+### 3 típusú kávéház
+
  - déli típusú = játékház is volt, biliárd, dominó, tarott
  - északi típusú → újságolvasás, komoly polgári csevegés
  - keleti típusú → pipaházak is
@@ -48,9 +51,9 @@ Pest és Buda egyesítésével rohamosan nő a kávéháza száma, a 19. sz. vé
 
 Emke: könyvkölcsönző is volt, New York: borbély, kabarék, játékterem, Hadik: Karinthy „otthona” volt, ő indította el azt, hogy milyen gyorsan terjed a vicc Pesten
 
-*Centrál:*
+### Centrál
 
- - 1887-ben épült,Nyugat szerkesztősége
+ - 1887-ben épült, Nyugat szerkesztősége
  - Mészáros Győző: híres író, és tanár barátai voltak
  - éjjel-nappal nyitva volt
  - 1910-es évek: átépítették → amerikai elegancia, fényűző, ekkor nyerte el szecessziós stílusát

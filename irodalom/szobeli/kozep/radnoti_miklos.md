@@ -1,4 +1,4 @@
-### Élete:
+## Élete:
 
  - polgári, zsidó, kereskedő család, eredeti neve: Glatter
  - magyar költő nem visel Glatter nevet, ezért megváltoztatja. Radnócinak van bejegyezve

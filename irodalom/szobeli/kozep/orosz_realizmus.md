@@ -7,7 +7,8 @@
  - Realista: környezetrajz
  - Realista: tipizáló, társadalmi mozgató erőket vizsgálja, lélekrajz ábrázolás, minél igazabb ábrázolás (mindennapi élet, élet apróságai – részletesség)
 
-*Gogol:*
+## Gogol
+
  - Jogot tanul
  - Elbeszélések, de hosszabb művek (Revizor, Egy őrült naplója) → főként társadalmi rétegekről
  - Groteszk űttörője (Örkény, Dosztojevszkij hivatkozik rá)
@@ -16,7 +17,8 @@
  - Hierarchiától való félelem
  - „Robotok”
 
-*A köpönyeg:*
+### A köpönyeg
+
  - Akakij Akakijevics Basmacskin (beszélőnév): megjelenése jellegtelen, szánalomra méltó, átnéznek rajta, nincsenek gondolatai, tönkremegy a köpönyege – szabó – új kell! → összekuporgatja (kevés kaja, túlóra)
  - Új köpönyegben észreveszik → party, majd elrabolják a köpönyeget → ebbe belehal → élete nem fontosabb egy köpönyegnél
  - Halála után: kísért, lerántja a köpönyeget (igazságszolgáltatás) → kísértetként jelentősebb, mint emberként
@@ -28,7 +30,8 @@
  - Mindentudó narrátor, élőbeszédszerű
  - Véleménynyilvánítás, kiszólások
 
-*Az orr*
+### Az orr
+
  - Társadalmat veszi alá
  - Egyenruhát öltő orr – már tisztelik
  - K. hiányzik az orra – erre lesz figyelmes
@@ -40,7 +43,8 @@
  - Mégis nevetünk
  - Mindkettő hosszú elbeszélés
 
-*Csehov: Csinovnyik halála*
+### Csehov: Csinovnyik halála
+
  - rövid elbeszélés
  - Csehov orvos (műveiben felhasználja)
  - Színpadi művek: Sirály, színművek, drámáiban kommunikációs viszályok
@@ -53,10 +57,12 @@
  - Kishivatalnokoknak folyamatosan talpot kell nyalni
  - Durva kritika
 
-*Tolsztoj:*
+## Tolsztoj
+
  - kiközösített alak, életét mutatja be → őszinte elbeszélés
 
-*Ivan Iljics halála*
+### Ivan Iljics halála
+
  - 12 fejezet
  - Retrospektív (visszatekintő) időszerkezet (1. fejezet a temetés – képet ad az egész történetről)
  - Környezet (méltatlan viselkedés) <→ halott arca (mindent megtett, megbékélt) → feszültségkeltő ellentét
