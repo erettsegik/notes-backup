@@ -1,52 +1,66 @@
-Balassi verseit 3 nagy csoportba sorolhatjuk:
+Balassi kora:
+- reformáció, magyar nyelvű irodalom kibontakozása
+- török hódoltság
+- reneszánsz
 
- - Szerelmes versek
- - Vitézi versek
- - Istenes versek
+Verseit 3 nagy csoportba sorolhatjuk:
 
-Verseit *3x33* as ciklusokban akarta írni, de csak 2x33 ciklust készített el.
+ - Szerelmes versek (virágénekek, búcsúversek(albák), trubadúrlíra hagyományaiból merít ihletet)
+ - Vitézi versek (mintái: históriás énekek)
+ - Istenes versek (mintái: zsoltárok)
 
-Balassi az első a magyar irodalomban, aki szerelmes verset ír.
+Nála szakad el a szöveg és a dallam kiegészítő hatása, utolsó verseinek már nincs nótajelzése.
 
-*Losonczy Annával* való viszonya 1578-ban kezdődött és hat évig tartott. Ez alatt a hat év alatt keletkeztek az *Anna-versek*. Amikor Anna megözvegyült Balassi újra próbálkozott nála. Anna azonban nem hagyta magát. Nem akarta összekötni életét egy kétes hírű költővel.
+Új vers- és strófakompozíciókat alakított ki. A Balassi-strófa felépítése: 3 × 6+6+7 szótag (rímelése aab ccb ddb).
 
-Ebben az időszakban írta a Júlia-verseket. Reneszánsz hagyomány alapján másképp nevezte kedvesét verseiben.
+## Kötetkompozíciója:
 
-Losonczy Annához írt költeményeit a Balassa-kódex tartalmazza. (1874-Radványban fedezik fel) Két versciklusból áll. Az 1-33. versig találjuk életének történetét a gyermekkorától a házasságkötéséig unokatestvérével. Ebben az első ciklusban találhatóak tehát az Anna-versek. A második ciklusban (34-66.) a házasságkötésétől Lengyelországba való indulásáig ismerhetjük meg a költő életútját. Itt találhatóak tehát a Júlia versek.
+3 × 33 versből + 1 bevezető énekből álló gyűjteményt kívánt létrehozni, melyben 33 istenes vers után 33 elegyes költemény, végül 33 Júlia-vers szerepelt volna; de csak a két utolsó 33-as csoport és összesen tíz istenes vers készült el. A 100-as szám a teljesség, az isteni tökéletesség szimbóluma, melynek rejtett jelenléte nem a feszes 3 × 33 + 1-es emberi szerkesztésnek, hanem az isteni kegyelem adományának köszönhető. (Dantei és petrarcai minta.)
 
-Az Anna verek szimmetrikusak, ezek boldogabb hangvételűek, míg a Júlia versek eltérnek ettől, itt már csak a vágyakozást, az elérhetetlen szerelmet írja le.
+Verseinek többsége a költő halála után kb. 50 évvel készült kéziratos másolatban, a *Balassa-kódexben* (1874-ben került elő) maradt ránk. A másoló állítása szerint a kötet anyagát Balassinak „A maga kezével írt könyvébül írta ki”.
 
-Mind az Anna- és mind a Júlia-versek ihletője Petrarca, aki Laurához, az elérhetetlen kedveséhez írta költeményeit dalos könyvében. Verseiben megjelenik a szerelemtől szenvedő költő, aki bókol, udvarol. A trubadúr líra elérhetetlen női alakja is megihlette Balassit.
+## Szerelmi költészete: (Anna-versek, Júlia-versek, Célia-versek)
 
-A szerelmes verseket virágénekek mintájára írja meg.
+Balassi honosította meg a humanista újlatin költészet mintájára a modern nyugat-európai költészet hagyományait, a lovagi, dantei illetve petrarcai költészet világszemléletét, eszköztárát.
 
-*Virágének*: olyan műdal, amelynek ismerjük a szerzőjét és témája a szerelem.
+Élete legnagyobb szerelmét, *Losonczy Annát* nevezte versei egy részében petrarcai hagyományt követve Júliának. Mint ahogy Petrarca Laurája is több, mint a költő szerelmének tárgya, ugyanúgy Balassi Júliája is eszménykép. Költői világképében meghatározó szerepet játszott a neoplatonikus szerelemfilozófia. (E szerelemtan szerint a szerelem a szépség, a tökéletesség átélése, az istenség megközelítésének módja, formája.) Losonczy Annával való viszonya 1578-ban kezdődött és hat évig tartott. Ez alatt a hat év alatt keletkeztek az *Anna-versek*. Amikor Anna megözvegyült, Balassi újra próbálkozott nála, Anna azonban nem akarta összekötni életét a kétes hírű költővel.
 
-### Szerelmi költészete
+Reneszánsz hagyomány alapján másképp nevezte kedvesét verseiben.
 
- - vallomásos jellegű
+A humanista műveltségű Balassi verseiben gyakori szereplő Venus, a szerelem szépséges antik istennője és Amor vagy Cupido, azaz szerelmi mitológiát alkalmaz.
+
+## Múzsái:
+
+ - Ungnád Kristófné Losonczy Anna (Anna- és Júlia-versek)
+ - Dobó Krisztina és/vagy Wesselényi Ferencné Szárkándy Anna (Célia-versek)
+ - Fulvia (?) és más, eddig nem azonosított hölgyek
+
+## Szerelmi lírájának általános jellemzői:
+
+ - vallomásos jelleg
  - széphistóriák és virágénekek mintája → nyelvhasználat, ritmizálás
  - virágszimbolika, fényszimbolika (halmozás, fokozás)
  - virágénekekből és műdalokból átvett költői képek használata
  - hasonlatok gyakori használata
- - test ábrázolása
- - megszólítás
- - *Balassi-strófa*: olyan magyaros verselésű két 6 szótagos és egy 7 szótagos sorból álló versszak, melynek tagolása attól függ, hogy a belső rímet figyelembe vesszük vagy sem. Ennek megfelelően lehet 3,6 illetve 9 soros.
+ - test, testiség, testi vágyak ábrázolása
+ - megszólítás, bókolás, udvarlás
+ - *Balassi-strófa* használata: olyan magyaros verselésű két 6 szótagos és egy 7 szótagos sorból álló versszak, melynek tagolása attól függ, hogy a belső rímet figyelembe vesszük vagy sem. Ennek megfelelően lehet 3, 6, illetve 9 soros.
 
----
+## Júliára talála így köszöne néki:
 
-## Júliára talála így köszöne néki
+- A provanszál trubadúrlíra, az udvarló-, bókoló verstípus legszebb darabja a magyar költészetben. A kezdő- és záróstrófában megalkotott szituáció a lovagi költészet szerelemeszményét tükrözi: a hölgy felette áll udvarlójának, a szerelem egyoldalú, a jutalom csak egy mosoly.
+- nemes, udvari ember világa: palotának, fejedelemnek nevezi a költő Júliát
+- a népköltészet („kis violám”, „édes lelkem”) és a keleti, török költészet („szemöldök fekete széne”, „jó­illatú piros rózsám”) motívumai
+- természeti és mesterséges környzetből vett képek, virágmetaforák - népdalok, arisztokratikus udvari költészet, himnikus halmozás
+- felsorolások, fokozások, ellentétek (nap – szemöldök feketesége)
+- alliterációk (élj, élj életem...)
 
-Az egész vers elragadott ujjongó bókok halmaza, mely túlzással indul: “Ez világ sem kell már nékem...”
+### Szerkezete:
 
-Boldog felkiáltás, üdvözlés. Júlia nélkül értéktelen, értelmetlen a világ. Metaforák sorozatával dicsőíti Júliát. Az imádott hölgy tulajdonságai nem derülnek ki, csak a költő érzelmei. A köszöntéssel nem áll arányban a válasz.
+- 1\. strófája az üdvözlést és a megszólításokat tartalmazza - jelen
+- 2-3-4. metaforák-megszólítások - Júlia eszményítése
+- 2\. versszak a lírai én érzelmei
+- 4-5. fénnyel kapcsolatos metaforák, ismétlések
+- 6\. versszak a versírás alaphelyzete – kívülről, múlt idő - a reménytelen szerelem petrarcai konvenciói
 
-Bókok halmozásán keresztül (szívem, lelkem, szerelmem) jut el az 5. versszakig, melyben vallomást tesz: ”Csak téged óhajt lelkem”
-
-Az utolsó versszakban látszik a szerelmesek közötti végtelen távolság. A megközelíthetetlen Júlia képével zárul a vers, mivel Júlia csak elmosolyodik Balassin, ki térdet és fejet hajt előtte, nem viszonozza szerelmét. A középkor udvarlóköltészetének elemei a versben:
-
- - nemes, udvari ember világa: palotának, fejedelemnek nevezi a költő Júliát
- - virág metaforákkal nevezi meg: viola (fiatalság), rózsa (szerelem)
- - ütemhangsúlyos verstechnika: hangsúlyos és hangsúlytalan szótagok szabályos váltakozása alkotják a ritmust, kétütemű nyolcasok (ütemosztás 4/4), pattogó, élénk ritmus
- - felsorolások, fokozások, ellentétek (nap – szemöldök feketesége)
- - alliterációk (élj, élj életem...)
+Verselése: ütemhangsúlyos, magyaros
