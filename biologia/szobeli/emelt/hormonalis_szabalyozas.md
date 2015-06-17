@@ -133,6 +133,8 @@ Más hormonok (pl. acetilkolin, oxitocin, szerotonin, ADH) *a célsejtek citopla
 >  - valamint a belső kalcium raktárakból (SER és mitokondrium).
 >
 > A kalcium [latex inline]Ca^{2+}[/latex]-kötő fehérjékhez való kapcsolódása által fejti ki a hatását, melyek közül a legelterjedtebb a *kalmodulin*, amely minden eukarióta sejtben megtalálható. Amikor a kalmodulin megköti [latex inline]Ca^{2+}[/latex]-t, térszerkezeti változáson megy keresztül, amely képessé teszi, hogy más fehérjék köré tekeredjen, s ezáltal aktiválja azokat. A kalmodulin egy rendkívül fontos célpontja kalmodulin-függő kinázok csoportja (CaM-kinázok). A CaM-kinázok, a [latex inline]Ca^{2+}[/latex]/kalmodulin komplex hatására aktiválódnak, s különféle folyamatokat aktiválnak foszforiláció révén.
+>
+> ![Kalmodulin](http://i.imgur.com/KIrePtN.png)
 
 ### 2.5 A neuroendokrin rendszer
 
@@ -144,6 +146,8 @@ Az egyes belső elválasztású mirigyek különféle szabályozás alatt állna
  - *közvetlen idegek által*, mint pl. a mellékvesevelő sejtjei,
  - *hormonok közvetítésével*, ilyen pl. az agyalapi mirigy pajzsmirigyserkentő hormonja,
  - *belső környezetváltozással*, mint pl. az inzulin termelődését a vércukorszint szabályozza.
+
+![Neuroendokrin rendszer](http://i.imgur.com/kOKnc9T.png)
 
 A neuroendokrin rendszer funkciója széles spektrumú:
 
@@ -165,6 +169,8 @@ Az agy alapján, a koponya *ékcsontjának* töröknyergében elhelyezkedő, bor
 
 A felette elhelyezkedő agyterülettel *a hipotalamusszal az ún. hipofízisnyél kapcsolja össze*.
 
+![Agyalapi mirigy](http://i.imgur.com/jdrbCIu.png)
+
 ### 3.2 Szerkezete
 
 Szerkezeti és működési szempontból két részre osztható:
@@ -174,11 +180,15 @@ Szerkezeti és működési szempontból két részre osztható:
 
 > Középső lebeny (MSH hormon, mely fokozza a bőrben a melanin képződését, szétszóródását.)
 
+![Agyalapi mirigy](http://i.imgur.com/z6hdMaq.png)
+
 ### 3.3 Az agyalapi mirigy elülső lebenye.
 
 Az embrionális fejlődés során a garathámból alakul ki (endodermális), a mirigy fő tömegét adja, *hatféle hormont termel*.
 
 Igen gazdag a vérellátottsága, az erek lefutása speciális ún. portális keringés jellemzi, ahol a kapilláris rendszerből összeszedődő vénák újra kapillárisokra oszlanak.
+
+![Agyalapi mirigy](http://i.imgur.com/UI03Fnq.png)
 
 ### 3.4 Működése
 

@@ -57,3 +57,8 @@ camp_1.png                   -> http://i.imgur.com/QdGM3Uo.png
 camp_2.png                   -> http://i.imgur.com/jNShZLy.png
 camp_3.png                   -> http://i.imgur.com/6oGRjIW.png
 camp_4.png                   -> http://i.imgur.com/Ao7f1cm.png
+kalmodulin.png               -> http://i.imgur.com/KIrePtN.png
+neuroendokrin.png            -> http://i.imgur.com/kOKnc9T.png
+agyalapi_elhelyezkedes       -> http://i.imgur.com/jdrbCIu.png
+agyalapi_szerkezet           -> http://i.imgur.com/z6hdMaq.png
+agyalapi_mukodes             -> http://i.imgur.com/UI03Fnq.png
