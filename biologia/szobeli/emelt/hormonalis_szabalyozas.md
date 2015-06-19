@@ -210,6 +210,8 @@ A *hipotalamusz* állományában megtalálható ún. *kissejtes magcsoportokban*
 
 Ezen idegsejtek nyúlványai az adenohipofízis portális keringésének kapilláris rendszerébe juttatják hatóanyagaikat.
 
+![Hormonok](http://i.imgur.com/ZL6jpsi.png)
+
 #### 3.4.1 Növekedési hormon (STH szomatotrop hormon)
 
 *Biztosítja a genetikailag meghatározott testméretek elérését.* Nincsenek kitüntetett célszervei. 190 aminosavból álló *polipeptid*.
@@ -225,6 +227,8 @@ Ezen idegsejtek nyúlványai az adenohipofízis portális keringésének kapill�
  - *Fehérje anyagcsere.*
    + *Serkenti a fehérjék szintézisét.*
 
+![Anyagcsere](http://i.imgur.com/vtnbVVi.png)
+
 Termelődését serkenti a
 
  - *mélyalvás,*
@@ -236,11 +240,15 @@ Termelődését serkenti a
 
 > A növekedési hormon hatásaiért az *inzulinszerű növekedési faktor (IGF-I vagy régi nevén somatomedin C)* a felelős. Az IGF-1 a májban, izomban, bélben, vesében termelődik. Az IGF-1 klasszikus negatív visszacsatolás révén gátolja a hipotalamusz GHRH és a hipofízis GH elválasztását.
 
+![Növekedés](http://i.imgur.com/MEDStCc.png)
+
 ##### Rendellenességek
 
 ###### 1. Hypofunkció
 
 *Gyermekkori hormonhiány* következtében *arányos törpeség* (hipofizer törpeség) alakul ki. A hipofízer törpék apró (50-120 cm), de arányos termetűek, habitusuk kissé öreges, másodlagos nemi jellegeik kevéssé kifejezettek. Intelligenciahányadosuk gyakran az átlagot meghaladja.
+
+![Hypofunkció](http://i.imgur.com/PHbnD5z.png)
 
 ###### 2. Hiperfunkció
 
@@ -250,11 +258,18 @@ Termelődését serkenti a
 
 > Amennyiben ezt a hasi zsigerek megnagyobbodása is követi, akkor splanchnomegáliáról beszélünk.
 
+![Hiperfunkció](http://i.imgur.com/gMkKIWR.png)
+![Hiperfunkció](http://i.imgur.com/tSeGamJ.png)
+![Hiperfunkció](http://i.imgur.com/spK4Uq8.png)
+![Hiperfunkció](http://i.imgur.com/jcyh3Ol.png)
+
 ### 3.5 Az agyalapi mirigy hátulsó lebenye
 
 Klasszikus értelemben nem tekinthető belső elválasztású mirigynek, *benne hormon szintézis nem folyik, csupán olyan hormonokat raktároz*, ill. a véráramba juttat, amelyek *a hipotalamusz ún. nagysejtes magvaiban termelődnek*.
 
 A hipofízis hátulsó lebenyében kétféle hormon *raktározódik, ill. szükség esetén felszabadul*, az *ADH és az oxitocin*.
+
+![Hátulsó lebeny](http://i.imgur.com/OwiWz0u.png)
 
 #### 3.5.1 ADH, oxitocin
 
@@ -263,6 +278,8 @@ Az *ADH vagy vazopresszin* 9 aminosavból álló *oligopeptid*. Élettani hatás
 Mivel nagyobb koncentrációban az ereket is szűkíti, *emeli a vérnyomást* (vazopresszin).
 
 Az *ADH elválasztás szabályozását a vér összetétele határozza meg*, melyet a hipotalamusz nagysejtes állománya közvetlenül érzékel.
+
+![ADH](http://i.imgur.com/7sRPKmx.png)
 
 Az ADH elválasztását fokozza
 
@@ -276,6 +293,8 @@ Az ADH elválasztását fokozza
 Az ADH termelődés megszűnése a diabetes insipidus nevű betegséghez vezet, melynek tünete a napi akár 15 liter híg vizelet ürítése, gyötrő szomjúság mellett.
 
 Az *oxitocin* (jelentése gyors szülés (gör.)) szintén 9 aminosavból álló *nonapeptid*. Az oxitocin hatására elsősorban a *méh és az emlő simaizomsejtjei erőteljesen összehúzódnak*.
+
+![Oxitocin](http://i.imgur.com/OXxXRZF.png)
 
 1. Az emlőmirigyek esetén az oxitocin a *tej kiürülését teszi lehetővé*, ugyanis a mirigyvégkamrákban felhalmozódott tej csak az azokat körülvevő simaizomsejtek erőteljes összehúzódásával képes kiürülni.
 
@@ -297,9 +316,13 @@ Az *oxitocin* (jelentése gyors szülés (gör.)) szintén 9 aminosavból álló
 
 A pajzsmirigy *a pajzsporc és a légcső előtt* található, két lebenyből áll, melyet egy keskeny híd kapcsol össze.
 
+![Pajzsmirigy](http://i.imgur.com/Z1vbjjM.png)
+
 ### 4.2 Szerkezete
 
 Mikroszkopikus szerkezetére jellemző, hogy működési állapotától függően különböző magasságú sejtek által határolt *hólyagocskák* (follikulusok) építik fel. A hólyagok belsejét a sejtek által termelt fehérje jellegű anyag, a *tireoglobulin* tölti ki.
+
+![Pajzsmirigy](http://i.imgur.com/72dnDOp.png)
 
 > Amennyiben a pajzsmirigy működése intenzív, a sejtek magasak, a hólyagok ürege csekély a tireoglobulin gyors felhasználása miatt.
 
@@ -312,15 +335,21 @@ A tiroxin és a T3 mind szerkezetében mind hatásában igen hasonló.
 
 A hólyagok rendkívül gazdagon erezett lazarostos kötőszövetbe ágyazódnak.
 
+![Hólyagocskák](http://i.imgur.com/Hz6BXmM.png)
+
 A hólyagok között a kötőszövetben kis sejtcsoportok találhatók (parafollikuláris C-sejtek), amelyek egy harmadik hormont a *kalcitonint* termelik.
 
 #### 4.2.1 A tiroxin
 
 A tiroxin egy jód tartalmú *aminosav származék*. *A tireoglobulin, amely egy polipeptid, a tiroxin előanyagának és raktározott formájának tekinthető*, mely a hólyagocskák falának sejtjeiben jön létre. Szükség esetén a hólyag falának sejtjei felveszik a tireoglobulint, majd lizoszómáikban lebontva felszabadítják belőle a T4-et és a T3-at.
 
+![Tiroxin](http://i.imgur.com/CGx4LGB.png)
+
 > A T4 és a T3 szállítófehérjékhez kötődve a keringésbe kerül és kb. 1 hétig hatásos. Lebomlásuk a májban és a vesében történik.
 
 A T4 előállításához szükséges *jódot az ivóvízből és a táplálékból vesszük fel*. A napi jód szükséglet 0,1 mg, a pajzsmirigy kb. 10g jódot raktároz. Ahol az ivóvíz nem tartalmaz elég jódot, a sót *KI*-dal egészítik ki.
+
+![Tiroxin](http://i.imgur.com/rdhmxn6.png)
 
 ##### 4.2.1.1 A tiroxin élettani hatásai.
 
@@ -347,7 +376,11 @@ Az oxidációs folyamatok serkentése miatt *emeli a testhőmérsékletet*.
 
 *A tiroxin elválasztását az agyalapi mirigy elülső lebenyének TSH-ja szabályozza*, amely egy glikoproteid. A szabályozás a negatív visszacsatoláson alapszik.
 
+![Tiroxin](http://i.imgur.com/dDAW824.png)
+
 > A hormonhatás első lépése a szabad T4/T3 sejtbe jutása. A hormonok két aromás gyűrűjük következtében hidrofóbok, ezért oldódnak a sejtmembrán apoláris fázisában. A pajzsmirigy hormonok valamennyi hatásának alapja a génátírás szabályozása. A T4/T3 egyes gének átírását megindítja és fokozza, más gének átírását gátolja.
+
+![Tiroxin](http://i.imgur.com/oUwRcry.jpg)
 
 ##### A pajzsmirigy betegségei.
 
@@ -361,9 +394,13 @@ Az oxidációs folyamatok serkentése miatt *emeli a testhőmérsékletet*.
     - *alacsony vércukorszint,*
     - *száraz, sárgás, puffadt bőr.*
 
+   ![Mixödéma](http://i.imgur.com/pto79KG.png)
+
    Hipotireózisban a tiroxin negatív visszacsatolása csökken, a TSH nagy koncentrációja miatt a pajzsmirigy kötőszövetes állománya megnagyobbodik, amit *golyvának* nevezzünk. (hipofunkciós golyva)
 
    B) Amennyiben a hipotireózis az *embrionális fejlődés* szakaszában lép fel, a *kretenizmus* nevű rendellenesség alakul ki. *A kretének szellemileg súlyosan károsodottak, csontrendszerük aránytalanul fejletlen, a nemi érettséget gyakran nem érik el.*
+
+   ![Kretenizmus](http://i.imgur.com/Yfb4dhf.png)
 
 2. A *hipertireózis* *a pajzsmirigy túlműködése, a Basedow-kor*.
 
@@ -378,9 +415,14 @@ Az oxidációs folyamatok serkentése miatt *emeli a testhőmérsékletet*.
 
    A fentieken túl jellegzetesen *kidüllednek a szemek* és a pajzsmirigy fokozott működése miatt megnő a mirigyes állomány *(hiperfunkciós golyva)*.
 
+   ![Basedow-kór](http://i.imgur.com/tT3hfZ3.png)
+   ![Basedow-kór](http://i.imgur.com/eKV9qSD.png)
+
    A Basedow-kor egy *autoimmun betegség*, mivel egy kórosan képződött immunoglobulin szerkezete a TSH-al megegyező, így hasonló hatást gyakorol a pajzsmirigyre.
 
 > A *pajzsmirigy ultrahang* vizsgálat során elsősorban azt figyelik meg, hogy a normálistól eltér-e a mérete, gyulladt-e, tartalmaz-e cisztát, daganatot.
+
+![Ultrahang](http://i.imgur.com/crPfSNX.png)
 
 ## 5. A mellékpajzsmirigy
 
