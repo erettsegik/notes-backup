@@ -20,8 +20,6 @@ Magyarországon [latex inline]g = 9,81 \frac{m}{s^2}[/latex]
 
 A szabadon eső test álló helyzetből induló, egyenes vonalú, egyenletesen változó mozgást végez. Pillanatnyi sebességét a [latex inline]v = g * t[/latex] összefüggéssel adhatjuk meg, ahol [latex inline]v[/latex] a pillanatnyi sebesség, [latex inline]t[/latex] az elejtés pillanatától eltelt idő, [latex inline]g[/latex] a nehézségi gyorsulás.
 
-## Galileo Galilei:
+## Kapcsolódó anyagok
 
-Olasz fizikus és csillagász. Az olaszországi Pisa városában született 1564. február 15-én. Tizenhét éves korában kezdte meg filozófiai, fizikai és orvostudományi tanulmányait az egyetemen, 1585-ben azonban átköltözött Firenzébe, s ott már kizárólag matematikával és fizikával foglalkozott. Amint tudomást szerzett arról, hogy lencsék megfelelő elrendezésével távcső készíthető, s azzal a távoli tárgyak közelebb hozhatók, maga is nekilátott, és összeállított egy gyűjtő-és szórólencséből álló távcsövet, amit ma Galilei-féle távcsőnek hívunk. Koppernikusz-féle világkép mellé állt, ezért az egyház támadta. Kínzásoknak is alávetették, hogy vonja vissza ezzel kapcsolatos kijelentéseit. Firenzében betegen, félig vakon írta meg főművét (Beszélgetések két új tudományról). Ebben összefoglalja azokat a mechanikai kérdéseket, amelyekkel egész életében foglalkozott. A négykötetes, párbeszédes formában írt könyvben Galilei a szabadesés s általában a gyorsuló mozgások mintaszerű kísérleteken alapuló első teljes tárgyalását adta, megfogalmazta a tehetetlenség elvét, és burkoltan a dinamika második törvényét is. Könyvében foglalkozott a hajításokkal, az ingamozgással, sztatikával és hidrosztatikával is. Galileinek felfedezései mellett legnagyobb érdeme a fizika helyes módszerének, a kísérletekre támaszkodó matematikai bizonyításnak a kialakítása és alkalmazása.
-
-A fizika történetének új korszakát megnyitó nagy tudós tanítványai körében, 1642. január 8-án halt meg.
+ - [Galileo Galilei](eletrajz.md)

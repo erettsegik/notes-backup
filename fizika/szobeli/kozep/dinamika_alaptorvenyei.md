@@ -50,6 +50,6 @@ Ahol [latex inline]f[/latex] a gravitációs állandó, [latex inline]m_1[/latex
 
 A súrlódás két érintkező felület között fellépő erő, vagy az az erő, mellyel egy közeg fékezi a benne mozgó tárgyat (például a mézben lesüllyedő kanálra ható fékező erő.)
 
-### Fizikai háttér:
+## Kapcsolódó anyagok
 
-Isaac Newton 1642 karácsonyán született Angliában. Apja néhány hónappal korábban meghalt, anyja pedig három év múltán újra férjhez ment és elköltözött, nagyanyjára bízva a kis Newton nevelését. 1661-től nagybátyja támogatásával Cambridge-ben tanult. Az 1665-ös nagy pestisjárvány idejére birtokára vonult vissza, ahol két év alatt megfogalmazódott benne a differenciálszámítás elmélete, a színelmélet, a dinamika alaptörvényei és az általános tömegvonzás törvénye. 1668-ban elkészítette híressé vált *tükrös teleszkópját*. 1687-ben megjelent *A természetfilozófia matematikai alapelvei* című műve, amely többek között tartalmazza az erőkre vonatkozó törvényeit és a mozgások matematikai leírását is. 1705-ben a királynő lovaggá ütötte. 1703-tól 1727-ben bekövetkezett haláláig az angol Királyi Társaság elnöke. Az angol királyok temetkezési helyén, a Westminster Abbeyben temették el.
+ - [Isaac Newton](eletrajz.md)

@@ -79,6 +79,6 @@ Ha egy testet nem csak elejtünk hanem lefele vagy felfele elhajítjuk, akkor *
 
 A *vízszintes hajítás* gyakorlatilag egy szabadesésből és egy egyenletes mozgásból áll. Ez a Lőwy-féle ejtőgéppel bebizonyítható.
 
-## Fizikai háttér
+## Kapcsolódó anyagok
 
-Galileo Galilei olasz fizikus, csillagász, matematikus, természettudós. Galileiről rengeteg történet kering. Ezek közül talán a leghíresebb a pisai ferde toronyból leejtett különböző tömegű testek elbeszélése. Ezzel bizonyította, hogy a szabadesés sebessége független a testek tömegétől. Ez ellentétes volt azzal, amit Arisztotelész állított: a nehezebb testek gyorsabban, a könnyebbek lassabban esnek, egyenes arányosságban a tömeggel. Kísérletezett lejtőn leguruló golyókkal, amivel ugyanazt tudta bizonyítani: a leguruló vagy a szabadon eső golyók a tömegüktől függetlenül gyorsulnak.
+ - [Galileo Galilei](eletrajz.md)

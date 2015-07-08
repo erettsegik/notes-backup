@@ -4,7 +4,7 @@ A két leggyakrabban használt hőmérsékleti skála a *Celsius-skála* és a *
 
 A hőmérséklet-változás hatására bekövetkező méretváltozást *hőtágulásnak* nevezzük.
 
-A hőtágulás során bekövetkező méretváltozás sok esetben olyan csekély, hogy szabad szemmel nehéz észrevenni. Ennek ellenére a hőtágulás következtében óriási erők léphetnek fel, ha a méretváltozás létrejöttét külső erők megakadályozzák. Gyakran fontos mérnöki feladat a hőtágulás elleni védelem.  
+A hőtágulás során bekövetkező méretváltozás sok esetben olyan csekély, hogy szabad szemmel nehéz észrevenni. Ennek ellenére a hőtágulás következtében óriási erők léphetnek fel, ha a méretváltozás létrejöttét külső erők megakadályozzák. Gyakran fontos mérnöki feladat a hőtágulás elleni védelem.
 
 ### Szilárd halmazállapotú anyagok hőtágulása
 

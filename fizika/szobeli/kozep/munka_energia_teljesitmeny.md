@@ -5,7 +5,7 @@ Fizikai értelemben munkavégzésről akkor beszélünk, ha *egy test erő hatá
  - Ha az erő és az elmozdulás egymásra *merőleges*, akkor fizikai értelemben nem történik munkavégzés. Pl.: ha egy táskát függőlegesen tartunk, és úgy sétálunk, akkor sem a tartóerő, sem a nehézségi erő nem végez munkát.
  - Ha az erő és az elmozdulás egymással *[latex inline]\alpha[/latex] szöget zár be*, akkor az erőnek az elmozdulás irányába eső komponense végez munkát.
  - Jele: [latex inline]W[/latex]
- - [latex inline]W = F * s * \cos\alpha[/latex]
+ - [latex inline]W = F * s * \cos\alpha[/latex] (skaláris szorzat)
  - [W] = 1 J (joule) - Joule angol fizikusról nevezték el.
  - Skalár mennyiség
 
@@ -25,9 +25,22 @@ Ha egy kezdetben nyugvó testre állandó erő hat, a test egyenes vonalú egyen
 
 A rugó megnyújtásakor és összenyomásakor a rugóban erő ébred. Ha a rugóban fellépő erőt ábrázoljuk a megnyúlás függvényében, akkor az origóból kiinduló félegyenest kapunk. A grafikon alatti terület mérőszáma a rugóerő munkájával lesz egyenlő. [latex inline]W = \frac{1}{2} * D * x^2[/latex]
 
-#### Surlódási munka
+#### Súrlódási munka
+
+##### Súrlódás
+
+A súrlódás két érintkező felület között fellépő erő, vagy az az erő, mellyel egy közeg fékezi a benne mozgó tárgyat (például a mézben lesüllyedő kanálra ható fékező erő).
+
+súrlódási együttható: A súrlódási tényező az érintkező felületek anyagminőségétől függő empirikus mennyiség. [latex inline]\mu[/latex] skalár mennyiség
+
+jó: Nem tudnánk nélküle mozogni
+Rossz: lehetne örökmozgót építeni, ami energiát nem termelne, de ha egyszer elindítjuk, onnantól kezdve nem lenne vele para.
 
 Ha húzunk egy szánkót, akkor a súrlódási erő ellenében munkát kell végezni. Ha egy testet vízszintes felületen mozgatunk úgy, hogy a test egyenes vonalú egyenletes mozgást végez, akkor a súrlódási erő nagysága megegyezik a húzóerő nagyságával. A súrlódási erő ellenében végzett munka pozitív, a súrlódási erő munkája negatív előjelű. [latex inline]W = -\mu * F_{nys}[/latex]
+
+##### Közegellenállás
+
+A folyadékban vagy gázban mozgó testre erő hat. Ezt az erőt két komponensre szokás bontani, a mozgás irányába eső, azt akadályozó, illetve erre merőleges komponensre. A mozgás irányába eső erő a közegellenállás, a rá merőleges erő neve felhajtóerő.
 
 ## Energia
 
@@ -65,6 +78,10 @@ A testeknek forgásuk miatt is lehet kölcsönható képessége, amelyet a forg�
 ### Mechanikai energia megmaradásának törvénye
 
 *Zárt mechanikai rendszerben (nem hatnak rá külső erők, vagy azok eredője nulla) a mechanikai energiák összege állandó*.
+
+### Van-der Waals kölcsönhatás
+
+Más néven diszperziós kölcsönhatás. Légnemű anyag részecskéi között a leggyengébb a vonzóerő, a szilárd anyagoknál a legnagyobb. Ha túl közel vannak egymáshoz a részecskék, akkor ez a vonzóerő átcsap taszításba.
 
 ## Teljesítmény
 

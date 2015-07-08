@@ -45,8 +45,6 @@ Boyle-Mariotte-törvény: Adott tömegű (m) és anyagi minőségű gázmennyis�
  - Reaumur: A skála alappontja a jég olvasáspontja légköri nyomáson. Egy másik fix pont, a víz forráspontja ugyanazon a nyomáson. Nála ez 80 °R. Ennek átszámítása celsiusra: [°C] = [°R] [latex inline]* \frac{5}{4}[/latex]
  - Kelvin: A hőmérséklet SI mértékegysége. Beosztását a Celsius-foktól örökölte. Ez egy abszolút hőmérsékleti skála. Nincs mínusz fok, 0 K a tetszőlegesen megközelíthető, de soha el nem érhető legkisebb hőmérséklet, ahol a részecskék már nem mozognak. 0 °C = 273,15 K
 
-### Kísérlet:
+## Kapcsolódó anyagok
 
-*Melde-csővel bizonyítani kell, hogy igaz a Boyle-Mariotte-törvény.*
-
-A Melde-cső egy üveg cső, amiben higany van. A lényege, hogy mindig egyenlő a belső nyomás a külsővel, emiatt nem tud kifolyni a higany a csőből. A térfogat méréséből lehet nyomás értékeket levezetni. (higanyoszlop súlyából származó nyomás: higanyoszlop magassága * g * sűrűség). Három lényeges állás van, vízszintesen, nyitott vég felül, vagy zárt vég felül. Ezekből a normális légköri nyomás számolható.
+ - [Kísérlet: Boyle-Mariotte-törvény Melde-csővel](#)

@@ -11,7 +11,7 @@
  - [Gáztörvények](gaztorvenyek.md)
  - [Halmazállapotok](halmazallapotok.md)
  - [Hőtágulás](hotagulas.md)
- - [Hullámok, Hangsebesség mérése hangvilla segítségével](#)
+ - [Hullámok, hangsebesség mérése hangvilla segítségével](#)
  - [Kinematika](kinematika.md)
  - [Körmozgás](kormozgas.md)
  - [Lendület](lendulet.md)

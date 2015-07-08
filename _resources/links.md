@@ -85,3 +85,22 @@ kretenizmus.png              -> http://i.imgur.com/Yfb4dhf.png
 basedow_1.png                -> http://i.imgur.com/tT3hfZ3.png
 basedow_2.png                -> http://i.imgur.com/eKV9qSD.png
 pajzsmirigy_ultrahang.png    -> http://i.imgur.com/crPfSNX.png
+mellekpajzsmirigy.png
+mellekpajzsmirigy_mukodes.png
+mellekvesek.png
+mellekvese_szerkezete.png
+mellekvese_keregallomany.png
+renin-angiotenzin-aldoszteron.png
+napszakos_ritmus.png
+addison-kor.png
+cushing_kor_1.png
+cushing_kor_2.png
+adrenalin.png
+hasnyalmirigy.png
+lagerhans_szigetek.png
+inzulin.png
+inzulin_mukodes.png
+anabolikus_hatasok.png
+cukorbetegseg_1.png
+cukorbetegseg_2.png
+human_inzulin.png
