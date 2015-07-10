@@ -18,7 +18,12 @@ Az *1568-as tordai országgyűlés* kimondta a szabad vallásgyakorlatot Erdély
 
 Íme egy összefoglaló táblázat Erdély etnikai és vallási viszonyairól:
 
-![Erdély etnikai és vallási viszonyai](http://i.imgur.com/FbDU1Od.png)
+| rendi nemzet | etnikai nemzet | vallás                |
+| ------------ | -------------- | --------------------- |
+| magyar       | magyar         | református, unitárius |
+| székely      | magyar         | katolikus             |
+| szász        | német          | evangélikus           |
+| román\*      | román          | ortodox\*             |
 
 \* a román nem rendi nemzet, és az ortodox nem bevett vallás Erdélyben
 
