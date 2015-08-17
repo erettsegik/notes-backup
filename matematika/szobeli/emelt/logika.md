@@ -12,25 +12,47 @@ Negáció(tagadás) – komplementer halmaz:
 
 Konjunkció(„és” kapcsolat) – két halmaz metszete(két állítás metszete):
 
-![and kapcsolat](http://i.imgur.com/EvhuQQm.png)
+| A | B | A * B |
+|:-:|:-:|:-----:|
+| 0 | 0 |   0   |
+| 1 | 0 |   0   |
+| 0 | 1 |   0   |
+| 1 | 1 |   1   |
 
 Diszjunkció(vagy) – két halmaz uniója
 
-![or kapcsolat](http://i.imgur.com/lNOEA2x.png)
+| A | B | A + B |
+|:-:|:-:|:-----:|
+| 0 | 0 |   0   |
+| 1 | 0 |   1   |
+| 0 | 1 |   1   |
+| 1 | 1 |   1   |
 
 Implikáció:
 
-![Implikáció](http://i.imgur.com/Y28cCZE.png)
+| A | B | A → B |
+|:-:|:-:|:-----:|
+| 0 | 0 |   1   |
+| 1 | 0 |   0   |
+| 0 | 1 |   1   |
+| 1 | 1 |   1   |
 
 A fentiek szerint hamis állításból következhet hamis, hamisból következhet igaz, igazból nem következhet hamis, igazból következhet igaz állítás. Ez tulajdonképpen a "Ha..., akkor..." kijelentésnek felel meg.
 
 Ekvivalencia:
 
-![Ekvivalencia](http://i.imgur.com/LkAg5v6.png)
+| A | B | A ↔ B |
+|:-:|:-:|:-----:|
+| 0 | 0 |   1   |
+| 1 | 0 |   0   |
+| 0 | 1 |   0   |
+| 1 | 1 |   1   |
 
 *de Morgan féle azonosságok*:
 
  - A *halmazelméletben* a következők:
-![DeMorgan azonosságok](http://i.imgur.com/iRtcdCe.png)
-![DeMorgan azonosságok](http://i.imgur.com/PCTNS7L.png)
+
+   ![DeMorgan azonosságok](http://i.imgur.com/iRtcdCe.png)
+
+   ![DeMorgan azonosságok](http://i.imgur.com/PCTNS7L.png)
  - *Logikában* pedig:

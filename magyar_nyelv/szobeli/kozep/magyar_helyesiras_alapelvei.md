@@ -24,13 +24,24 @@ Megesik (például toldalékolásnál), hogy a szavakat nem úgy írjuk le, ahog
 
 Ide tartoznak a különböző szabályok (részleges hasonulás, teljes hasonulás, összeolvadás, kiesés, rövidülés).
 
-![Szóelemző írásmód](http://i.imgur.com/cUwHzIv.jpg)
+| Ejtés      | Alkotó tagok | Helyesírás |
+| ---------- | ------------ | ---------- |
+| tammenet   | tan + menet  | tanmenet   |
+| vísszint   | víz + szint  | vízszint   |
+| annya      | any + ja     | anyja      |
+| szerettyük | szeret + jük | szeretjük  |
+| etyszer    | egy + szer   | egyszer    |
+| baráccság  | barát + ság  | barátság   |
 
 ### Hagyományos írásmód:
 
 Azért van rá szükség, hogy megőrizzük a korábban megszokott írásmódot, így könnyen azonosíthatóvá válnak a korábban született szövegek (főleg neveknél fontos)
 
-![Hagyományos írásmód](http://i.imgur.com/UPngp47.jpg)
+| Hagyományos írás | Kiejtés   |
+| ---------------- | --------- |
+| Batthyány        | battyányi |
+| Cházár           | császár   |
+| Madách           | madács    |
 
  - Helyesírásunk őriz egy másik hagyományt is, az ly-t
  - Ma már a köznyelvben a j és az ly hangértéke ugyanaz, mégis a korábbi rendszer emlékét megőrizzük (lyuk, milyen, gólya, pocsolya stb.)
