@@ -22,4 +22,4 @@ A szabadon eső test álló helyzetből induló, egyenes vonalú, egyenletesen v
 
 ## Kapcsolódó anyagok
 
- - [Galileo Galilei](eletrajz.md)
+ - [Életrajz: Galileo Galilei](/note/2425/)

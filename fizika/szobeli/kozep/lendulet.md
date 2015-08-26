@@ -14,4 +14,4 @@ Lendület idő szerinti deriváltja egyenlő a testre ható erővel
 
 ## Kapcsolódó anyagok
 
- - [Isaac Newton](eletrajz.md)
+- [Életrajz: Isaac Newton](/note/2424/)

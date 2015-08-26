@@ -5,7 +5,7 @@ Fizikai értelemben munkavégzésről akkor beszélünk, ha *egy test erő hatá
  - Ha az erő és az elmozdulás egymásra *merőleges*, akkor fizikai értelemben nem történik munkavégzés. Pl.: ha egy táskát függőlegesen tartunk, és úgy sétálunk, akkor sem a tartóerő, sem a nehézségi erő nem végez munkát.
  - Ha az erő és az elmozdulás egymással *[latex inline]\alpha[/latex] szöget zár be*, akkor az erőnek az elmozdulás irányába eső komponense végez munkát.
  - Jele: [latex inline]W[/latex]
- - [latex inline]W = F * s * \cos\alpha[/latex] (skaláris szorzat)
+ - [latex inline] W = F * s * \cos\alpha[/latex] \(skaláris szorzat)
  - [W] = 1 J (joule) - Joule angol fizikusról nevezték el.
  - Skalár mennyiség
 
@@ -98,6 +98,6 @@ A munkavégzés közben a munka nagysága mellett az is fontos kérdés, hogy *m
 ### Hatásfok
 
  - A hasznos munka és az összes munka hányadosa.
- - Jele: [latex inline]\eta[/latex] (éta)
+ - Jele: [latex inline]\eta[/latex] \(éta)
  - Általában százalékban szokás megadni.
  - A gépek, berendezések hatásfoka mindig kisebb, mint 100% (Nem létezik örökmozgó).

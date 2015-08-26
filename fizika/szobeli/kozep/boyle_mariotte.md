@@ -47,4 +47,4 @@ Boyle-Mariotte-törvény: Adott tömegű (m) és anyagi minőségű gázmennyis�
 
 ## Kapcsolódó anyagok
 
- - [Kísérlet: Boyle-Mariotte-törvény Melde-csővel](#)
+ - [Kísérlet: Boyle-Mariotte-törvény Melde-csővel](/note/2423/)

@@ -4,6 +4,4 @@ Olasz fizikus és csillagász. Az olaszországi Pisa városában született 1564
 
 A fizika történetének új korszakát megnyitó nagy tudós tanítványai körében, 1642. január 8-án halt meg.
 
-## Fizikai háttér
-
 Galileo Galilei olasz fizikus, csillagász, matematikus, természettudós. Galileiről rengeteg történet kering. Ezek közül talán a leghíresebb a pisai ferde toronyból leejtett különböző tömegű testek elbeszélése. Ezzel bizonyította, hogy a szabadesés sebessége független a testek tömegétől. Ez ellentétes volt azzal, amit Arisztotelész állított: a nehezebb testek gyorsabban, a könnyebbek lassabban esnek, egyenes arányosságban a tömeggel. Kísérletezett lejtőn leguruló golyókkal, amivel ugyanazt tudta bizonyítani: a leguruló vagy a szabadon eső golyók a tömegüktől függetlenül gyorsulnak.

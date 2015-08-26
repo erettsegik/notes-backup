@@ -81,4 +81,4 @@ A *vízszintes hajítás* gyakorlatilag egy szabadesésből és egy egyenletes m
 
 ## Kapcsolódó anyagok
 
- - [Galileo Galilei](eletrajz.md)
+ - [Életrajz: Galileo Galilei](/note/2425/)

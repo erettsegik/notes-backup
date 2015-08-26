@@ -1,7 +1,7 @@
 Balassi kora:
-- reformáció, magyar nyelvű irodalom kibontakozása
-- török hódoltság
-- reneszánsz
+ - reformáció, magyar nyelvű irodalom kibontakozása
+ - török hódoltság
+ - reneszánsz
 
 Verseit 3 nagy csoportba sorolhatjuk:
 
@@ -48,19 +48,19 @@ A humanista műveltségű Balassi verseiben gyakori szereplő Venus, a szerelem 
 
 ## Júliára talála így köszöne néki:
 
-- A provanszál trubadúrlíra, az udvarló-, bókoló verstípus legszebb darabja a magyar költészetben. A kezdő- és záróstrófában megalkotott szituáció a lovagi költészet szerelemeszményét tükrözi: a hölgy felette áll udvarlójának, a szerelem egyoldalú, a jutalom csak egy mosoly.
-- nemes, udvari ember világa: palotának, fejedelemnek nevezi a költő Júliát
-- a népköltészet („kis violám”, „édes lelkem”) és a keleti, török költészet („szemöldök fekete széne”, „jó­illatú piros rózsám”) motívumai
-- természeti és mesterséges környzetből vett képek, virágmetaforák - népdalok, arisztokratikus udvari költészet, himnikus halmozás
-- felsorolások, fokozások, ellentétek (nap – szemöldök feketesége)
-- alliterációk (élj, élj életem...)
+ - A provanszál trubadúrlíra, az udvarló-, bókoló verstípus legszebb darabja a magyar költészetben. A kezdő- és záróstrófában megalkotott szituáció a lovagi költészet szerelemeszményét tükrözi: a hölgy felette áll udvarlójának, a szerelem egyoldalú, a jutalom csak egy mosoly.
+ - nemes, udvari ember világa: palotának, fejedelemnek nevezi a költő Júliát
+ - a népköltészet („kis violám”, „édes lelkem”) és a keleti, török költészet („szemöldök fekete széne”, „jó­illatú piros rózsám”) motívumai
+ - természeti és mesterséges környzetből vett képek, virágmetaforák - népdalok, arisztokratikus udvari költészet, himnikus halmozás
+ - felsorolások, fokozások, ellentétek (nap – szemöldök feketesége)
+ - alliterációk (élj, élj életem...)
 
 ### Szerkezete:
 
-- 1\. strófája az üdvözlést és a megszólításokat tartalmazza - jelen
-- 2-3-4. metaforák-megszólítások - Júlia eszményítése
-- 2\. versszak a lírai én érzelmei
-- 4-5. fénnyel kapcsolatos metaforák, ismétlések
-- 6\. versszak a versírás alaphelyzete – kívülről, múlt idő - a reménytelen szerelem petrarcai konvenciói
+ - 1\. strófája az üdvözlést és a megszólításokat tartalmazza - jelen
+ - 2-3-4. metaforák-megszólítások - Júlia eszményítése
+ - 2\. versszak a lírai én érzelmei
+ - 4-5. fénnyel kapcsolatos metaforák, ismétlések
+ - 6\. versszak a versírás alaphelyzete – kívülről, múlt idő - a reménytelen szerelem petrarcai konvenciói
 
 Verselése: ütemhangsúlyos, magyaros

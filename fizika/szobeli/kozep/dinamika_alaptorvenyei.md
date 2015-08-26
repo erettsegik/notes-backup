@@ -52,4 +52,4 @@ A súrlódás két érintkező felület között fellépő erő, vagy az az erő
 
 ## Kapcsolódó anyagok
 
- - [Isaac Newton](eletrajz.md)
+ - [Életrajz: Isaac Newton](/note/2424/)
