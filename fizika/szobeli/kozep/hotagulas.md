@@ -18,6 +18,14 @@ Lineáris hőtágulásról olyan szilárd anyagoknál beszélünk, ahol a keresz
 
 Ahol [latex inline]l_0[/latex] a kezdeti hossz, [latex inline]\Delta T[/latex] a hőmérsékletváltozás, [latex inline]\alpha[/latex] a lineáris hőtágulási együttható, szilárd test anyagára jellemző állandó.
 
+<!--
+rúd alá alkohol, begyújtani, egyik vége rögzített másik egy mutatót tol – látható a hosszváltozás (lineáris hőtágulás)
+
+A szilárd test bármely hosszúság adatának változása egyenesen arányos a test kezdeti hosszával és a hőmérsékletváltozással. arányossági tényező a test anyagi minőségétől függ: hőtágulási együttható. a lineáris hőtágulási együttható megmutatja hogy a test kezdeti hosszának hányad részével tágul ha 1 C fokkal nő a hőmérséklete.
+
+a hőtágulás utáni hossz számítása: delta l + l
+-->
+
 #### Térfogati hőtágulás
 
 Ha egy szilárd testnek a tér mind a három irányában közel azonos a mérete, akkor a hőközléskor bekövetkező hosszváltozást mind a három irányban figyelembe kell venni. Ez eredményezi a térfogatváltozást.  
@@ -26,11 +34,33 @@ Ha egy szilárd testnek a tér mind a három irányában közel azonos a mérete
 
 [latex inline]\beta[/latex]: térfogati hőtágulási együttható, egységnyi hőm.változáskor bekövetkező relatív térfogatváltozás nagyságát adja meg. [latex inline]\beta = 3 * \alpha[/latex]
 
+<!--
+Gravesande gyűrű és golyó, ugyanakkora átmérőjű gyűrű és gömb, szobahőmérsékleten átfér, bunsen égőben melegítve már nem fér át (térfogati hőtágulás)
+
+A szilárd test térfogatának megváltozása  ugyanaz mint az előbb csak térfogattal.
+
+megváltozott térfogat számítása is ugyanaz a hőtágulási együttható a lineáris együttható, alfa 3szorosa, ezt már bétával jelöljük
+
+ez a térfogati hőtágulás törvénye
+
+A szilárd testek hőtágulásának jelensége modell alapján magyarázható, mivel a Brown-mozgás intenzitása, illetve a kristályrács rácspontjain elhelyezkedő atomok, molekulák, ionok mozgásának tágassága megnő a hőmérséklet növekedésével, ezért a részecskék távolabb igyekeznek elhelyezkedni egymástól. Ezért a térfogat megnő.
+-->
+
 ### Folyékony halmazállapotú anyagok hőtágulása
 
 A folyadékok hőközlés hatására legtöbbször a szilárd anyagokhoz hasonlóan viselkednek, melegítés hatására általában kitágulnak.
 
 Csak térfogati hőtágulás jellemző rá, kiszámítási módja azonos.
+
+<!--
+A folyadékok térfogatának megváltozása nem túl nagy hőmérséklet-változás esetén ugyanaz mint a szilárd testeknél: delta V=Vo*béta*delta T
+
+Minél nagyobb a hőmérséklet annál nagyobb a térfogat és annál kisebb a sűrűség.
+
+A víz különleges 0-4 C fok között nem követi ezt a törvényt. 4 C fokon a legnagyobb a sűrűsége! (ezért nincs vízből hőmérő)
+
+Folyadékok és szilárd testek minden hőmérsékleten meghatározható térfogattal rendelkeznek, a gázok nem, itt már a nyomás is számít. Viszont a gázok hőtágulásánál nem függ anyagi minőségtől a hőtágulási együttható.
+-->
 
 #### A víz viselkedése hőtáguláskor
 
@@ -41,6 +71,12 @@ A víz kivételes hőtágulásának fontos szerepe van a *tavak és a folyók be
 ### Gázok hőtágulása
 
 Gázok hőtágulása is csak térfogati lehet, képlete megegyezik a folyadékok ill. szilárd testek térfogati hőtágulásával. Az arányossági tényező itt is a [latex inline]\beta[/latex]. [latex inline]\beta_g>\beta_f, \beta_{sz}[/latex]. Ha [latex inline]p_0 = 0[/latex] °C, akkor [latex inline]\beta = \frac{1}{273} \frac{1}{K}[/latex].
+
+<!--
+Gay-Lussac 1. törvénye: adott tömegű zárt gázmennyiség állandó nyomáson mért térfogatváltozása egyenesen arányos a gáz 0 fokon mért térfogatával és a hőmérséklet-változással. arányossági tényező a gázok hőtágulási együtthatója, mely minden ideális gázra azonos értékű.
+
+tehát izobár gáz állapotváltozás esetén V1/T1=V2/T2
+-->
 
 ### A hőtágulás megjelenése a mindennapi életben
 
@@ -59,3 +95,25 @@ Gázok hőtágulása is csak térfogati lehet, képlete megegyezik a folyadékok
 #### Felhasználás:
 
 *Bimetál-szalag:* Kettős fémet jelent. Két különböző hőtágulási együtthatóval rendelkező fémet szegecselnek össze (alumínium és réz). Ilyenkor azonos hőmérsékletváltozás hatására a két fém különböző mértékben tágul. Ezért a bimetálszalag elhajlik. Ilyet használnak tűzjelzésre, gázmelegítő készülékekben.
+
+<!--
+természeti jelenségek:
+
+- a sivatag zenéje – amikor a kőzet megreped; a sivatagokban a nappalok és éjszakák közötti nagy hőingás elaprózza a kőzeteket, konkrétan lehet hallani
+- jég szétrepeszti a köveket
+
+védekezni kell ellene:
+
+- építkezéseknél: vasbeton
+- hidaknál: fel van darabolva, a híd részei valamennyire tágulhatnak
+- beton járólapok felrepedeznek
+- csövekbe raknak kanyart hogy ne törjenek el
+- hosszabbra hagyják a távvezetéket hogy ne szakadjon el télen
+
+ezen alapuló eszközök:
+
+- bimetál (megszakít mondjuk egy áramkört bizonyos hőmérsékletet elérve)
+- hőmérő (folyadékok hőtágulásán alapul)
+- bojler (mikor áll le)
+- vízforralók (mikor 100 fokos a víz)
+-->
