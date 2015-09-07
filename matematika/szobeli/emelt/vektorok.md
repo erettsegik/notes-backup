@@ -1,0 +1,92 @@
+*Fogalma:* az irányított szakaszt vektornak nevezzük
+
+ - független számpárral/számhármassal/szám n-essel megadott mennyiség (vektor dimenziói)
+   - a vektorok igazi létjogosultságát a fizika igényelte
+   - a valós számok is felfoghatóak egydimenziós vektorként
+     - komplexek kétdimenziósként
+
+*Definíció:* a vektor abszolút értéke a vektort meghatározó irányított szakasz hossza
+
+*Definíció:* két vektor egyirányú, ha a két vektor párhuzamos, és azonos irányba mutat
+
+*Definíció:* két vektor egyenlő, ha egyirányúak és abszolút értékük is egyenlő
+
+*Vektorműveletek:* összeadás, kivonás, nullvektor, ellentett vektor
+
+*Vektorok összege* annak az eltolásnak a vektora, amellyel helyettesíthető az a vektorral és a b vektorral történő egymásutánja
+
+*Vektorösszeadás tulajdonságai:*
+ - kommutatív: a + b = b + a
+ - asszociatív: (a + b) + c = a + (b + c)
+
+*Különbségvektor* az a vektor, amelyhez a b vektort adva az a vektort kapjuk
+
+*Definíció:* egy nullvektortól különböző a vektor tetszőleges \lambda valós számmal (skalárral) vett szorzata egy olyan vektor, amelynek abszolút értéke |\lambda| * |a| és \lambda > 0 esetén a-val egyirányú, \lambda < 0 esetén a-val ellentétes irányú
+
+*Skalárral vett szorzat:*
+ - disztributív: \alfa * a + \beta * a = (\alfa + \beta) * a
+ - asszociatív: \alfa * (\beta * a) = (\alfa * \beta) * a
+
+*Két vektor skaláris szorzata:* az a szám, ami a két vektor nagyságának és a közbezárt szögük koszinuszának a szorzatával egyezik meg
+
+ - disztributív
+ - nem asszociatív
+ - kommutatív a-> * b-> = b-> * a->
+
+*Vektoriális szorzás:* két vektor szorzatán értjük azt a vektort, amelynek nagysága a két vektor hosszának és az általuk bezárt szög szinuszának a szorzata
+
+ - iránya merőleges a két vektor által meghatározott síkra
+ - nem kommutatív
+
+*Vegyes szorzat:* három vektor vegyes szorzata megadja az általuk kifeszített paralelepipedon térfogatát. determinánssal számolható
+
+*Vektorok felbontása:*
+
+ - ha két vektor párhuzamos, egy számmal (skalár) szorzással egyik a másikból felírható
+ - ha két vektor nem párhuzamos, akkor független vektorok, egyik a másikból nem fejezhető ki
+ - ha egy síkban két nem párhuzamos vektort rögzítünk, akkor a sík bármely vektora előállítható ezek lineáris kombinációjaként
+   - több dimenzióban is működik, 3-ban 3-mal, n-ben n-nel
+
+*Lineáris kombináció:* tetszőleges a, b vektorokkal és \alfa, \beta valós számokkal képzell v = \alfa * a + \beta * b vektort az a és b vektorok lináris kombinációjának nevezzük
+
+a lináris kombinációban szereplő a és b vektorokat bázisvektoroknak nevezzük
+
+*Vektorok koordinátái*
+
+a síkbeli derékszögű koordináta-rendszerben a bázisvektorok az origóból kiinduló egymásra merőleges egységvektorok, melyek az origótól kifelé mutatnak
+
+*Definíció:* a derékszögű koordináta-rendszerben egy vektor koordinátáinak nevezzük az origó kezdőpontú, vele egyenlő helyvektor végpontjának koordinátáit a->(a_1, a_2)
+
+*Tétel:* vektor koordinátáinak kiszámítása kezdő- és végpontjának segítségével: a->(a_1, a_2), a->(b_1, b_2) -> ab->(b_1-a_1, b_2-a_2)
+
+*Alkalmazások:*
+
+ - szögfüggvények
+ - addíciós tételek bizonyítása
+ - két vektor vektoriális szorzatának nagysága pralelogramma területe
+ - eltolás transzformáció
+
+Fizika:
+
+ - vektormennyiségek: v, a F, p, E, B
+ - munka -> skalárszorzat
+ - vektoriális szorzat -> lorentz erő, forgatónyomaték
+ - mátrixok mint adatkezelés
+
+Vektorműveletek koordinátákkal:
+
+ - összeg: a-> + b-> (a_1 + b_1, a_2 + b_2)
+ - különbség: a-> - b-> (a_1 - b_1, a_2 - b_2)
+ - számszoros: \lambda * a-> (\lambda * a_1, \lambda * a_2)
+ - 90°-os elforgatás
+   - +90° a->(a_1, a_2) -> a->'(-a_2, a_1)
+   - -90° a->(a_1, a_2) -> a->''(a_2, -a_1)
+
+Tetszőleges két vektor skalárszorzata: a-> * b-> = |a->| * |b->| * cos \alfa
+
+![Skaláris szorzat](skalaris-szorzat.png)
+
+két vektor szorzata akkor és csak akkor 0, ha merőlegesek egymásra
+ - bizonyítás
+
+vektor -> 1 soros mátrix
