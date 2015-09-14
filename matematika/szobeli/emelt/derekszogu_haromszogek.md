@@ -59,3 +59,24 @@ A hegyesszögek szögfüggvényeit derékszögű háromszögekkel is bevezethetj
    + lejtőn lévő testre ható erők
    + hajítások fizikai leírásához
    + lejtőn lévő testekre ható erők felbontásához
+
+<!--
+
+A szögfügvények 300-400 éves múltra tekintenek vissza, bár a gyakorlatban régebb óta használják őket (pl. a Föld kerületének a megállapítása).
+
+Alkalmazások:
+ - háromszögek
+ - függvények
+Fizikai alkalmazások:
+ - rezgések, hullámok (harmónikus rezgőmozgás)
+ - Fourier-tétel: Bármely periodikus függvény előállítható véges sok szinuszos függvényből.
+    - hangtechnológia, hangfelvétel felbontása, háttérzaj elemzés -> Fourier-analízis
+ - váltóáram
+ - Schnellius-Descartes féle törési törvény
+ - ferde hajítások
+
+Def: Az alfa szög koszinuszának nevezzük annak az egységnyi hosszúságú vektornak az első koordinátáját, mely az i bázisvektorral alfa szöget zár be.
+
+Def: Az alfa szög szinuszának nevezzük annak az egységnyi hosszú vektornak a második koordinátáját, amely az i bázisvektorral alfa szöget zár be.
+
+-->
