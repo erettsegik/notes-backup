@@ -2,11 +2,9 @@
 
 Ha a test kitérése periodikus függvénye az időnek, akkor rezgőmozgásról beszélünk.
 
-<!--
 A fizikában minden olyan változást, amely időben valamilyen (szabályos vagy kevésbé szabályos) ismétlődést mutat, *rezgésnek* nevezünk. Pl: gitár megpendített húrja, szív dobogása.
 
 A rezgések egyik nagy csoportját a mechanikai rezgések alkotják. Ezek legfőbb jellemzője az, hogy mindig valamilyen *mozgás közben* játszódnak le, ezért ilyen esetben *rezgőmozgásról* szokás beszélni.
--->
 
 ### Harmonikus rezgőmozgás
 

@@ -16,7 +16,7 @@ Tegyünk lapos üvegtálba ricinusolajat, és helyezzünk ebbe két fémtárgyat
 ![Csúcshatás](http://i.imgur.com/JWxwflL.png)
 
 A csúcs közelében az erővonalak (daraszemek láncai) sokkal sűrűbbek. Ez azt jelzi, hogy *egy feltöltött fémtesten a töltés nem egyenletesen oszlik el. A felületeknél a legnagyobb térerősség ott lesz, ahol a legkisebb a görbületi sugár.*
- 
+
 ## Elektrosztatikus árnyékolás
 
 A fémtestben kialakított üreg belsejébe a külső elektromos mező nem hatol be. A külső fémburok megosztott töltései ugyanis a külső eredetű elektromos mezőt a fémtesten belül nullára változtatja. Minthogy a megosztás jelensége rendkívül gyorsan zajlik le, megállapíthatjuk, hogy a külső mező gyakorlatilag egyáltalán nem hatol az üreg belsejébe. Ezt a hatást nevezzük árnyékolásnak. Ha egy berendezést meg akarunk védeni az elektromos mezőktől, fémházba helyezzük, árnyékoljuk.

@@ -1,12 +1,12 @@
 *A hullám fogalma:* A fizikában minden olyan változást (zavart), amely valamilyen közegben tovaterjed, hullámnak nevezünk.
 
-Két szomszédos, azonos fázisú hely térbeli távolsága a *hullámhossz*, melynek jele λ, mértékegysége m.
+Két szomszédos, azonos fázisú hely térbeli távolsága a *hullámhossz*, melynek jele [latex inline]\lambda[/latex], mértékegysége m.
 
 Két szomszédos, azonos fázisú hely időbeli távolsága a *periódusidő*, jele T, mértékegysége s.
 
 Az *amplitúdó* a hullám maximális kitérésének nagysága egy hullámcikluson belül. Jele A, mértékegysége általában méter, hanghullámok esetén azonban nyomásegységben is mérhető.
 
-A *rezgésszám*, vagyis frekvencia (f vagy υ) a másodpercenként végzett rezgések száma.
+A *rezgésszám*, vagyis frekvencia (f vagy [latex inline]\nu[/latex]) a másodpercenként végzett rezgések száma.
 
 A *terjedési sebesség* a haladó hullám meghatározott fázisállapotának tovahaladási sebessége. Jele c és megegyezik a hullám hosszának és a frekvenciájának szorzatával.
 
@@ -22,9 +22,9 @@ A *hang*, térben terjedő *longitudinális* mechanikai hullám. A *hangforrás*
 
 A hang jellemzői:
 
- - *Hangerősség:* a hangintenzitással mérhető, amely a hangforrás által az 1 m2 –nyi területre sugárzott teljesítményt jelenti, ezért egysége W/ m^2
+ - *Hangerősség:* a hangintenzitással mérhető, amely a hangforrás által az 1 m²–nyi területre sugárzott teljesítményt jelenti, ezért egysége [latex inline]\frac{W}{m^2}[/latex]
  - *Hangmagasság:* a hang rezgésszámával (frekvenciájával) jellemezhető. (pl. az 1:2 frekvenciaarányú hangok hangköze egy oktáv. Egy oktávon belül 7 lépésben követik egymást azok a hangok, amelyeket fülünkkel egymást természetes módon követő egész hangközöknek (dúr skála) érzékelünk. A zenei hangok frekvenciáinak közös viszonyítási alapértéke a normál a hang, melynek értéke 440 Hz. )
  - *Hangszín:* a hangszín annak a következménye, hogy a zenei hangok szinte sohasem egyetlen frekvenciát jelentenek, az alapfrekvencia mellett felharmonikusok is megjelennek.
- - *Hangsebesség:* a hang terjedési sebessége a levegőben 330 m/s. Aszerint változik, hogy milyen közegben terjednek a hullámok. Szintén kiszámítható a c= λ*υ képlet alapján.
+ - *Hangsebesség:* a hang terjedési sebessége a levegőben 330 m/s. Aszerint változik, hogy milyen közegben terjednek a hullámok. Szintén kiszámítható a [latex inline]c = \lambda * \nu[/latex] képlet alapján.
 
 *Doppler-effektus:* a hullám frekvenciájában és ezzel együtt hullámhosszában megjelenő változás, mely amiatt alakul ki, hogy a hullámforrás és a megfigyelő egymáshoz képest mozog. Pl. ha sípoló mozdony (adó) közeledik egy megfigyelőhöz (vevő), akkor az utóbbi magasabb frekvenciájú hangot hall, mint a vonaton ülő utas. Miután a mozdony elhaladt a megfigyelő mellett, a frekvencia észrevehetően lecsökken.
