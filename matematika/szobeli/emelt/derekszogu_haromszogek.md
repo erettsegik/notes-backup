@@ -48,8 +48,6 @@ A szögfügvények 300-400 éves múltra tekintenek vissza, bár a gyakorlatban 
 
 ##### Szögfüggvények:
 
-[kép: egységkör]
-
 i, és j x, y tengelyen egymással 90°-os szöget bezáró egységvektorok. v1, és v2 a v egységvektor x és y komponense.
 
 [latex] \overline{v} = \overline{v_1} + \overline{v_2} = \overline{v_1} * \overline{i} + \overline{v_2} * \overline{j} = \cos \alpha * \overline{i} + \sin \alpha * \overline{j}  [/latex]
@@ -57,6 +55,8 @@ i, és j x, y tengelyen egymással 90°-os szöget bezáró egységvektorok. v1,
 [latex] - 1 \leq \sin \alpha \leq 1 [/latex]
 [latex] v_{1}^{2} + v_{2}^{^2} = v^2[/latex]
 [latex] \cos^2 \alpha + \sin^2 \alpha = 1[/latex]
+
+![egysegvektor](http://i.imgur.com/iHNfRvR.png)
 
 Def: Az alfa szög koszinuszának nevezzük annak az egységnyi hosszúságú vektornak az első koordinátáját, mely az i bázisvektorral alfa szöget zár be.
 
