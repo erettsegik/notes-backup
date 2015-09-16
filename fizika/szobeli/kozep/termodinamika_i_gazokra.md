@@ -19,8 +19,9 @@ A testek belső energiája minden halmazállapotban kétféleképpen változtath
 - hőmennyiség felvételével, leadásával: [latex inline]Q[/latex]
 - a rendszer térfogatának megváltoztatásával, térfogati munkával: [latex inline]W[/latex]
 
-Tehát a *termodinamika első főtétele*: [latex inline]\Delta E_{belso} = Q + W[/latex] (akkor pozitív, ha növelik a belső energiát)
-leadott vagy felvett hőmennyiség: [latex inline]Q = c * m * \Delta T[/latex] (c a fajhő, anyagi minőségre jellemző állandó)
+Tehát a *termodinamika első főtétele*: [latex inline]\Delta E_{belso} = Q + W[/latex] \(akkor pozitív, ha növelik a belső energiát)
+
+leadott vagy felvett hőmennyiség: [latex inline]Q = c * m * \Delta T[/latex] \(c a fajhő, anyagi minőségre jellemző állandó)
 
 A *fajhő* megmutatja, hogy egységnyi tömegű anyag hőmérsékletének 1 Celsius fokkal történő megváltozásához mekkora hőmennyiség szükséges. Jele: c, mértékegysége: [latex inline]\frac{J}{K * kg}[/latex] vagy [latex inline]\frac{J}{C * kg}[/latex].
 

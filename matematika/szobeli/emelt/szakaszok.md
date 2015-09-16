@@ -47,7 +47,7 @@ Az első fokú lineáris függvények visszavezethetőek az egyenes egyenletére
 
  - Nem minden egyenes lehet függvény grafikonja mert az y tengellyel párhuzamos egyenesek egyike sem lehet függvény.
 
- #### Alkalmazások: 
+ #### Alkalmazások:
   - Geometriai valószínűségszámítások
   - Lineáris programozás
   - Elemi geometriai problémák megoldása
