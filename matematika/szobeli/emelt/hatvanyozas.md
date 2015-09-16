@@ -34,7 +34,6 @@
 
 [latex]\frac{a^n}{a^m} = a^{n-m} , a \neq 0;[/latex]
 
-
 ### Másodfokú függvény képe a parabola:
 
 #### Jellemzése:
