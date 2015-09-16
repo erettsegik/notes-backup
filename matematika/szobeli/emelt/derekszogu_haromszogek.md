@@ -42,6 +42,28 @@ A hegyesszögek szögfüggvényeit derékszögű háromszögekkel is bevezethetj
  - *Trigonometrikus pitagorasz tétel:*
    [latex] \sin^2\alpha + \cos^2\alpha = 1 [/latex]
 
+#### A szögfüggvények és általánosításuk:
+
+A szögfügvények 300-400 éves múltra tekintenek vissza, bár a gyakorlatban régebb óta használják őket (pl. a Föld kerületének a megállapítása).
+
+##### Szögfüggvények:
+
+i, és j x, y tengelyen egymással 90°-os szöget bezáró egységvektorok. v1, és v2 a v egységvektor x és y komponense.
+
+[latex] \overline{v} = \overline{v_1} + \overline{v_2} = \overline{v_1} * \overline{i} + \overline{v_2} * \overline{j} = \cos \alpha * \overline{i} + \sin \alpha * \overline{j}  [/latex]
+[latex] - 1 \leq \cos \alpha \leq 1 [/latex]
+[latex] - 1 \leq \sin \alpha \leq 1 [/latex]
+[latex] v_{1}^{2} + v_{2}^{^2} = v^2[/latex]
+[latex] \cos^2 \alpha + \sin^2 \alpha = 1[/latex]
+
+![egysegvektor](http://i.imgur.com/uhc9uwP.png)
+
+Def: Az alfa szög koszinuszának nevezzük annak az egységnyi hosszúságú vektornak az első koordinátáját, mely az i bázisvektorral alfa szöget zár be.
+
+Def: Az alfa szög szinuszának nevezzük annak az egységnyi hosszú vektornak a második koordinátáját, amely az i bázisvektorral alfa szöget zár be.
+
+[kép megint egységkör meg +- cuccosok]
+
 #### Alkalmazások:
 
  - ókori építészet
@@ -59,24 +81,12 @@ A hegyesszögek szögfüggvényeit derékszögű háromszögekkel is bevezethetj
    + lejtőn lévő testre ható erők
    + hajítások fizikai leírásához
    + lejtőn lévő testekre ható erők felbontásához
-
-<!--
-
-A szögfügvények 300-400 éves múltra tekintenek vissza, bár a gyakorlatban régebb óta használják őket (pl. a Föld kerületének a megállapítása).
-
-Alkalmazások:
- - háromszögek
- - függvények
-Fizikai alkalmazások:
- - rezgések, hullámok (harmónikus rezgőmozgás)
- - Fourier-tétel: Bármely periodikus függvény előállítható véges sok szinuszos függvényből.
-    - hangtechnológia, hangfelvétel felbontása, háttérzaj elemzés -> Fourier-analízis
- - váltóáram
- - Schnellius-Descartes féle törési törvény
- - ferde hajítások
-
-Def: Az alfa szög koszinuszának nevezzük annak az egységnyi hosszúságú vektornak az első koordinátáját, mely az i bázisvektorral alfa szöget zár be.
-
-Def: Az alfa szög szinuszának nevezzük annak az egységnyi hosszú vektornak a második koordinátáját, amely az i bázisvektorral alfa szöget zár be.
-
--->
+   - háromszögek
+   - függvények
+  Fizikai alkalmazások:
+   - rezgések, hullámok (harmónikus rezgőmozgás)
+   - Fourier-tétel: Bármely periodikus függvény előállítható véges sok szinuszos függvényből.
+      - hangtechnológia, hangfelvétel felbontása, háttérzaj elemzés -> Fourier-analízis
+   - váltóáram
+   - Schnellius-Descartes féle törési törvény
+   - ferde hajítások
