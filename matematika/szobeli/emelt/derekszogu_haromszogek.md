@@ -56,7 +56,7 @@ i, és j x, y tengelyen egymással 90°-os szöget bezáró egységvektorok. v1,
 [latex] v_{1}^{2} + v_{2}^{^2} = v^2[/latex]
 [latex] \cos^2 \alpha + \sin^2 \alpha = 1[/latex]
 
-![egysegvektor](http://i.imgur.com/iHNfRvR.png)
+![egysegvektor](http://i.imgur.com/uhc9uwP.png)
 
 Def: Az alfa szög koszinuszának nevezzük annak az egységnyi hosszúságú vektornak az első koordinátáját, mely az i bázisvektorral alfa szöget zár be.
 
