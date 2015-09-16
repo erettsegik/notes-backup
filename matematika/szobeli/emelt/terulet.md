@@ -12,25 +12,23 @@ Szinte ősidők óta ismeri és használja az emberiség. Minden ókori kultúra
 
 *Tétel:* a paralelogramma területe: [latex inline]T=a*ma[/latex]
 
-*Tétel:* a háromszög területe: [latex inline]T=a*ma/2[/latex]
+*Tétel:* a háromszög területe: [latex inline]T=\frac{a*ma}{2}[/latex]
 
-*Tétel:* A trapéz területe az alapok számtani közepének és a trapéz magasságának a szorzata: [latex inline]T=a+c/2*m[/latex]
+*Tétel:* A trapéz területe az alapok számtani közepének és a trapéz magasságának a szorzata: [latex inline]T=\frac{a+c}{2*m}[/latex]
 
 *Tétel:* Minden sokszög véges számú háromszögre darabolható, így a sokszög területe egyenlő ezeknek a háromszögeknek a területösszegével
 
 *Háromszög területei:*
-[latex]T=(a*m_a)/2=(a*b*sin⁡γ)/2=r*s=(a*b*c)/4R=√(s*(s-a)*(s-b)*(s-c))[/latex]
+[latex] T = \frac{( a * m_a)}{2} = \frac{( a * b * \sin\gamma)}{2} = r * s = \frac{(a * b * c)}{4 * R} = \sqrt{(s*(s-a)*(s-b)*(s-c))}[/latex]
 ahol r a beírt kör sugara, R a körülírt kör sugara, s pedig a félkerület.
 
- - Heron-képlet bizonyítás!!!! BUMMMMM
-
-*Négyszög területe:* Az átlói  hossza és az átlók által bezárt szög szinuszának a szorzatának fele: [latex inline]T=(e*f*sinγ)/2[/latex]
+*Négyszög területe:* Az átlói  hossza és az átlók által bezárt szög szinuszának a szorzatának fele: [latex inline]T=(e * f * \sin \gamma)/2[/latex]
 
 *Tétel:* a deltoid területe az átlói szorzatának a fele
 
 *Tétel:* Szabályos sokszög területét úgy kapjuk, hogy középpontjukat összekötjük a csúcsokkal és így n db egyenlő szárú háromszögre bontjuk a sokszöget.
 
-*Tétel:* r sugarú kör területe: [latex inline]r2π[/latex]
+*Tétel:* r sugarú kör területe: [latex inline]r^2 * \pi[/latex]
 
 ### Határozott integrál:
 
@@ -38,12 +36,9 @@ A határozott integrál segítségével a függvénygörbe vonala és az x-tenge
 
 *Definíció:* Görbe alatti területnek nevezzük egy [a;b] intervallumon folytonos, korlátos, pozitív értékű f függvény görbéjének az intervallumhoz tartozó íve, az x=0, x=b egyenesek és az x tengely által határol területet.
 
- - kör területét itt elsütni
-   + integrálós bizonyítás BUMMMMM
+*Definíció:* Az [a;b] intervallumon korlátos, f függvény integrálható, ha csak egyetlen olyan szám található, amely az összes alsó és az összes felső közé esik. Ezt az egyetlen számot nevezzük a függvény [a;b] intervallumon vett határozott integráljának. Jelölés: [latex inline]\int_a^b f(x) dx[/latex]
 
-*Definíció:* Az [a;b] intervallumon korlátos, f függvény integrálható, ha csak egyetlen olyan szám található, amely az összes alsó és az összes felső közé esik. Ezt az egyetlen számot nevezzük a függvény [a;b] intervallumon vett határozott integráljának. Jelölés: [latex inline]∫_a^b▒f(x)dx[/latex]
-
-*Newton-Leibniz tétel:* Legyen f integrálható [a,b]-ben. Ha az F függvény folytonos [a,b]-ben, differenciálható (a,b)-ben és [latex inline]F’(x)=f(x)[/latex] minden x ϵ (a,b)-re, akkor [latex inline]∫_a^b▒〖f(x)dx=F(b)-F(a)〗[/latex].
+*Newton-Leibniz tétel:* Legyen f integrálható [a,b]-ben. Ha az F függvény folytonos [a,b]-ben, differenciálható (a,b)-ben és [latex inline] F'(x) = f(x) [/latex] minden x ϵ (a,b)-re, akkor [latex inline]\int_a^b f(x) dx = F(b) - F(a) [/latex].
 
 Alkalmazások:
 
