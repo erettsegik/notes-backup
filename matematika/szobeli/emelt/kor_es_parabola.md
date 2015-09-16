@@ -4,9 +4,9 @@ Kör is, parabola is kúpszelet.
 
 Kör: Adott ponttól adott távolságra lévő pontok halmaza
 
-Tétel: Az O(u;v) középpontú, r sugarú kör egyenlete [latex inline] (x-u)^2 + (y-v)^2 = r^2 [/latex]
+Tétel: Az O(u;v) középpontú, r sugarú kör egyenlete [latex inline] \(x-u)^2 + (y-v)^2 = r^2 [/latex]
 
-Bizonyítás: A P(x;y) pont csak akkor van a körön, ha [latex inline] d_cp = r = \sqrt{(x-u)^2 + (y-v)^2} [/latex] --> nem lehet negatív ezért ér négyzetre emelni. [latex inline] (x-u)^2 + (y-v)^2 = r^2 [/latex]
+Bizonyítás: A P(x;y) pont csak akkor van a körön, ha [latex inline] d_{cp} = r = \sqrt{(x-u)^2 + (y-v)^2} [/latex] --> nem lehet negatív ezért ér négyzetre emelni. [latex inline] \(x-u)^2 + (y-v)^2 = r^2 [/latex]
 
 A kör kétismeretlenes másodfokú egyenlet:
 
@@ -30,3 +30,35 @@ Parabola: Azon pontok halmaza a síkban amelyek egyenlő távolságra vannak egy
 - egyenes -> vezéregyenes, pont ->fokuszpont.
 
 Tétel: Az F(0; p/2) fókuszpontú y = -p/2 vezéregyenesű parabola egyenlete [latex inline] y = \frac{1}{2*p} * x^2[/latex]
+
+Különböző állású parabolák:
+
+[latex] y = \frac{1}{2*p} * (x - u)^2 + v [/latex]
+[kép]
+
+[latex] y = - \frac{1}{2*p} * (x - u)^2 + v  [/latex]
+[kép]
+
+[latex] x = \frac{1}{2*p} * (y-v)^2 + u [/latex]
+[kép]
+
+[latex] x = - \frac{1}{2*p} * (y-v)^2 + u [/latex]
+[kép]
+
+Parabola és egyenes:
+
+Érintő: olyan egyenes amely nem párhuzamos a parabola tengelyével és egy közös pontja van a parabolával.
+
+[képek a parabola és egyenes lehetséges elhelyezkedéséről]
+
+- Másodfokú egyenletrendszer érintőhöz: D = 0 kell, és az érintő iránytangenses felírása: [latex inline] y = m*x + b [/latex]
+
+- A tengellyel párhuzamos parabola érintője deriválással is megkapható --> parabola egyenletének deriváltja: [latex inline] y' = m [/latex] P pontban akkor [latex inline] y = m*x + b [/latex] pontban is, és meg is van az érintő.
+
+Másodfokú egynelőtlenség:
+
+- mérlegelv, grafikus megoldás
+
+[latex inline] a*x^2 + b*x + c [/latex] --> 1 gyök/ 2 gyök/ nincs m.o.
+
+[képek a 3 különböző esetről grafikusan]

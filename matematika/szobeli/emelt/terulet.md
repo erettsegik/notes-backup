@@ -10,9 +10,9 @@ Szinte ősidők óta ismeri és használja az emberiség. Minden ókori kultúra
 
 *Tétel:* A téglalap területe a két szomszédos oldalának szorzatával egyenlő. [latex inline]T=a*b[/latex].
 
-*Tétel:* a paralelogramma területe: [latex inline]T=a*ma[/latex]
+*Tétel:* a paralelogramma területe: [latex inline]T=a*m_a[/latex]
 
-*Tétel:* a háromszög területe: [latex inline]T=\frac{a*ma}{2}[/latex]
+*Tétel:* a háromszög területe: [latex inline]T=\frac{a*m_a}{2}[/latex]
 
 *Tétel:* A trapéz területe az alapok számtani közepének és a trapéz magasságának a szorzata: [latex inline]T=\frac{a+c}{2*m}[/latex]
 
