@@ -26,6 +26,7 @@ demorgan_metszet.png         -> http://i.imgur.com/iRtcdCe.png
 demorgan_unio.png            -> http://i.imgur.com/PCTNS7L.png
 gyokfuggvenyek.png           -> http://i.imgur.com/ZqoHzkL.png
 hatvanyfuggvenyek.png        -> http://i.imgur.com/psZfvCe.png
+kor_egysegvektor.png         -> http://i.imgur.com/uhc9uwP.png
 kordiagram.png               -> http://i.imgur.com/DipQvpJ.png
 log_exp_fvek.png             -> http://i.imgur.com/sZpeWmV.png
 nevezetes_kozepek.png        -> http://i.imgur.com/3h5aj9e.png
