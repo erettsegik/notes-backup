@@ -17,6 +17,8 @@ Egy halmaz megadása történhet:
 
 *Komplementer halmaz*: Egy A halmaz komplementer halmazának az alaphalmaz azon elemeinek halmazát nevezzük, amelyek az A halmaznak nem elemei. Jele: [latex inline]\overline{A}[/latex].
 
+![Komplementer](http://i.imgur.com/6Zy6sqS.png)
+
 Egy halmazt akkor nevezünk egy másik *részhalmazának*, ha a halmaz összes eleme megtalálható a másikban is. Tehát ha A halmaznak részhalmaza B halmaz, akkor B halmaz minden eleme megtalálható A halmazban.
 
  - halmaz részhalmazainak száma [latex inline]2^n[/latex]. Ez teljes indukcióval bizonyítható.
@@ -32,7 +34,11 @@ A 0 elemű halmazt *üres halmaznak* nevezzük, jele: ø vagy {}
  - *kommutatív művelet:* A ⋃ B = B ⋃ A
  - *asszociatív művelet:* A ⋃ (B ⋃ C) = (A ⋃ B) ⋃ C = A ⋃ B ⋃ C
 
+![Unió](http://i.imgur.com/6Tgq2UN.png)
+
 *Metszet*: Két halmaz metszete mindazon elemek halmaza, amelyek mindkét halmaznak elemei. Jele ⋂.
+
+![Metszet](http://i.imgur.com/xUhQG8t.png)
 
 *Diszjunkt* halmaznak azt nevezzük, ha két halmaz metszete üres halmaz.
 
@@ -40,11 +46,13 @@ A 0 elemű halmazt *üres halmaznak* nevezzük, jele: ø vagy {}
 
 *Két halmaz különbsége*: Az A és B halmaz különbsége az A halmaz mindazon elemeinek halmaza, amelyek a B halmaznak nem elemei. Jele: A\B.
 
-![]()
+![Különbség](http://i.imgur.com/p4OhxFZ.png)
 
 *Szimmetrikus differencia*: Az A és B halmaz szimmetrikus differenciája azon elemek halmaza, amelyek A és B halmaz közül pontosan az egyiknek elemei. (Tehát minden olyan elem, ami eleme vagy az A halmaznak vagy a B-nek. – kizáró vagy)
 
  - A Δ C = (A\C) ⋃ (C\A)
+
+![Szimmetrikus differencia](http://i.imgur.com/ZSndnLQ.png)
 
 *Descartes-szorzat*: Két halmaz Descartes szorzata olyan rendezett elempárok halmaza, ahol az első elem az első halmazból, a második elem a második halmazból származik.
 

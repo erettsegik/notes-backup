@@ -1,11 +1,13 @@
-﻿[latex inline] a^n [/latex]: n tényezős szorzat melynek minden tényezője a.
+[latex inline] a^n [/latex]: n tényezős szorzat melynek minden tényezője a.
 
 [latex] a^n = a * a * a * ... * a \text{(n db)} [/latex]
 
 ##### A hatványkitevők lehetnek természetes számok:
- - 1, 2, 3, 4, 5, 6, ... , n
+
+ - 1, 2, 3, 4, 5, 6, ..., n
 
 ##### A hatványkitevők lehetnek negatív számok is ekkor úgy értelmezzük őket, hogy:
+
  - [latex inline] a^{-n} = \frac{1}{a^n} [/latex]
 
 ##### A hatványkitevő lehet nulla is, tehát [latex inline] a^n [/latex] esetén [latex inline] n \in[/latex] ℤ:
@@ -16,13 +18,13 @@
 
 *Definíció:* ahol a nem negatív valós szám az a nem negatív valós szám amelynek k-adik hatványa an.
 
-[latex] a^{\frac{x}{y}} = ^y\sqrt{a^x} [/latex]
+[latex] a^{\frac{x}{y}} = \sqrt[y]{a^x} [/latex]
 
 ##### A hatványkitevők növekedése egy függvényt formál [latex inline] f(x) = 2^x [/latex]:
 
 - sehol sem folytonos, de közelít hozzá
 
-####A lyukak kitöltése során kapjuk meg az irracionális hatványkitevőket a függvényen belül a permanencia elvnek köszönhetően.
+#### A lyukak kitöltése során kapjuk meg az irracionális hatványkitevőket a függvényen belül a permanencia elvnek köszönhetően.
 
 ### Hatványozás azonosságai:
 
@@ -36,7 +38,10 @@
 
 ### Másodfokú függvény képe a parabola:
 
+![](http://i.imgur.com/zhjtiQ1.png)
+
 #### Jellemzése:
+
 1. É.T.:valós számok, ℝ
 2. É.K.:valós számok, ℝ
 3. Zérus hely: [latex inline] x = 0 [/latex]
@@ -69,7 +74,10 @@
 
 ### Gyök x függvény
 
+![](http://i.imgur.com/oSXVYU1.png)
+
 #### jellemzése:
+
 1. É.T.:valós számok, ℝ[latex inline]^+[/latex]
 2. É.K.:valós számok, ℝ[latex inline]^+[/latex]
 3. Zérus hely: [latex inline] x = 0 [/latex]
@@ -88,6 +96,7 @@
 ### Alkalmazások:
 
 *Matematikában*
+
 - hatványok a kamatos kamatban
 - binomiális eloszlásban
 - mértani közép, négyzetes közép
@@ -95,6 +104,7 @@
 - heron-képlet, a megoldóképletek(négyzetgyök, köbgyök – Cardano képlet)
 
 *Fizikában:*
+
 - négyzetes úttörvény
 - kepler 3. törvénye
 - Stefan-Boltzman törvény - fekete test hőkibocsátása az energia 4. hatványa

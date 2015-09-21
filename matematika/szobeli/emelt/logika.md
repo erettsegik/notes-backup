@@ -53,10 +53,12 @@ Ekvivalencia:
 *de Morgan féle azonosságok*:
 
  - A *halmazelméletben* a következők:
+
    ![DeMorgan azonosságok](http://i.imgur.com/iRtcdCe.png)
    ![DeMorgan azonosságok](http://i.imgur.com/PCTNS7L.png)
  - *Logikában* pedig:
 
+   ![DeMorgan](http://i.imgur.com/RM0Lr5M.png)
  - Arisztotelészi logika (3-as elv)
    + minden dolog azonos önmagával
    + semmi sem azonos önmaga ellentétjével

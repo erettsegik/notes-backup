@@ -1,16 +1,21 @@
 Log tételek átnézéséről
 
+minden tételben arra kéne törekedni, hogy a címben szereplő dolgok h2-ket alakítsanak, egyrészt nekünk is könnyebb ellenőrizni, hogy minden megvan-e, meg amúgy is könnyebb úgy megtalálnia az embernek, amit keres
+
 halmazok.md
-- halmazműveleteket bemutató képek hiányoznak
-- az alkalmazások nem felelnek meg az idei tételnek(logika nem a tétel része)
+ - az alkalmazások nem felelnek meg az idei tételnek (logika nem a tétel része)
+
+valos_szamok.md
+ - az egész tétel elég össze-vissza, mind formázás, mind tartalom szempontjából
+   + szétesett latex, néhol unicode számhalmaz jelek, néhol sima betű
 
 logika.md
-- első mondat "matematikai logika elemei?" ki kéne egészítenünk valami oda illővel
+ - első mondat "matematikai logika elemei?" ki kéne egészítenünk valami oda illővel
 
 hatvanyozas.md
-- jó lenne a másodfokú függvény képéről egy kép, a gyök x-re ugyanez igaz
- + elv van csak szerintem a pc-men van a docsikban szereplő kép, nem tudom hogy a docsikból kinyerhető e
- azt kéne csinálni amit a logaritmusos tételben a képpel, azt nem tudom hogy csináltuk anno.
+ - a jegyzetben és a docban levő képletek mintha nem ugyanazok lennének??
+
+---
 
 egybevagosag.md
 - vagy belerakni a bizonyításokat vagy kitörölni, hogy kellenének oda
@@ -29,5 +34,3 @@ kor_es_parabola.md
 terelemek.md
 - a nevezetes ponthalmazok nem ide vannak, és nem is illenek ide, ide valami területképletes cucc kéne meg integrálás.
 -> lényeg ki kell bővíteni. bár nem tudom mivel mert az utána jövő tétel taglalja a területszámítást és az integrálást is
-
-Ennyi egyenlőre.
