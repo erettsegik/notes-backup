@@ -30,7 +30,7 @@
 
 [latex] a^n * b^n = (a * b)^n;[/latex]
 
-[latex](a^n)^m = a^{n * m};[/latex]
+[latex] \(a^n)^m = a^{n * m};[/latex]
 
 [latex]\frac{a^n}{a^m} = a^{n-m} , a \neq 0;[/latex]
 

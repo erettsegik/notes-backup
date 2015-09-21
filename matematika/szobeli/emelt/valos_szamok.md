@@ -89,7 +89,7 @@ a komplex számokat koordináta rendszerben ábrázoljuk, nem számegyenesen.
 
 0-val való osztás esetére a komplex számok bővíthetőek [latex inline]+\infty, -\infty[/latex] - re
 
-N <= Z <= Q <= R <= C
+[latex]N \leq Z\leq Q \leq R \leq C [/latex]
 
 ## Halmazok számossága:
 

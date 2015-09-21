@@ -12,7 +12,7 @@ Ha [latex inline]|\lambda| > 1[/latex], akkor középpontos nagyításról, ha [
 Két háromszög akkor és csak akkor hasonló, ha:
 
 1. a megfelelő oldalaik hosszának aránya páronként egyenlő, azaz [latex inline] \frac{a}{a'} = \frac{b}{b'} = \frac{c}{c'} = \lambda [/latex]
-2. két-két oldalhosszuk aránya és az ezek által közbezárt szögek nagysága egyenlő, azaz [latexinline] \frac{a}{a'} = \frac{b}{b'} = \lambda [/latex], és [latex inline] \gamma = \gamma' [/latex]
+2. két-két oldalhosszuk aránya és az ezek által közbezárt szögek nagysága egyenlő, azaz [latex inline] \frac{a}{a'} = \frac{b}{b'} = \lambda [/latex], és [latex inline] \gamma = \gamma' [/latex]
 3. két-két oldalhosszuk aránya egyenlő, és e két-két oldal közül a hosszabbikkal szemközti szögük nagysága egyenlő
 4. két-két szögük páronként egyenlő
 

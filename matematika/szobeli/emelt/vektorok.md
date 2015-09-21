@@ -16,22 +16,22 @@
 *Vektorok összege* annak az eltolásnak a vektora, amellyel helyettesíthető az a vektorral és a b vektorral történő egymásutánja
 
 *Vektorösszeadás tulajdonságai:*
- - kommutatív: a + b = b + a
- - asszociatív: (a + b) + c = a + (b + c)
+ - kommutatív: [latex inline] a + b = b + a [/latex]
+ - asszociatív: [latex inline] \(a + b) + c = a + (b + c) [/latex]
 
 *Különbségvektor* az a vektor, amelyhez a b vektort adva az a vektort kapjuk
 
-*Definíció:* egy nullvektortól különböző a vektor tetszőleges \lambda valós számmal (skalárral) vett szorzata egy olyan vektor, amelynek abszolút értéke |\lambda| * |a| és \lambda > 0 esetén a-val egyirányú, \lambda < 0 esetén a-val ellentétes irányú
+*Definíció:* egy nullvektortól különböző a vektor tetszőleges [latex inline] \lambda [/latex] valós számmal (skalárral) vett szorzata egy olyan vektor, amelynek abszolút értéke [latex inline] |\lambda| * |a| [/latex] és [latex inline] \lambda > 0 [/latex] esetén a-val egyirányú, [latex inline] \lambda < 0 [/latex] esetén a-val ellentétes irányú
 
 *Skalárral vett szorzat:*
- - disztributív: \alfa * a + \beta * a = (\alfa + \beta) * a
- - asszociatív: \alfa * (\beta * a) = (\alfa * \beta) * a
+ - disztributív: [latex inline] \alfa * a + \beta * a = ( \alfa + \beta ) * a [/latex]
+ - asszociatív: [latex inline] \alfa * ( \beta * a) = ( \alfa * \beta ) * a [/latex]
 
 *Két vektor skaláris szorzata:* az a szám, ami a két vektor nagyságának és a közbezárt szögük koszinuszának a szorzatával egyezik meg
 
  - disztributív
  - nem asszociatív
- - kommutatív a-> * b-> = b-> * a->
+ - kommutatív [latex inline] \overline{a} * \overline{b} = \overline{b} * \overline{a} [/latex]
 
 *Vektoriális szorzás:* két vektor szorzatán értjük azt a vektort, amelynek nagysága a két vektor hosszának és az általuk bezárt szög szinuszának a szorzata
 
@@ -47,7 +47,7 @@
  - ha egy síkban két nem párhuzamos vektort rögzítünk, akkor a sík bármely vektora előállítható ezek lineáris kombinációjaként
    - több dimenzióban is működik, 3-ban 3-mal, n-ben n-nel
 
-*Lineáris kombináció:* tetszőleges a, b vektorokkal és \alfa, \beta valós számokkal képzell v = \alfa * a + \beta * b vektort az a és b vektorok lináris kombinációjának nevezzük
+*Lineáris kombináció:* tetszőleges a, b vektorokkal és [latex inline] \alfa [/latex], [latex inline] \beta [/latex] valós számokkal képzell [latex inline] v = \alfa * a + \beta * b [/latex] vektort az a és b vektorok lináris kombinációjának nevezzük
 
 a lináris kombinációban szereplő a és b vektorokat bázisvektoroknak nevezzük
 
@@ -55,9 +55,9 @@ a lináris kombinációban szereplő a és b vektorokat bázisvektoroknak nevezz
 
 a síkbeli derékszögű koordináta-rendszerben a bázisvektorok az origóból kiinduló egymásra merőleges egységvektorok, melyek az origótól kifelé mutatnak
 
-*Definíció:* a derékszögű koordináta-rendszerben egy vektor koordinátáinak nevezzük az origó kezdőpontú, vele egyenlő helyvektor végpontjának koordinátáit a->(a_1, a_2)
+*Definíció:* a derékszögű koordináta-rendszerben egy vektor koordinátáinak nevezzük az origó kezdőpontú, vele egyenlő helyvektor végpontjának koordinátáit a(a_1, a_2)
 
-*Tétel:* vektor koordinátáinak kiszámítása kezdő- és végpontjának segítségével: a->(a_1, a_2), a->(b_1, b_2) -> ab->(b_1-a_1, b_2-a_2)
+*Tétel:* vektor koordinátáinak kiszámítása kezdő- és végpontjának segítségével: A(a_1, a_2), B(b_1, b_2) -> AB(b_1-a_1, b_2-a_2)
 
 *Alkalmazások:*
 

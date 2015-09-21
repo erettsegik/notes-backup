@@ -8,7 +8,7 @@
 
 *Tétel:* A paralelogramma akkor és csak akkor húrnégyszög, ha téglalap.
 
-*Tétel:* A húrnégyszögek területe kifejezhető a négyszög kerületével és az oldalakkal: Ha s=k/2, akkor t= √((s-a)(s-b)(s-c)(s-d)). Ez a Heron-képlet húrnégyszögekre.
+*Tétel:* A húrnégyszögek területe kifejezhető a négyszög kerületével és az oldalakkal: Ha  [latex inline] s = \frac{k}{2} [/latex], akkor [latex inline] T = \sqrt{(s-a)(s-b)(s-c)(s-d)}[/latex]. Ez a Heron-képlet húrnégyszögekre.
 
 ### Érintőnégyszög:
 
@@ -20,7 +20,7 @@
 
 *Tétel:* A paralelogramma akkor és csak akkor érintőnégyszög, ha rombusz.
 
-*Tétel:* Érintőnégyszög területe kifejezhető a négyszög kerületével, és a beírt kör sugarával: T=s*r.
+*Tétel:* Érintőnégyszög területe kifejezhető a négyszög kerületével, és a beírt kör sugarával: [latex inline] T = s * r [/latex].
 
 A *bicentrikus négyszögek* azok amik egyszerre húrnégyszögek és érintőnégyszögek is.
 

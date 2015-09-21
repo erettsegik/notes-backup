@@ -11,7 +11,7 @@ Logaritmikus azonosságok:
 
 ![Exponenciális és logaritmusfüggvény](http://i.imgur.com/sZpeWmV.png)
 
-Logaritmusos függvény jellemzése:
+#### Logaritmusos függvény jellemzése:
 1. Értelmezési tartomány: ℝ[latex inline]^+[/latex], x ≠ 0
 2. Értékkészlet: ℝ
 3. Zérushely: x = 1
@@ -25,7 +25,7 @@ Logaritmusos függvény jellemzése:
 11. Folytonosság: folytonos
 12. Aszimptota: y tengely
 
-Exponenciális függvény jellemzése:
+#### Exponenciális függvény jellemzése:
 1. Értelmezési tartomány.: ℝ
 2. Értékkészlet: ℝ[latex inline]^+[/latex]
 3. Zérushely: nincs

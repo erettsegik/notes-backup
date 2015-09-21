@@ -18,10 +18,10 @@ Számsorozatokkal már az ókori görögök is foglalkoztak. Ismerték a számta
 
 #### Sorozatok közti műveletek:
 
-- [latex inline] <a_n> \pm <b_n> = <a_n+b_n> [/latex]
-- [latex inline] c \in [/latex] ℝ , [latex inline] c * <a_n> = <c * a_n> [/latex]
-- [latex inline] <a_n> * <b_n>=<a_n * b_n>
-- [latex inline] b_n \neq 0 , \frac{<a_n>}{<b_n>} = < \frac{a_n}{b_n} > [/latex]
+- [latex inline] < a_n > \pm < b_n > = < a_n+b_n > [/latex]
+- [latex inline] c \in [/latex] ℝ , [latex inline] c * < a_n > = < c * a_n > [/latex]
+- [latex inline] < a_n > * < b_n > = < a_n * b_n >
+- [latex inline] b_n \neq 0 , \frac{< a_n >}{< b_n >} = < \frac{a_n}{b_n} > [/latex]
 
 ### Nevezetes számsorozatok:
 
@@ -57,7 +57,7 @@ Fibonacci a nyuszik szaporodásának problémájától jutott el a sorozatig.
 
  - A fenti tételek egyikét érdemes ebből az anyagrészbő bizonyítani
 
-itt érdemes megemlíteni a következő rekurzív sorozatot: [latex inline] (1 + \frac{1}{n})^n [/latex] aminek a határértéke egy irracionális szám az e.
+itt érdemes megemlíteni a következő rekurzív sorozatot: [latex inline] \(1 + \frac{1}{n})^n [/latex] aminek a határértéke egy irracionális szám az e.
 [latex] \lim_{x \to \infty}(1 + \frac{1}{n})^n = e[/latex]
 
  - a sorozat tul.: szigorúan monoton növekvő, és felülről korlátos
