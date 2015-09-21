@@ -24,8 +24,8 @@
 *Definíció:* egy nullvektortól különböző a vektor tetszőleges [latex inline] \lambda [/latex] valós számmal (skalárral) vett szorzata egy olyan vektor, amelynek abszolút értéke [latex inline] |\lambda| * |a| [/latex] és [latex inline] \lambda > 0 [/latex] esetén a-val egyirányú, [latex inline] \lambda < 0 [/latex] esetén a-val ellentétes irányú
 
 *Skalárral vett szorzat:*
- - disztributív: [latex inline] \alfa * a + \beta * a = ( \alfa + \beta ) * a [/latex]
- - asszociatív: [latex inline] \alfa * ( \beta * a) = ( \alfa * \beta ) * a [/latex]
+ - disztributív: [latex inline] \alpha * a + \beta * a = ( \alpha + \beta ) * a [/latex]
+ - asszociatív: [latex inline] \alpha * ( \beta * a) = ( \alpha * \beta ) * a [/latex]
 
 *Két vektor skaláris szorzata:* az a szám, ami a két vektor nagyságának és a közbezárt szögük koszinuszának a szorzatával egyezik meg
 
@@ -47,7 +47,7 @@
  - ha egy síkban két nem párhuzamos vektort rögzítünk, akkor a sík bármely vektora előállítható ezek lineáris kombinációjaként
    - több dimenzióban is működik, 3-ban 3-mal, n-ben n-nel
 
-*Lineáris kombináció:* tetszőleges a, b vektorokkal és [latex inline] \alfa [/latex], [latex inline] \beta [/latex] valós számokkal képzell [latex inline] v = \alfa * a + \beta * b [/latex] vektort az a és b vektorok lináris kombinációjának nevezzük
+*Lineáris kombináció:* tetszőleges a, b vektorokkal és [latex inline] \alpha [/latex], [latex inline] \beta [/latex] valós számokkal képzell [latex inline] v = \alpha * a + \beta * b [/latex] vektort az a és b vektorok lináris kombinációjának nevezzük
 
 a lináris kombinációban szereplő a és b vektorokat bázisvektoroknak nevezzük
 
@@ -82,7 +82,7 @@ Vektorműveletek koordinátákkal:
    - +90° a->(a_1, a_2) -> a->'(-a_2, a_1)
    - -90° a->(a_1, a_2) -> a->''(a_2, -a_1)
 
-Tetszőleges két vektor skalárszorzata: a-> * b-> = |a->| * |b->| * cos \alfa
+Tetszőleges két vektor skalárszorzata: a-> * b-> = |a->| * |b->| * cos \alpha
 
 ![Skaláris szorzat](skalaris-szorzat.png)
 

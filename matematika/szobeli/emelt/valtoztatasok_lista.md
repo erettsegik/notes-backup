@@ -18,4 +18,16 @@ egybevagosag.md
 vektorok.md
 - skaláros szorzat.png az mi? valaki fix
 - vektorműveletek koordinátákkal rész fixálása.
-- valami nagyon el van baszva a latexxel...
+
+szakaszok.md
+- rossz a latex
+- képek is kellenének már ide, vannak a tételemben de nem túl informatívak.
+
+kor_es_parabola.md
+- latex rendben, képek kellenének
+
+terelemek.md
+- a nevezetes ponthalmazok nem ide vannak, és nem is illenek ide, ide valami területképletes cucc kéne meg integrálás.
+-> lényeg ki kell bővíteni. bár nem tudom mivel mert az utána jövő tétel taglalja a területszámítást és az integrálást is
+
+Ennyi egyenlőre.
