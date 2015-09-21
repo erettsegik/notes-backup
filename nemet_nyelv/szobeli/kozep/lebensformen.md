@@ -1,4 +1,4 @@
-Ich habe dieses Bild gewählt, weil ich finde, dass Familie sehr wichtig ist, und ich bin davon überzeugt, dass „normale“ Familie  für alle unterschiedlich ist. Wenn man viele Geschwister hat, muss man sich daran gewöhnen, dass man nie allein ist oder man alles teilen muss. Wenn man keine Geschwister hat, muss man alles allein erledigen. Aber diese Dinge werden mit der Zeit normal, weil man von Kindheit an so lebt.
+Ich habe dieses Bild gewählt, weil ich finde, dass Familie sehr wichtig ist, und ich bin davon überzeugt, dass „normale“ Familie für alle unterschiedlich ist. Wenn man viele Geschwister hat, muss man sich daran gewöhnen, dass man nie allein ist oder man alles teilen muss. Wenn man keine Geschwister hat, muss man alles allein erledigen. Aber diese Dinge werden mit der Zeit normal, weil man von Kindheit an so lebt.
 
 Außerdem kann eine Familie in vieler Hinsicht ideal sein; nicht nur eine reiche Familie kann glücklich leben, sondern auch eine arme Familie. Obwohl sich viele verheiratete Paare trennen, können die Kinder noch gut leben, wenn die Eltern auf sie achten. In einer Patchworkfamilie können die Kinder auch gut erzogen werden.
 
