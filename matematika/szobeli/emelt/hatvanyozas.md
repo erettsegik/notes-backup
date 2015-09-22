@@ -68,7 +68,7 @@
 
 [latex]\frac{\sqrt{a}}{\sqrt{b}} = \sqrt{\frac{a}{b}}[/latex]
 
-[latex]a * \sqrt{x} = \sqrt{a^2 * x}[/latex]
+[latex]a * \sqrt{a}^k = \sqrt{a^k}[/latex]
 
 [latex]\sqrt{a}^2 = a[/latex]
 
