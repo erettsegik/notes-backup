@@ -14,17 +14,13 @@
 ### Algebrai egyenletek megoldási módszerei:
 
 1. *Grafikus megoldás:*
-
    Az egyenlet, egyenlőtlenség mindkét oldalát egy-egy függvényként ábrázoljuk közös koordináta rendszerben. Az egyenlet megoldása a két grafikon metszéspontjainak x koordinátája.
 2. Közelítő értékkel számolás
 3. *Mérlegelv / algebrai megoldás:*
-
    Egy egyenlet megoldáshalmaza nem változik, ha az egyenlet mindkét oldalához ugyanazt a számot hozzáadjuk, vagy ugyanazzal a 0-tól különböző számmal megszorozzuk. (kölcsönösen ekvivalens változtatásokat hajtunk végre)
 4. *Értelmezési tartomány vizsgálatával:*
-
    Megnézzük, hogy az egyenlet két oldalának mi az értelmezési tartománya, és ha nincs közös halmazuk, akkor az egyenletnek sincs megoldása. Pl.: [latex inline] \sqrt{x + 5} = \sqrt{x - 5}
 5. *Értékkészlet vizsgálattal:*
-
    Megnézzük, hogy az egyenlet két oldalának mi az értékkészlete, és az alapján állapítjuk meg, hány gyöke és hol van az egyenletnek. Pl.: [latex inline] |x + 2| + |x - 4| + |x + 6| = 0 [/latex] ; [latex inline]2^x + 2^{-x} = \sin x [/latex]
 6. Új változó bevezetésével – Pl.: reciprokegyenleteknél
 7. Megoldóképlettel az egyenlet fokától függően
@@ -54,7 +50,7 @@
 5. n-ed fokú egyenletek:
    - [latex inline] P(x) = a_n*x^n + a_{n-1}*x^{n-1} + ... + a_2*x^2 + a_1*x + a_0 [/latex]
 
-*Bizonyított állítás(Gelois-Abel tétel):* 5-ödfokútól felfele nem létezik megoldóképlet
+*Bizonyított állítás (Gelois-Abel tétel):* 5-ödfokútól felfele nem létezik megoldóképlet
 
 A reciprokegyenleteket még meg lehet oldani a 9. fokig.
 

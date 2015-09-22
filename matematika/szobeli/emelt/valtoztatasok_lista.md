@@ -1,6 +1,6 @@
 Log tételek átnézéséről
 
-minden tételben arra kéne törekedni, hogy a címben szereplő dolgok h2-ket alakítsanak, egyrészt nekünk is könnyebb ellenőrizni, hogy minden megvan-e, meg amúgy is könnyebb úgy megtalálnia az embernek, amit keres
+több helyen is kiemelés van (al)cím helyett használva
 
 halmazok.md
  - az alkalmazások nem felelnek meg az idei tételnek (logika nem a tétel része)
@@ -15,7 +15,8 @@ logika.md
 hatvanyozas.md
  - a jegyzetben és a docban levő képletek mintha nem ugyanazok lennének??
 
----
+egyenletmegoldas.md
+ - nincs definiálva az ekvivalencia, a gyökvesztés vagy a hamis gyök, a másodfokúra visszavezetésről se nagyon találtam semmit
 
 egybevagosag.md
 - vagy belerakni a bizonyításokat vagy kitörölni, hogy kellenének oda
