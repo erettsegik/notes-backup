@@ -2,13 +2,13 @@ Számsorozatokkal már az ókori görögök is foglalkoztak. Ismerték a számta
 
 *Számsorozat definíció:* A számsorozat olyan függvény, amelynek értelmezési tartománya pozitív egész számok halmaza, értékkészlete pedig valamilyen számhalmaz.
 
-*Monotonitás:* Az [latex inline]{a_n}[/latex] sorozat szigorúan monoton növekvő(csökkenő), ha minden pozitív egész n-re teljesül, hogy [latex inline] a_n < a_{n+1} (a_n>a_{n+1}) [/latex]. Sima monotonitás esetén az egyenlőség is megengedett.
+*Monotonitás:* Az [latex inline]{a_n}[/latex] sorozat szigorúan monoton növekvő (csökkenő), ha minden pozitív egész n-re teljesül, hogy [latex inline] a_n < a_{n+1} (a_n>a_{n+1}) [/latex]. Sima monotonitás esetén az egyenlőség is megengedett.
 
  - Monoton sorozat határesete a konstans sorozat
 
-*Korlátosság:* Egy [latex inline]{a_n}[/latex] sorozatnak K felső(alsó) korlátja, ha  minden pozitív egész n-re teljesül. hogy [latex inline] a_n \leq K(k \leq a_n) [/latex] Ilyenkor a sorozat felülről(alúlról) korlátos. Egy sorozatot korlátosnak nevezünk, ha alulról és felülről is korlátos.
+*Korlátosság:* Egy [latex inline]{a_n}[/latex] sorozatnak K felső (alsó) korlátja, ha  minden pozitív egész n-re teljesül, hogy [latex inline] a_n \leq K(k \leq a_n) [/latex] Ilyenkor a sorozat felülről (alulról) korlátos. Egy sorozatot korlátosnak nevezünk, ha alulról és felülről is korlátos.
 
-*Konvergencia:* Az [latex inline]{a_n}[/latex] sorozat konvergens és határértéke az A szám, ha minden pozitív [latex inline]\epsilon[/latex] számhoz létezik olyan N pozitív egész, hogy a sorozat [latex inline]a_N[/latex] utáni tagjai mind az A szám [latex inline]\epsilon[/latex] sugarú környezetébe esnek, vagyis minden pozitív [latex inline]\epsilon[/latex] számhoz létezik olyan N pozitív egész, hogy minden n>N esetén [latex inline]|a_n - A| < \epsilon [/latex].Jelölése: [latex inline] \lim_{x \to \infty} a_n = A [/latex]
+*Konvergencia:* Az [latex inline]{a_n}[/latex] sorozat konvergens és határértéke az [latex inline]A[/latex] szám, ha minden pozitív [latex inline]\epsilon[/latex] számhoz létezik olyan [latex inline]N[/latex] pozitív egész, hogy a sorozat [latex inline]a_N[/latex] utáni tagjai mind az [latex inline]A[/latex] szám [latex inline]\epsilon[/latex] sugarú környezetébe esnek, vagyis minden pozitív [latex inline]\epsilon[/latex] számhoz létezik olyan [latex inline]N[/latex] pozitív egész, hogy minden [latex inline]n > N[/latex] esetén [latex inline]|a_n - A| < \epsilon [/latex]. Jelölése: [latex inline] \lim_{x \to \infty} a_n = A [/latex].
 
  - A nem konvergens sorozatokat *divergensnek* nevezzük.
 
@@ -35,7 +35,7 @@ Számsorozatokkal már az ókori görögök is foglalkoztak. Ismerték a számta
    + Az első n tag összegtételének bizonyítása itt jó választás lehet.
 
 - *Fibonacci sorozat:*
-   + Az első két elem a 0, 1 az összes további elem az előtte lévő kettő összege.
+   + Az első két elem 0 és 1, az összes további elem az előtte lévő kettő összege.
      Képletként:
      [latex] f(n) = 0 , \text{ha } n = 0[/latex]
      [latex] f(n) = 1 , \text{ha } n = 1[/latex]
@@ -64,7 +64,7 @@ itt érdemes megemlíteni a következő rekurzív sorozatot: [latex inline] \(1 
 
 ### Sorok:
 
-[latex inline] <a_n> [/latex]
+[latex inline] < a_n > [/latex]
 
 [latex inline] S_1= a_1 [/latex]
 
@@ -72,9 +72,9 @@ itt érdemes megemlíteni a következő rekurzív sorozatot: [latex inline] \(1 
 
 [latex inline] S_n = \sum_{i = 1}^n a_i [/latex]
 
-[latex inline] <S_n> [/latex] : sor a részletösszegek sorozata
+[latex inline] < S_n > [/latex] : sor a részletösszegek sorozata
 
- - ha [latex inline] <S_n> [/latex] sorozat konvergens akkor a határértékét a sor összegének nevezzük
+ - ha [latex inline] < S_n > [/latex] sorozat konvergens akkor a határértékét a sor összegének nevezzük
    [latex] \sum_{i = 1}^n a_i = \lim_{n \to \infty} S_n = S [/latex]
 
 *Mértani sor összege:* [latex inline] S = \frac{a_1}{q - 1} [/latex]
@@ -82,6 +82,7 @@ itt érdemes megemlíteni a következő rekurzív sorozatot: [latex inline] \(1 
 *Zenon:* Akhilleusz és a teknősbéka versenye, a köztük lévő távolság feleződik, ezért Akhilleusz nem nyerhet mivel előnyt adott a teknősnek, megoldás a sorok.
 
 #### Sorok közti műveletek:
+
 [latex] \sum(a_n \pm b_n) = \sum a_n \pm \sum b_n [/latex]
 [latex] \sum(a_n * b_n) = \sum a_n * \sum b_n [/latex]
 [latex] \sum\frac{a_n}{b_n} = \frac{\sum a_n}{\sum b_n} [/latex]

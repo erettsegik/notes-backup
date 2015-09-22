@@ -2,13 +2,15 @@ A *statisztika* adatok gyűjtésével, rendszerezésével és elemzésével fogl
 
 Társadalomtudományok alapmódszere.
 
-#### Feladatai:
+### Feladatai:
+
  - Becsléselmélet
  - Hipotézis-vizsgálat
  - Hibaszámítás
  - Korreláció-számítás
 
-#### Alkalmazások:
+### Alkalmazások:
+
  - Szélsőérték problémák esetén
  - Statisztikai feladatoknál
  - Napilapokban, hetilapokban
@@ -16,6 +18,7 @@ Társadalomtudományok alapmódszere.
  - Harmonikus közép: teljes útra vett átlagsebesség
 
 ## Statisztikai jellemzők:
+
  - *Adatsokaság* (számadatok, mint halmaz)
    + pl.: egy iskolai napló
  - *Terjedelem* (legnagyobb és a legkisebb elem különbsége)
@@ -35,34 +38,44 @@ Társadalomtudományok alapmódszere.
 
 ## Diagramok:
 
-#### Kördiagram
+### Kördiagram
+
 ![Kördiagram](http://i.imgur.com/DipQvpJ.png)
 
-#### Oszlopdiagram
+### Oszlopdiagram
+
 ![Oszlopdiagram](http://i.imgur.com/S0beK19.png)
 
-#### Vonaldiagram
+### Vonaldiagram
+
 ![Vonaldiagram](http://i.imgur.com/Rqy02EL.png)
 
-#### Sávdiagram
+### Sávdiagram
+
 ![Sávdiagram](http://i.imgur.com/b8pprv6.png)
 
-#### Pontdiagram
+### Pontdiagram
+
 ![Pontdiagram](http://i.imgur.com/00Vo3tf.png)
 
-#### Területdiagram
+### Területdiagram
+
 ![Területdiagram](http://i.imgur.com/AevzjmZ.png)
 
-#### Perecdiagram
+### Perecdiagram
+
 ![Perecdiagram](http://i.imgur.com/7yZgtDt.png)
 
-#### Buborékdiagram
+### Buborékdiagram
+
 ![Buborékdiagram](http://i.imgur.com/1XUG6W5.png)
 
-#### Sugárdiagram
+### Sugárdiagram
+
 ![Sugárdiagram](http://i.imgur.com/gdGL8Xt.png)
 
-#### A következőkre figyeljünk diagram készítése közben:
+### A következőkre figyeljünk diagram készítése közben:
+
  - ha egy diagram túl csicsás, nem látszik rajta a lényeg
  - ha a skálákat elcsúsztatják, könnyen félrevezetheti az embert  
 
@@ -81,7 +94,7 @@ Társadalomtudományok alapmódszere.
   [latex] Q = \sqrt{\frac{a_1^2 + a_2^2 + a_3^2 + ... + a_n^2}{n}} [/latex]
   [latex] Q_{a,b} = \sqrt{\frac{a^2 + b^2}{2}}
 
-*a ≤ H ≤ G ≤ Q ≤ b* - Ezek csak akkor egyenlőek, ha *a = b* fennáll.
+*a ≤ H ≤ G ≤ Q ≤ b* (egyenlőek, ha *a = b* fennáll)
 
 ### Geometriai interpretáció
 
