@@ -37,6 +37,9 @@ hasonlosag.md
 derekszogu_haromszogek.md
  - hiányzik egy kép
 
+osszefuggesek_haromszogekben.md
+ - kell ide a csoportosítás?
+
 ---
 
 egybevagosag.md
