@@ -40,7 +40,7 @@
 
 *Vegyes szorzat:* három vektor vegyes szorzata megadja az általuk kifeszített paralelepipedon térfogatát. determinánssal számolható
 
-*Vektorok felbontása:*
+#### Vektorok felbontása:
 
  - ha két vektor párhuzamos, egy számmal (skalár) szorzással egyik a másikból felírható
  - ha két vektor nem párhuzamos, akkor független vektorok, egyik a másikból nem fejezhető ki
@@ -51,13 +51,32 @@
 
 a lináris kombinációban szereplő a és b vektorokat bázisvektoroknak nevezzük
 
-*Vektorok koordinátái*
+#### Vektorok koordinátái
 
 a síkbeli derékszögű koordináta-rendszerben a bázisvektorok az origóból kiinduló egymásra merőleges egységvektorok, melyek az origótól kifelé mutatnak
 
-*Definíció:* a derékszögű koordináta-rendszerben egy vektor koordinátáinak nevezzük az origó kezdőpontú, vele egyenlő helyvektor végpontjának koordinátáit a(a_1, a_2)
+*Definíció:* a derékszögű koordináta-rendszerben egy vektor koordinátáinak nevezzük az origó kezdőpontú, vele egyenlő helyvektor végpontjának koordinátáit [latex inline] \overline{a}(a_1, a_2) [/latex]
 
-*Tétel:* vektor koordinátáinak kiszámítása kezdő- és végpontjának segítségével: A(a_1, a_2), B(b_1, b_2) -> AB(b_1-a_1, b_2-a_2)
+*Tétel:* vektor koordinátáinak kiszámítása kezdő- és végpontjának segítségével: [latex inline] A(a_1, a_2), B(b_1, b_2) -> AB(b_1-a_1, b_2-a_2) [/latex]
+
+#### Vektorműveletek koordinátákkal:
+
+ - összeg: [latex inline] \overline{a} + \overline{b} =  (a_1 + b_1, a_2 + b_2) [/latex]
+ - különbség: [latex inline] \overline{a} - \overline{b} = (a_1 - b_1, a_2 - b_2) [/latex]
+ - számszoros: [latex inline] \lambda * \overline{a} (\lambda * a_1, \lambda * a_2) [/latex]
+ - 90°-os elforgatás
+   + +90° [latex inline] \overline{a}(a_1, a_2) -> \overline{a}'(-a_2, a_1) [/latex]
+   + -90° [latex inline] \overline{a}(a_1, a_2) -> \overline{a}"(a_2, -a_1) [/latex]
+
+Tetszőleges két vektor skalárszorzata: [latex inline] \overline{a} * \overline{b} = |\overline{a}| * |\overline{b}| * cos \alpha [/latex]
+
+![Skaláris szorzat](skalaris-szorzat.png)
+
+két vektor szorzata akkor és csak akkor 0, ha merőlegesek egymásra
+ - bizonyítás
+
+vektor -> 1 soros mátrix
+
 
 *Alkalmazások:*
 
@@ -72,21 +91,3 @@ Fizika:
  - munka -> skalárszorzat
  - vektoriális szorzat -> lorentz erő, forgatónyomaték
  - mátrixok mint adatkezelés
-
-Vektorműveletek koordinátákkal:
-
- - összeg: a-> + b-> (a_1 + b_1, a_2 + b_2)
- - különbség: a-> - b-> (a_1 - b_1, a_2 - b_2)
- - számszoros: \lambda * a-> (\lambda * a_1, \lambda * a_2)
- - 90°-os elforgatás
-   - +90° a->(a_1, a_2) -> a->'(-a_2, a_1)
-   - -90° a->(a_1, a_2) -> a->''(a_2, -a_1)
-
-Tetszőleges két vektor skalárszorzata: a-> * b-> = |a->| * |b->| * cos \alpha
-
-![Skaláris szorzat](skalaris-szorzat.png)
-
-két vektor szorzata akkor és csak akkor 0, ha merőlegesek egymásra
- - bizonyítás
-
-vektor -> 1 soros mátrix
