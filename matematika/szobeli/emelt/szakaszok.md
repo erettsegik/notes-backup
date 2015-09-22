@@ -19,9 +19,9 @@ Koordináta geometriában pontosan meghatározható a két pont közötti oszopo
 
 ### Egyenes egyenlete:
 
-Egyenes *normál vektor*-ának nevezzük a rá merőleges vektork bármelyikét. Jele: [latex inline] \underline{n} [/latex]
+Egyenes *normál vektor*-ának nevezzük a rá merőleges vektork bármelyikét. Jele: [latex inline] \overline{n} [/latex]
 
-Egyenes *irányvektor*-ának, nevezzük az egyenessel párhuzamos vektorok bármelyikét. Jele: [latex inline] \underline{n} [/latex]
+Egyenes *irányvektor*-ának, nevezzük az egyenessel párhuzamos vektorok bármelyikét. Jele: [latex inline] \overline{n} [/latex]
 
 A normál vektro használatával tudjuk felírni az egyenes normál vektoros egyenletét: [latex inline] A * x + B * y = A * x_0 + B * y_0 [/latex]
 
@@ -33,11 +33,11 @@ Egyenes iránytangenses alakja: y = mx + b
 
 ### Merőlegesség / Párhuzamosság:
 
-*Két egyenes párhuzamos* ha irány/normál vektroa fedésbe hozható a másikéval [latex inline] \underline{v_e} = \lambda * \underline{v_f} , \underline{n_e} =\lambda * \underline{n_f}  [/latex], vagy iránytangenseik megegyeznek
+*Két egyenes párhuzamos* ha irány/normál vektroa fedésbe hozható a másikéval [latex inline] \overline{v_e} = \lambda * \overline{v_f} , \overline{n_e} =\lambda * \overline{n_f}  [/latex], vagy iránytangenseik megegyeznek
 
-Két egyenes merőleges ha irány/normál vektoraik szorzata 0-val egyenlő: [latex inline] \underline{v_e} * \underline{v_f} = 0 , \underline{n_e} * \underline{n_f} = 0 [/latex], vagy iránytangenseik szorzata -1
+Két egyenes merőleges ha irány/normál vektoraik szorzata 0-val egyenlő: [latex inline] \overline{v_e} * \overline{v_f} = 0 , \overline{n_e} * \overline{n_f} = 0 [/latex], vagy iránytangenseik szorzata -1
 
-*Egyenes irányvektoros egyenlete:* ha [latex inline] P_0(x_0;y_0), \underline{v}(v_1;v_2) [/latex]
+*Egyenes irányvektoros egyenlete:* ha [latex inline] P_0(x_0;y_0), \overline{v}(v_1;v_2) [/latex]
 [latex] v_2 * x - v_1 * y = v_2 * x_0 - v_1 * y_0 [/latex]
 
 Két egyenes metszégpontját a két egyenes egyenletrendszeréből kaphatjuk meg.
