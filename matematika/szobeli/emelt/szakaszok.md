@@ -1,4 +1,4 @@
-### Koordináta sík:
+## Koordináta sík:
 
 A koordináta geometriában és a függvények elemzésénél általában Descartes féle koordináta rendszerben dolgozunk.
 A koordináta rendszer két tengelyből áll, melyek jelölésére többnyire az x, és az y betűk a szokványosak.
@@ -15,9 +15,9 @@ Koordináta geometriában pontosan meghatározható a két pont közötti oszopo
  - Harmadoló pont: [latex inline] H_{AB}(\frac{2*a_1 + 1*b_1}{2} ; \frac{2*a_2 + 1*b_2}{2}) [/latex]
  - A és B pont p:q arányú osztópontja: [latex inline] R_{AB}(\frac{q*a_1 + p*b_1}{p + q} ; \frac{q*a_2 + p*b_2}{p + q}) [/latex]
 
- spec. alkalmazások: súlypont, Euler-egyenes, Feuerbach kör
+spec. alkalmazások: súlypont, Euler-egyenes, Feuerbach kör
 
-### Egyenes egyenlete:
+## Egyenes egyenlete:
 
 Egyenes *normál vektor*-ának nevezzük a rá merőleges vektork bármelyikét. Jele: [latex inline] \overline{n} [/latex]
 
@@ -31,7 +31,7 @@ Egyenes iránytangense az irányszög tangense jele: m
 
 Egyenes iránytangenses alakja: y = mx + b
 
-### Merőlegesség / Párhuzamosság:
+## Merőlegesség / Párhuzamosság:
 
 *Két egyenes párhuzamos* ha irány/normál vektroa fedésbe hozható a másikéval [latex inline] \overline{v_e} = \lambda * \overline{v_f} , \overline{n_e} =\lambda * \overline{n_f}  [/latex], vagy iránytangenseik megegyeznek
 
@@ -47,7 +47,8 @@ Az első fokú lineáris függvények visszavezethetőek az egyenes egyenletére
 
  - Nem minden egyenes lehet függvény grafikonja mert az y tengellyel párhuzamos egyenesek egyike sem lehet függvény.
 
- #### Alkalmazások:
+### Alkalmazások:
+
   - Geometriai valószínűségszámítások
   - Lineáris programozás
   - Elemi geometriai problémák megoldása

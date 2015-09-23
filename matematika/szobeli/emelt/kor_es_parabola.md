@@ -4,9 +4,9 @@ Kör is, parabola is kúpszelet.
 
 Kör: Adott ponttól adott távolságra lévő pontok halmaza
 
-Tétel: Az O(u;v) középpontú, r sugarú kör egyenlete [latex inline] \(x-u)^2 + (y-v)^2 = r^2 [/latex]
+Tétel: Az [latex inline]O(u; v)[/latex] középpontú, r sugarú kör egyenlete [latex inline] \(x-u)^2 + (y-v)^2 = r^2 [/latex]
 
-Bizonyítás: A P(x;y) pont csak akkor van a körön, ha [latex inline] d_{cp} = r = \sqrt{(x-u)^2 + (y-v)^2} [/latex] --> nem lehet negatív ezért ér négyzetre emelni. [latex inline] \(x-u)^2 + (y-v)^2 = r^2 [/latex]
+Bizonyítás: A [latex inline]P(x; y)[/latex] pont csak akkor van a körön, ha [latex inline] d_{cp} = r = \sqrt{(x-u)^2 + (y-v)^2} [/latex] --> nem lehet negatív ezért ér négyzetre emelni. [latex inline] \(x-u)^2 + (y-v)^2 = r^2 [/latex]
 
 A kör kétismeretlenes másodfokú egyenlet:
 
@@ -18,9 +18,9 @@ nincs közös pont, érinti, metszi
 
 mehatározásuk egyenletrendszerből(másodfokúból) Az egyenlet diszkriminánsa határozza meg a közös pontok számát.
 
-- ha D > 0 az egyenletnek 2 db megoldása van, az egyenes metszi a kört
-- ha D = 0 az egyenletnek 1 db megoldása van, az egyenes érinti a kört
-- ha D < 0 az egyenletnek nincs megoldása, az egyenesnek nincs közös pontja a körrel.
+- ha [latex inline]D > 0[/latex] az egyenletnek 2 db megoldása van, az egyenes metszi a kört
+- ha [latex inline]D = 0[/latex] az egyenletnek 1 db megoldása van, az egyenes érinti a kört
+- ha [latex inline]D < 0[/latex] az egyenletnek nincs megoldása, az egyenesnek nincs közös pontja a körrel.
 
 Két kör közös pontjai:
 az egyenletrendszer eredményeként egy egyenes kapunk.

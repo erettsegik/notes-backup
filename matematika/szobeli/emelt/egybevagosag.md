@@ -1,6 +1,6 @@
 A 19. században Felix Klein meghirdette az Erlangeni programban a geometriai transzformációk segítségével való felépítését az elemi geometriának.
 
-### Transzformációk:
+## Transzformációk:
 
 *Definíció:* Geometriai transzformációk azok a függvények, amelyek egy ponthalmazt ponthalmazra képeznek le.
 
@@ -17,7 +17,7 @@ Síkbeli egybevágósági transzformációk: tengelyes tükrözés, pontra vonat
 
 *Tétel:* Bármely egybevágóság összetehető a 3 transzformáció összegéből.
 
-### Egybevágóság:
+## Egybevágóság:
 
 Két síkidom egybevágó, ha létezik olyan egybevágósági transzformáció, amellyel fedésbe lehet őket hozni.
 
@@ -29,40 +29,40 @@ Két síkidom egybevágó, ha létezik olyan egybevágósági transzformáció, 
  - *Két sokszög egybevágó ha:*
    + oldalaik páronként, egy szögei páronként megegyeznek (négyzet, rombusz)
 
-### Sokszögek tulajdonságai:
+## Sokszögek tulajdonságai:
 
 *Definíció:* Egy sokszög konvex, ha bármely két belső pontját összekötő szakasz minden pontja a sokszögön belül van.
 
-*Tétel:* Egy n oldalú konvex sokszög átlóinak a száma n*(n-3)/2
+*Tétel:* Egy n oldalú konvex sokszög átlóinak a száma [latex inline]\frac{n * (n - 3)}{2}[/latex].
 
 - Bizonyítás!
 
 *Tétel:* Egy n oldalú konvex sokszög külső szögeinek összege 360°.
 
 - Bizonyítás!
- 
-#### Szabályos sokszögek:
+
+### Szabályos sokszögek:
 
  - n oldalú szabályos sokszögnek n db szimmetriatengelye van. Ha n páros, akkor a tengelyek egyik fele a szemközti csúcsokra illeszkedik, másik fele a szemközti oldalak felezőmerőlegese. Ha n páratlan, akkor a tengelyek a csúcsokat az átellenes oldal felezőpontjával kötik össze
  - Szabályos sokszögek euklideszi módon szerkeszthetőek, ha n egy 2 hatvány és különböző Fermat-prímek szorzata
    + Gauss a szabályos 17 szöget kérte a sírkövére máig nem kapta meg
 
-### Szimmetria tulajdonságai:
+## Szimmetria tulajdonságai:
 
-#### Tengelyes tükrözés:
+### Tengelyes tükrözés:
 
 Definíció: Adott a sík egy t egyenese, ez a tengelyes tükrözés tengelye. A t tengelyre vonatkozó tengelyes tükrözés a sík tetszőleges t-re nem illeszkedő P pontjához azt a P’ pontot rendeli, amelyre fennáll, hogy PP’ szakasz felezőmerőlegese a t tengely. A t egyenes képe önmaga.
 - Definíció: Ha egy ponthalmazhoz található olyan t egyenes, amelyre vonatkozó tükörképe önmaga, akkor ez a ponthalmaz tengelyesen szimmetrikus alakzat, amelynek t a szimmetria tengelye
 - Pl.: Egyenlő szárú háromszög, szabályos háromszög, deltoid, húrtrapéz, rombusz, téglalap, négyzet, kör, parabola
 
-#### Középpontos tükrözés:
+### Középpontos tükrözés:
 
 *Definíció:* Adott a sík egy O pontja, a középpontos tükrözés középpontja. Az O pontra vonatkozó középpontos tükrözés a sík egy tetszőleges O-tól különböző P pontjához azt a P’ pontot rendeli, amelyre az O pont a PP’ szakasz felezőpontja. Az O pont képe önmaga.
 
  - Definíció: Ha egy ponthalmazhoz található olyan O pont, amelyre a vonatkozó képe önmaga, akkor ez a ponthalmaz középpontosan szimmetrikus alakzat, amelynek O a szimmetria középpontja.
  - Pl.: paralelogramma, rombusz, téglalap, négyzet, kör, ellipszis, hiperbola
 
-#### Alkalmazások:
+### Alkalmazások:
 
  - építészet, művészet → főleg iszlám építészetben, mivel minden más tiltva van
  - csempézés → Penrose féle csempézés

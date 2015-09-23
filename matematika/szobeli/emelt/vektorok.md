@@ -57,7 +57,7 @@ a síkbeli derékszögű koordináta-rendszerben a bázisvektorok az origóból 
 
 *Definíció:* a derékszögű koordináta-rendszerben egy vektor koordinátáinak nevezzük az origó kezdőpontú, vele egyenlő helyvektor végpontjának koordinátáit [latex inline] \overline{a}(a_1, a_2) [/latex]
 
-*Tétel:* vektor koordinátáinak kiszámítása kezdő- és végpontjának segítségével: [latex inline] A(a_1, a_2), B(b_1, b_2) -> AB(b_1-a_1, b_2-a_2) [/latex]
+*Tétel:* vektor koordinátáinak kiszámítása kezdő- és végpontjának segítségével: [latex inline] A(a_1, a_2), B(b_1, b_2) \to AB(b_1-a_1, b_2-a_2) [/latex]
 
 #### Vektorműveletek koordinátákkal:
 
@@ -65,17 +65,17 @@ a síkbeli derékszögű koordináta-rendszerben a bázisvektorok az origóból 
  - különbség: [latex inline] \overline{a} - \overline{b} = (a_1 - b_1, a_2 - b_2) [/latex]
  - számszoros: [latex inline] \lambda * \overline{a} (\lambda * a_1, \lambda * a_2) [/latex]
  - 90°-os elforgatás
-   + +90° [latex inline] \overline{a}(a_1, a_2) -> \overline{a}'(-a_2, a_1) [/latex]
-   + -90° [latex inline] \overline{a}(a_1, a_2) -> \overline{a}"(a_2, -a_1) [/latex]
+   + +90° [latex inline] \overline{a}(a_1, a_2) \to \overline{a}'(-a_2, a_1) [/latex]
+   + -90° [latex inline] \overline{a}(a_1, a_2) \to \overline{a}"(a_2, -a_1) [/latex]
 
 Tetszőleges két vektor skalárszorzata: [latex inline] \overline{a} * \overline{b} = |\overline{a}| * |\overline{b}| * cos \alpha [/latex]
 
-![Skaláris szorzat](skalaris-szorzat.png)
+![Skaláris szorzat](http://i.imgur.com/arjQFXL.png)
 
 két vektor szorzata akkor és csak akkor 0, ha merőlegesek egymásra
  - bizonyítás
 
-vektor -> 1 soros mátrix
+vektor → 1 soros mátrix
 
 
 *Alkalmazások:*
@@ -88,6 +88,6 @@ vektor -> 1 soros mátrix
 Fizika:
 
  - vektormennyiségek: v, a F, p, E, B
- - munka -> skalárszorzat
- - vektoriális szorzat -> lorentz erő, forgatónyomaték
+ - munka → skalárszorzat
+ - vektoriális szorzat → lorentz erő, forgatónyomaték
  - mátrixok mint adatkezelés

@@ -1,4 +1,4 @@
-### Húrnégyszög:
+## Húrnégyszög:
 
 *Definíció:* Azokat a négyszögeket, amelyeknek van köré írható körük, húrnégyszögeknek nevezzük. Ezzel ekvivalens: a húrnégyszög olyan négyszög, amelynek oldalai ugyanannak a körnek a húrjai.
 
@@ -10,7 +10,7 @@
 
 *Tétel:* A húrnégyszögek területe kifejezhető a négyszög kerületével és az oldalakkal: Ha  [latex inline] s = \frac{k}{2} [/latex], akkor [latex inline] T = \sqrt{(s-a)(s-b)(s-c)(s-d)}[/latex]. Ez a Heron-képlet húrnégyszögekre.
 
-### Érintőnégyszög:
+## Érintőnégyszög:
 
 *Definíció:* Azokat a négyszögeket, amelyeknek van beírt körük, érintőnégyszögeknek nevezzük. Ezzel ekvivalens: az érintő négyszög olyan négyszög, amelynek az oldalai ugyanannak a körnek érintői.
 
@@ -26,7 +26,7 @@ A *bicentrikus négyszögek* azok amik egyszerre húrnégyszögek és érintőn�
 
 *Brahmagupta négyszögek* azok amiknek az átlói merőlegesek egymásra.
 
-### Szimmetria:
+## Szimmetria:
 
 *Definíció:* Egy négyszög tengelyesen szimmetrikus, ha van olyan síkbeli tengelyes tükrözés, melynek az adott négyszög invariáns alakzata: E tükrözés tengelyét a négyszög szimmetriatengelyének nevezzük.
 

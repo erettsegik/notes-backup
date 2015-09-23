@@ -38,7 +38,7 @@
 *Tétel:* Egy külső pontból a körhöz húzott két érintő szakasz egyenlő hosszú.
 
 *Körhöz húzott érintő- és szelőszakaszok tétele:* Egy adott körhöz adott külső pontból húzott érintőszakasz hossza a mértani közepe az adott ponton át a körhöz húzott szelőszakaszoknak.
- 
+
 *Kerületi és középponti szögek:*
 
 - *Középponti szög:* az a szög, amelynek a csúcsa, egy kör középpontja és a szárai pedig a kör sugarai

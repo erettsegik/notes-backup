@@ -40,6 +40,7 @@ parabola.png                 -> http://i.imgur.com/zhjtiQ1.png
 perecdiagram.png             -> http://i.imgur.com/7yZgtDt.png
 pontdiagram.png              -> http://i.imgur.com/00Vo3tf.png
 savdiagram.png               -> http://i.imgur.com/b8pprv6.png
+skalaris-szorzat.png         -> http://i.imgur.com/arjQFXL.png
 sugardiagram.png             -> http://i.imgur.com/gdGL8Xt.png
 teruletdiagram.png           -> http://i.imgur.com/AevzjmZ.png
 vonaldiagram.png             -> http://i.imgur.com/Rqy02EL.png
