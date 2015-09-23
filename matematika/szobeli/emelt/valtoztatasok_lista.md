@@ -13,9 +13,6 @@ valos_szamok.md
 logika.md
  - első mondat "matematikai logika elemei?" ki kéne egészítenünk valami oda illővel
 
-hatvanyozas.md
- - a jegyzetben és a docban levő képletek mintha nem ugyanazok lennének??
-
 egyenletmegoldas.md
  - nincs definiálva az ekvivalencia, a gyökvesztés vagy a hamis gyök, a másodfokúra visszavezetésről se nagyon találtam semmit
 
