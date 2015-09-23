@@ -65,3 +65,7 @@ terelemek.md
  - cím helyett kiemelés
  - a nevezetes ponthalmazok nem ide vannak, és nem is illenek ide, ide valami területképletes cucc kéne meg integrálás.
  -> lényeg ki kell bővíteni. bár nem tudom mivel mert az utána jövő tétel taglalja a területszámítást és az integrálást is
+
+terulet.md
+ - lehetne benne több latex-e
+ - lehetne több cím
