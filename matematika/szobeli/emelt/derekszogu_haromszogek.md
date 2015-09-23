@@ -62,8 +62,6 @@ Def: Az alfa szög koszinuszának nevezzük annak az egységnyi hosszúságú ve
 
 Def: Az alfa szög szinuszának nevezzük annak az egységnyi hosszú vektornak a második koordinátáját, amely az i bázisvektorral alfa szöget zár be.
 
-[kép megint egységkör meg +- cuccosok]
-
 #### Alkalmazások:
 
  - ókori építészet
