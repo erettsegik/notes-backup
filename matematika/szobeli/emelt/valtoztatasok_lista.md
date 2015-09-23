@@ -31,9 +31,6 @@ hasonlosag.md
  - kiemelés helyett cím
  - a példatételek közül legalább valamelyiket kicsit lehetne részletezni
 
-derekszogu_haromszogek.md
- - hiányzik egy kép
-
 osszefuggesek_haromszogekben.md
  - kell ide a csoportosítás?
 

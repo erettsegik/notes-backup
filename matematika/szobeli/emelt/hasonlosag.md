@@ -25,9 +25,9 @@ bármely 2 kör hasonló egymáshoz
 
 *Példák lehetnek:*
 
- - szögfelező tétel
+ - szögfelező tétel: A háromszögben bármyely szögfelező a szemközti oldalt a szög melletti oldalak arányában osztja.
  - heron képlet bizonyítása
- - magasságtétel
+ - magasságtétel: Derékszögű háromszögben az átfogóhoz tartozó magasság hossza az általa osztott átfogó két részének a mártani közepe. [latex inline] m = \sqrt{p*q} [/latex]
  - befogótétel
  - Az előbbiek közül érdemes egyet bizonyítani ebben a tételben.
 
