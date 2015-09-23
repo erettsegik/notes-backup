@@ -1,6 +1,6 @@
 A valós számokat a természetes számoktól építjük fel.
 
-## Természetes számok
+### Természetes számok
 
 jele: ℕ
 
@@ -54,7 +54,7 @@ Tfh.: [latex inline]\sqrt{2}[/latex] eleme ℚ-nak
 
 [latex inline]\sqrt{2} * q = p[/latex]
 
-[latex inline]2*q^2 = p^2[/latex]  (NINCS 2 olyan négyzetszám, hogy az egyik 2x-ese a másiknak)
+[latex inline]2*q^2 = p^2 [/latex]  \(NINCS 2 olyan négyzetszám, hogy az egyik 2x-ese a másiknak)
 
   |                 |
 
@@ -72,7 +72,7 @@ NEM IGAZ → tehát  [latex inline]\sqrt{2}[/latex] eleme ℚ*-nak
 
 Nevezetes irracionális számok: [latex inline]e, \Pi, ... [/latex]
 
-A racionális számok és az irracionális számok halmazának úniója (ℚuℚ*=R) egyenlő a valós számok halmazával
+A racionális számok és az irracionális számok halmazának úniója (ℚ⋃ℚ*=ℝ) egyenlő a valós számok halmazával
 Bármely két racionális szám között van irracionális szám, és bármely két irracionális szám között is.
 minden alapműveletre működik kivéve a negatívból való gyökvonást.
 
@@ -89,7 +89,7 @@ a komplex számokat koordináta rendszerben ábrázoljuk, nem számegyenesen.
 
 0-val való osztás esetére a komplex számok bővíthetőek [latex inline]+\infty, -\infty[/latex] - re
 
-[latex]N \leq Z\leq Q \leq R \leq C [/latex]
+[latex]N \leq Z \leq Q \leq R \leq C [/latex]
 
 ## Halmazok számossága:
 
@@ -103,7 +103,7 @@ Két típusú végtelen lehet:
 
 *Kontinuum-sejtés*: Nem létezik olyan halmaz amelynek számossága az alef zéró és a kontinuum végtelen közé esik. Halmazelmélet ma létező legjobb axiómarendszere szerint a kontinuum sejtést sem bebizonyítani, sem megcáfolni nem lehet.
 
- - pl számhalmazok. (N, Z, R, C)
+ - pl számhalmazok. (ℕ, ℤ, ℝ, ℂ)
 
 ### Átvezető a számelméletre:
 

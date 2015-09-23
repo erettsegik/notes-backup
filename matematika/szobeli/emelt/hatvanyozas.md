@@ -34,6 +34,8 @@
 
 [latex] \(a^n)^m = a^{n * m};[/latex]
 
+[latex] \frac{a^n}{b^n} = (\frac{a}{b})^n [/latex]
+
 [latex]\frac{a^n}{a^m} = a^{n-m} , a \neq 0;[/latex]
 
 ### Másodfokú függvény képe a parabola:
@@ -68,9 +70,9 @@
 
 [latex]\frac{\sqrt{a}}{\sqrt{b}} = \sqrt{\frac{a}{b}}[/latex]
 
-[latex]a * \sqrt{a}^k = \sqrt{a^k}[/latex]
+[latex] \(\sqrt{a})^k = \sqrt{a^k}[/latex]
 
-[latex]\sqrt{a}^2 = a[/latex]
+[latex] \(\sqrt{a})^2 = a [/latex]
 
 ### Gyök x függvény
 
