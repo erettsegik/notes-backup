@@ -1,6 +1,5 @@
 Log tételek átnézéséről
 
- - több helyen is kiemelés van (al)cím helyett használva
  - az alkalmazások sok helyen nagyon címszavasak, igazából semmi nem derül ki belőlük (általában én se tudom kitalálni, hogy azon a területen mire is használhatnak mit a tételből :D)
 
 halmazok.md
@@ -8,10 +7,12 @@ halmazok.md
 
 valos_szamok.md
  - az egész tétel elég össze-vissza, mind formázás, mind tartalom szempontjából
-   + szétesett latex, néhol unicode számhalmaz jelek, néhol sima betű
 
 logika.md
  - első mondat "matematikai logika elemei?" ki kéne egészítenünk valami oda illővel
+
+hatvanyozas.md
+ - "*Definíció:* ahol a nem negatív valós szám az a nem negatív valós szám amelynek k-adik hatványa an" - ezt nem értem
 
 egyenletmegoldas.md
  - nincs definiálva az ekvivalencia, a gyökvesztés vagy a hamis gyök, a másodfokúra visszavezetésről se nagyon találtam semmit
@@ -22,13 +23,10 @@ szamsorozatok.md
 fuggvenyek.md
  - függvény definíciója fura
  - több helyen lehetne latex-et használni
- - kiemelés helyett cím
  - tulajdonságoknál a lokalitásról nincs nagyon szó, és amúgy is egy-két szó talán lehetne arról hogy egyes tulajdonságok miről is szólnak
  - differenciálszámításról sem tudunk meg sokat
- - az egész szélsőérték problémás, nevezetes közepes rész kell (cím)?
 
 hasonlosag.md
- - kiemelés helyett cím
  - a példatételek közül legalább valamelyiket kicsit lehetne részletezni
 
 osszefuggesek_haromszogekben.md

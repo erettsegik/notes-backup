@@ -1,11 +1,12 @@
 Ajánlott kezdőmondattal nyitni a tételt, Pl.:
+
  - Amit el fogok mondani Euklidesz elemek című munkája nagyrészt tartalmazza, de még sokan hozzájárultak. Pl.: Napoleon, Euler, Feuerbach.
 
 *Magasságvonal:* Egyik pontból a szemközti oldalra állított merőleges egyenes.
 
 *Tétel:* A háromszög három magasságvonala egy pontban metszi egymást, és ez a magasságpont.
 
-*Oldalfelező merőleges:* A háromszög egyik oldalának felező pontjába húzott merőleges egyenes.
+*Oldalfelező merőleges:* A háromszög egyik oldalának felezőpontjába húzott merőleges egyenes.
 
 *Tétel:* A háromszög három oldalfelező merőlegese egy pontban metszi egymást. Ez pedig a háromszög körülírható körének a középpontja.
 
@@ -21,28 +22,26 @@ Ajánlott kezdőmondattal nyitni a tételt, Pl.:
 
 *Tétel:* A háromszög három súlyvonala egy pontban metszi egymást. Ez pedig a súlypont
 
-- A súlyvonalak harmadolják egymást
-- A háromszög súlyvonala felezi a háromszög területét
+ - A súlyvonalak harmadolják egymást
+ - A háromszög súlyvonala felezi a háromszög területét
 
 *Középvonal:* A háromszög két oldalfelező pontját összekötő szakasz.
 
 *Tétel:* A háromszög középvonala párhuzamos a felezőpontokat nem tartalmazó oldallal, és fele olyan hosszú.
 
-*Euler-egyenes:*
-
-- *Tétel:* A háromszög magasságpontja súlypontja és a köré írható körének középpontja egy egyenesen vannak, és a súlypont mindig harmadolja az MK szakaszt (K-hoz van közelebb az S)
+*Euler-egyenes:* A háromszög magasságpontja súlypontja és a köré írható körének középpontja egy egyenesen vannak, és a súlypont mindig harmadolja az MK szakaszt (K-hoz van közelebb az S)
 
 *Szimedián-egyenes:* Ha a súlyvonalat a szögfelezőre tükrözzük, akkor kapjuk meg a háromszög szimedián-egyenesét.
 
-- *Tétel:* A háromszög három szimedián-egyenese egy pontban metszik egymást.
+ - *Tétel:* A háromszög három szimedián-egyenese egy pontban metszi egymást.
 
 *Feuerbach kör:* kilencponti kör
 
-- A háromszög három oldalfelező pontja, a magasságpontjainak talppontjai, a magasságpontot a csúcsokkal összekötő szakaszok felezőpontjai, mind egy körön helyezkedik el és ezt a kört nevezzük a Feuerbach körnek.
-- Középpontja az Euler-egyenesen van és felezi az MK szakaszt
+ - A háromszög három oldalfelező pontja, a magasságpontjainak talppontjai, a magasságpontot a csúcsokkal összekötő szakaszok felezőpontjai, mind egy körön helyezkedik el és ezt a kört nevezzük a Feuerbach körnek.
+ - Középpontja az Euler-egyenesen van és felezi az MK szakaszt
 
-*Alkalmazások:*
+## Alkalmazások
 
-- kiegyensúlyozás
-- formatervezés
-- kertépítészet
+ - kiegyensúlyozás
+ - formatervezés
+ - kertépítészet

@@ -1,33 +1,40 @@
 A tételt ajánlott egy nyitómondattal kezdeni, Pl.:
  - Már az ókor óta foglalkozik az emberiség derékszögű háromszögekkel talán régebb óta is. Először Euklidesz elemek című munkájában jelent meg írásosan.
 
-*A háromszögek lehetnek:*
+## A háromszögek típusai
 
-- Egy háromszög hegyesszögű, ha minden szöge hegyesszög
-- Egy háromszög derékszögű, ha van egy 90°-os szöge
-- Egy háromszög tompaszögű, ha vagy egy tompaszöge
-- Egy háromszög szabályos, ha három oldala egyenlő hosszú
-- Egy háromszög egyenlő szárú, ha van két egyenlő oldala
+ - Egy háromszög hegyesszögű, ha minden szöge hegyesszög
+ - Egy háromszög derékszögű, ha van egy 90°-os szöge
+ - Egy háromszög tompaszögű, ha vagy egy tompaszöge
+ - Egy háromszög szabályos, ha három oldala egyenlő hosszú
+ - Egy háromszög egyenlő szárú, ha van két egyenlő oldala
 
-*Pitagorasz tétel:* Ha egy háromszög derékszögű, akkor befogóinak négyzetösszege egyenlő az átfogó négyzetével.
+## Pitagorasz tétel
 
-- A cosinus tétel speciális esete
-- Egyiptomiak találták ki, Pitagorasztól a nevét azért kapta, mert ő talált ki hozzá egy új bizonyítást anno
-- Legkorábbi bizonyítását pedig a hinduk
-- Megfordítható a tétel → indirekten bizonyítható
-- Itt érdemes lehet elmondani pitagorasz tételének bizonyítását
+Ha egy háromszög derékszögű, akkor befogóinak négyzetösszege egyenlő az átfogó négyzetével.
 
-*Thalesz tétel:* Ha egy kör átmérőjének két végpontját összekötjük a kör bármely más pontjával, akkor derékszögű háromszöget kapunk
+ - A cosinus tétel speciális esete
+ - Egyiptomiak találták ki, Pitagorasztól a nevét azért kapta, mert ő talált ki hozzá egy új bizonyítást anno
+ - Legkorábbi bizonyítását pedig a hinduk
+ - Megfordítható a tétel → indirekten bizonyítható
+ - Itt érdemes lehet elmondani pitagorasz tételének bizonyítását
 
-- megfordítható
-- a kerületi és központi szögek egy speciális esetének a következménye
+## Thalesz tétel
 
-*Befogótétel:* Derékszögű háromszög befogójának hossza a mértani közepe az átfogó és a befogó átfogóra eső merőleges vetülete hosszának.
+Ha egy kör átmérőjének két végpontját összekötjük a kör bármely más pontjával, akkor derékszögű háromszöget kapunk
 
-*Magasságtétel:* Derékszögű háromszögben az átfogóhoz tartozó magasság hossza a mértani közepe azon két szakasz
-hosszának, amelyekre a magasság az átfogót osztja.
+ - megfordítható
+ - a kerületi és központi szögek egy speciális esetének a következménye
 
-#### Szögfüggvények derékszögű háromszögekre leszűkítve:
+## Befogótétel
+
+Derékszögű háromszög befogójának hossza a mértani közepe az átfogó és a befogó átfogóra eső merőleges vetülete hosszának.
+
+## Magasságtétel
+
+Derékszögű háromszögben az átfogóhoz tartozó magasság hossza a mértani közepe azon két szakasz hosszának, amelyekre a magasság az átfogót osztja.
+
+## Szögfüggvények derékszögű háromszögekre leszűkítve:
 
 A hegyesszögek szögfüggvényeit derékszögű háromszögekkel is bevezethetjük. Kihasználjuk, hogy a két derékszögű háromszög hasonló, ha valamely hegyesszög megegyezik. A hasonlóság következtében egy derékszögű háromszög oldalainak arányát a háromszög egyik hegyesszöge egyértelműen meghatározza. Erre a függvényszerű kapcsolatra vezetjük be a szögfüggvényeket.
 
@@ -42,11 +49,11 @@ A hegyesszögek szögfüggvényeit derékszögű háromszögekkel is bevezethetj
  - *Trigonometrikus pitagorasz tétel:*
    [latex] \sin^2\alpha + \cos^2\alpha = 1 [/latex]
 
-#### A szögfüggvények és általánosításuk:
+## A szögfüggvények és általánosításuk:
 
 A szögfügvények 300-400 éves múltra tekintenek vissza, bár a gyakorlatban régebb óta használják őket (pl. a Föld kerületének a megállapítása).
 
-##### Szögfüggvények:
+### Szögfüggvények:
 
 i, és j x, y tengelyen egymással 90°-os szöget bezáró egységvektorok. v1, és v2 a v egységvektor x és y komponense.
 
@@ -56,13 +63,13 @@ i, és j x, y tengelyen egymással 90°-os szöget bezáró egységvektorok. v1,
 [latex inline] v_{1}^{2} + v_{2}^{^2} = v^2[/latex]
 [latex inline] \cos^2 \alpha + \sin^2 \alpha = 1[/latex]
 
-![egysegvektor](http://i.imgur.com/uhc9uwP.png)
+![Egységvektor](http://i.imgur.com/uhc9uwP.png)
 
 Def: Az alfa szög koszinuszának nevezzük annak az egységnyi hosszúságú vektornak az első koordinátáját, mely az i bázisvektorral alfa szöget zár be.
 
 Def: Az alfa szög szinuszának nevezzük annak az egységnyi hosszú vektornak a második koordinátáját, amely az i bázisvektorral alfa szöget zár be.
 
-#### Alkalmazások:
+## Alkalmazások:
 
  - ókori építészet
  - Pitagoraszi számhármasok

@@ -1,4 +1,6 @@
-*Középpontos hasonlósági transzformáció:* adott egy O pont és egy [latex inline]\lambda[/latex] 0-tól különböző valós szám. A tér minden P pontjához rendeljünk hozzá egy P' pontot a következőképpen:
+## Középpontos hasonlósági transzformáció
+
+adott egy O pont és egy [latex inline]\lambda[/latex] 0-tól különböző valós szám. A tér minden P pontjához rendeljünk hozzá egy P' pontot a következőképpen:
 
 1. ha [latex inline]P = 0[/latex], akkor [latex inline]P' = P[/latex]
 2. ha [latex inline]P \neq O[/latex], akkor P' az OP egyenes azon pontja, amelyre [latex inline]OP' = |\lambda| * OP [/latex] és ha [latex inline]\lambda > 0[/latex], akkor P' az OP félegyenes pontja, ha [latex inline]\lambda < 0[/latex], akkor O elválasztja egymástól P-t és P'-t.
@@ -18,12 +20,13 @@ Két háromszög akkor és csak akkor hasonló, ha:
 
 *Tétel:* Két sokszög akkor és csak akkor hasonló, ha megfelelő oldalhosszaik aránya és megfelelő szögeik nagysága páronként egyenlő nagyságú.
 
-*Sokszögek hasonlósága:*
+## Sokszögek hasonlósága
+
 ha szögeik megegyeznek és oldalaik aránya páronként megegyezik
 
 bármely 2 kör hasonló egymáshoz
 
-*Példák lehetnek:*
+## Példák lehetnek
 
  - szögfelező tétel: A háromszögben bármyely szögfelező a szemközti oldalt a szög melletti oldalak arányában osztja.
  - heron képlet bizonyítása
@@ -41,7 +44,8 @@ Csongkakúp/Gúla térfogata
 
 Szögfüggvények értelmezése is hasonlóságon alapul
 
-*Alkalmazások:*
+## Alkalmazások
+
  - optikai eszközök képalkotása
  - lejtőn lévő testre ható erők felbontása
  - hajítások

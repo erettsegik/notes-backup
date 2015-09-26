@@ -1,33 +1,35 @@
 A valós számokat a természetes számoktól építjük fel.
 
-### Természetes számok
+## Természetes számok halmaza
 
 jele: ℕ
 
-#### definíció1:
+### Definíció 1
 
 A véges halmazok számosságát természetes számoknak nevezzük.
 
-#### definíció2:(*Peano-axiómák*)
+### Definíció 2 (Peano-axiómák)
 
 Az N halmazt a természetes számok halmazának nevezzük, ha teljesülnek rá:
+
 1. 1 eleme ℕ-nek
 2. n eleme ℕ-nek => n+ eleme ℕ-nek
 3. nem létezik n eleme ℕ-nek : n+ = 1
 4. bármely n,m eleme ℕ-nek : n+ = m+ => n=m
-5. ℕ' részhalmaza ℕ-nek és ℕ'-ban igaz az első 3 axióma, akkor ℕ' = ℕ
-(teljes indukció)
-- egyetlen TELJES axióma rendszer.
-neutrális elem(a nulla) nem tartozik hozzá a peano axiómák szerint, bár elfogadott bizonyos körökben az is, ha hozzávesszük.
+5. ℕ' részhalmaza ℕ-nek és ℕ'-ban igaz az első 3 axióma, akkor ℕ' = ℕ (teljes indukció)
 
-### Műveletek a természetes számok halmazán:
+- egyetlen TELJES axióma rendszer.
+
+neutrális elem (a nulla) nem tartozik hozzá a peano axiómák szerint, bár elfogadott bizonyos körökben az is, ha hozzávesszük.
+
+### Műveletek a természetes számok halmazán
 
 összeadás, szorzás (nincs inverzük)
 
-Ha veszünk két diszjunkt(nincs metszetük) halmazt akkor azok számosságának összege egyenlő a két halmaz úniójának számosságával.
+Ha veszünk két diszjunkt(nincs metszetük) halmazt akkor azok számosságának összege egyenlő a két halmaz uniójának számosságával.
 - ha  A ⋂ B = 0   |A⋃B| = |A| + |B|
 
-Ha veszünk két diszjunkt(nincs metszetük) halmazt akkor azok számosságának szorzata egyenlő a két halmaz descartes szorzatának számosságával. (descartes szorzat ld. halmazok)
+Ha veszünk két diszjunkt (nincs metszetük) halmazt akkor azok számosságának szorzata egyenlő a két halmaz descartes szorzatának számosságával. (descartes szorzat ld. halmazok)
 - ha  A ⋂ B = 0   |A×B| = |A| * |B|
 
 0 → az összeadásra nézve neutrális elem
@@ -36,17 +38,23 @@ Ha veszünk két diszjunkt(nincs metszetük) halmazt akkor azok számosságának
 
 Term. számok halmaza (ℕ) + 0 + negatív Term. számok (ℕ-) = az egész számok halmazával (ℤ)
 
+## Racionális számok halmaza
+
 A szorzás invertálhatósága érdekében jöttek létre a racionális számok. → osztás
 
 jele: ℚ
 
 mindig elvégezhető: összeadás, kivonás, szorzás, osztás, hatványozás
 
+## Irracionális számok halmaza
+
 A számok jelentős része nem írható fel két racionális szám hányadosaként, ezért tovább bővítjük a számok halmazát az irracionális számokra (ℚ*)
 
-*Tétel*: Léteznek irracionális számok.
+### Tétel
 
-*Bizonyítás:*
+Léteznek irracionális számok.
+
+### Bizonyítás
 
 Tfh.: [latex inline]\sqrt{2}[/latex] eleme ℚ-nak
 
@@ -72,13 +80,15 @@ NEM IGAZ → tehát  [latex inline]\sqrt{2}[/latex] eleme ℚ*-nak
 
 Nevezetes irracionális számok: [latex inline]e, \Pi, ... [/latex]
 
-A racionális számok és az irracionális számok halmazának úniója (ℚ⋃ℚ*=ℝ) egyenlő a valós számok halmazával
+## Valós számok halmaza
+
+A racionális számok és az irracionális számok halmazának uniója (ℚ⋃ℚ*=ℝ) egyenlő a valós számok halmazával
 Bármely két racionális szám között van irracionális szám, és bármely két irracionális szám között is.
 minden alapműveletre működik kivéve a negatívból való gyökvonást.
 
-## Komplex számok halmaza:
+## Komplex számok halmaza
 
-#### Komplex számok halmazán értjük:
+### Definíció
 
 ℂ { [latex inline]a+b*i[/latex] | a, b eleme R-nek, [latex inline]i=\sqrt{-1}[/latex] }
 
@@ -89,9 +99,9 @@ a komplex számokat koordináta rendszerben ábrázoljuk, nem számegyenesen.
 
 0-val való osztás esetére a komplex számok bővíthetőek [latex inline]+\infty, -\infty[/latex] - re
 
-[latex]N \leq Z \leq Q \leq R \leq C [/latex]
+[latex]N \subseteq Z \subseteq Q \subseteq R \subseteq C [/latex]
 
-## Halmazok számossága:
+## Halmazok számossága
 
 Egy *véges halmaz számosságán* elemeinek számát értjük. Jelölés: H halmaz számossága:
 
@@ -105,7 +115,7 @@ Két típusú végtelen lehet:
 
  - pl számhalmazok. (ℕ, ℤ, ℝ, ℂ)
 
-### Átvezető a számelméletre:
+## Átvezető a számelméletre
 
 A végére szeretnék áttérni a Matematika számelmélet témakörére. Ez a témakör az amivel a legrégebb óta foglalkozik a matematika.
 pitagoreusi iskola → számokkal foglalkoztak
@@ -140,7 +150,7 @@ Pl.: 5258 → 525-8=517 → 51-7=44 44 osztható 11-gyel, tehát 5258 is.
 *Számrendszerek:* komolyabb algebrai fejlődéshez kell, plusz informatikában van nagy jelentősége,
 hinduktól származtatjuk
 
-### Alkalmazások:
+## Alkalmazások
 
 - csekkeken a sorszám ellenőrzés
 - kriptográfiában → szuperszámítógépek

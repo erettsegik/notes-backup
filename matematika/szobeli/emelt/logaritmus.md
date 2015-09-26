@@ -1,8 +1,10 @@
 A logaritmus számolás alapvető része volt a világnak egészen a számológépekig. Azóta már nem sokkal egyszerűbb kiszámolni a logaritmust, elég 10-es alapra hozni és beütni a gépbe.
 
-Logaritmus definíciója: [latex inline]b[/latex] [latex inline]a[/latex] alapú logaritmusán azt a számot értjük amire az [latex inline]a[/latex]-t emelni kéne, hogy [latex inline]b[/latex]-t megkapjuk.
+## Logaritmus definíciója
 
-Logaritmikus azonosságok:
+[latex inline]b[/latex] [latex inline]a[/latex] alapú logaritmusán azt a számot értjük amire az [latex inline]a[/latex]-t emelni kéne, hogy [latex inline]b[/latex]-t megkapjuk.
+
+## Logaritmikus azonosságok
 
  - [latex inline]\log_a{b} + \log_a{c} = \log_a{(b*c)}[/latex]
  - [latex inline]\log_a{b} - \log_a{c} = \log_a{\frac{b}{c}}[/latex]
@@ -11,7 +13,7 @@ Logaritmikus azonosságok:
 
 ![Exponenciális és logaritmusfüggvény](http://i.imgur.com/sZpeWmV.png)
 
-### Logaritmusos függvény jellemzése:
+## Logaritmusos függvény jellemzése:
 
 1. Értelmezési tartomány: ℝ[latex inline]^+[/latex], x ≠ 0
 2. Értékkészlet: ℝ
@@ -26,7 +28,7 @@ Logaritmikus azonosságok:
 11. Folytonosság: folytonos
 12. Aszimptota: y tengely
 
-### Exponenciális függvény jellemzése:
+## Exponenciális függvény jellemzése:
 
 1. Értelmezési tartomány.: ℝ
 2. Értékkészlet: ℝ[latex inline]^+[/latex]

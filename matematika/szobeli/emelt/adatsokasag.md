@@ -2,14 +2,14 @@ A *statisztika* adatok gyűjtésével, rendszerezésével és elemzésével fogl
 
 Társadalomtudományok alapmódszere.
 
-### Feladatai:
+## Feladatai
 
  - Becsléselmélet
  - Hipotézis-vizsgálat
  - Hibaszámítás
  - Korreláció-számítás
 
-### Alkalmazások:
+## Alkalmazások
 
  - Szélsőérték problémák esetén
  - Statisztikai feladatoknál
@@ -17,7 +17,7 @@ Társadalomtudományok alapmódszere.
  - Gazdasági elemzésnél
  - Harmonikus közép: teljes útra vett átlagsebesség
 
-## Statisztikai jellemzők:
+## Statisztikai jellemzők
 
  - *Adatsokaság* (számadatok, mint halmaz)
    + pl.: egy iskolai napló
@@ -34,9 +34,9 @@ Társadalomtudományok alapmódszere.
  - *Relatív gyakoriság* (egy adott elem előfordulási számát osztjuk az összes elem számával)
    + pl.: elektronikus naplóban a jegyek előfordulása
  - *Szórás:*
-   [latex]s = \sqrt{\sum_{i = 1}^n \frac{(x_i - <x>)^2}{n}} \text{, ahol } <x> = \sum_{i = 1}^n \frac{x_i}{n}[/latex]
+   [latex]s = \sqrt{\sum_{i = 1}^n \frac{(x_i - < x >)^2}{n}} \text{, ahol } < x > = \sum_{i = 1}^n \frac{x_i}{n}[/latex]
 
-## Diagramok:
+## Diagramok
 
 ### Kördiagram
 
@@ -74,12 +74,12 @@ Társadalomtudományok alapmódszere.
 
 ![Sugárdiagram](http://i.imgur.com/gdGL8Xt.png)
 
-### A következőkre figyeljünk diagram készítése közben:
+### A következőkre figyeljünk diagram készítése közben
 
  - ha egy diagram túl csicsás, nem látszik rajta a lényeg
  - ha a skálákat elcsúsztatják, könnyen félrevezetheti az embert  
 
-## Nevezetes közepek:
+## Nevezetes közepek
 
 + H: Harmonikus közép
   [latex]H = \frac{n}{\frac{1}{a_1} + \frac{1}{a_2} + \frac{1}{a_3} + ... + \frac{1}{a_n}}[/latex]

@@ -5,14 +5,19 @@ A logikai szita formula kettő, illetve három halmaz esetében:
  - |A ⋃ B| = |A| + |B| - |A ⋂ B|
  - |A ⋃ B ⋃ C| = |A| + |B| + |C| - |A ⋂ B| - |A ⋂ C| - |B ⋂ C| + |A ⋂ B ⋂ C|
 
-## Logikai műveletek:
+## Logikai műveletek
 
 Logikai függvény értelmezési tartománya bármi lehet, értékkészlete kételemű halmaz {igaz; hamis}
 
-Negáció (tagadás) – komplementer halmaz:
+### Negáció (tagadás)
+
+Komplementer halmaz.
+
 [latex] P = 1 \to !P = 0 [/latex]
 
-Konjunkció („és” kapcsolat) – két halmaz metszete (két állítás metszete):
+### Konjunkció (és kapcsolat)
+
+Két halmaz metszete (két állítás metszete).
 
 | A | B | A * B |
 |:-:|:-:|:-----:|
@@ -21,7 +26,9 @@ Konjunkció („és” kapcsolat) – két halmaz metszete (két állítás mets
 | 0 | 1 |   0   |
 | 1 | 1 |   1   |
 
-Diszjunkció(vagy) – két halmaz uniója
+### Diszjunkció (vagy kapcsolat)
+
+Két halmaz uniója.
 
 | A | B | A + B |
 |:-:|:-:|:-----:|
@@ -30,7 +37,7 @@ Diszjunkció(vagy) – két halmaz uniója
 | 0 | 1 |   1   |
 | 1 | 1 |   1   |
 
-Implikáció:
+### Implikáció
 
 | A | B | A → B |
 |:-:|:-:|:-----:|
@@ -41,24 +48,27 @@ Implikáció:
 
 A fentiek szerint hamis állításból következhet hamis, hamisból következhet igaz, igazból nem következhet hamis, igazból következhet igaz állítás. Ez tulajdonképpen a "Ha..., akkor..." kijelentésnek felel meg.
 
-Ekvivalencia:
+### Ekvivalencia
 
 | A | B | A ↔ B |
-|:-:|:-:|:-----:|
-| 0 | 0 |   1   |
-| 1 | 0 |   0   |
-| 0 | 1 |   0   |
-| 1 | 1 |   1   |
+|:-:|:-:|:------:|
+| 0 | 0 |   1    |
+| 1 | 0 |   0    |
+| 0 | 1 |   0    |
+| 1 | 1 |   1    |
 
-*de Morgan féle azonosságok*:
+## De Morgan-azonosságok
 
  - A *halmazelméletben* a következők:
 
-   ![DeMorgan azonosságok](http://i.imgur.com/iRtcdCe.png)
-   ![DeMorgan azonosságok](http://i.imgur.com/PCTNS7L.png)
+   ![DeMorgan-azonosságok](http://i.imgur.com/iRtcdCe.png)
+   ![DeMorgan-azonosságok](http://i.imgur.com/PCTNS7L.png)
  - *Logikában* pedig:
 
    ![DeMorgan](http://i.imgur.com/RM0Lr5M.png)
+
+## Állítás és megfordítása, szükséges és elégséges feltétel
+
  - Arisztotelészi logika (3-as elv)
    + minden dolog azonos önmagával
    + semmi sem azonos önmaga ellentétjével

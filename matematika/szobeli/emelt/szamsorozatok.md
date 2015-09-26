@@ -4,42 +4,46 @@ Számsorozatokkal már az ókori görögök is foglalkoztak. Ismerték a számta
 
 *Monotonitás:* Az [latex inline]{a_n}[/latex] sorozat szigorúan monoton növekvő (csökkenő), ha minden pozitív egész n-re teljesül, hogy [latex inline] a_n < a_{n+1} (a_n>a_{n+1}) [/latex]. Sima monotonitás esetén az egyenlőség is megengedett.
 
- - Monoton sorozat határesete a konstans sorozat
+Monoton sorozat határesete a konstans sorozat
 
 *Korlátosság:* Egy [latex inline]{a_n}[/latex] sorozatnak K felső (alsó) korlátja, ha  minden pozitív egész n-re teljesül, hogy [latex inline] a_n \leq K(k \leq a_n) [/latex] Ilyenkor a sorozat felülről (alulról) korlátos. Egy sorozatot korlátosnak nevezünk, ha alulról és felülről is korlátos.
 
 *Konvergencia:* Az [latex inline]{a_n}[/latex] sorozat konvergens és határértéke az [latex inline]A[/latex] szám, ha minden pozitív [latex inline]\epsilon[/latex] számhoz létezik olyan [latex inline]N[/latex] pozitív egész, hogy a sorozat [latex inline]a_N[/latex] utáni tagjai mind az [latex inline]A[/latex] szám [latex inline]\epsilon[/latex] sugarú környezetébe esnek, vagyis minden pozitív [latex inline]\epsilon[/latex] számhoz létezik olyan [latex inline]N[/latex] pozitív egész, hogy minden [latex inline]n > N[/latex] esetén [latex inline]|a_n - A| < \epsilon [/latex]. Jelölése: [latex inline] \lim_{x \to \infty} a_n = A [/latex].
 
- - A nem konvergens sorozatokat *divergensnek* nevezzük.
+A nem konvergens sorozatokat *divergensnek* nevezzük.
 
 *Tétel:* Felülről korlátos szigorúan monoton növekvő sorozat konvergens.
 
 *Torlódási pont:* Az a pont amelynek bármely környezete tartalmaz sorozatbeli pontot.
 
-#### Sorozatok közti műveletek:
+## Sorozatok közti műveletek
 
 - [latex inline] < a_n > \pm < b_n > = < a_n+b_n > [/latex]
 - [latex inline] c \in [/latex] ℝ , [latex inline] c * < a_n > = < c * a_n > [/latex]
 - [latex inline] < a_n > * < b_n > = < a_n * b_n >
 - [latex inline] b_n \neq 0 , \frac{< a_n >}{< b_n >} = < \frac{a_n}{b_n} > [/latex]
 
-### Nevezetes számsorozatok:
+## Nevezetes számsorozatok
 
- - Számtani sorozat
-   + n-edik elem: [latex inline] a_n=a_1+(n - 1) * d [/latex]
-   + első n tag összege: [latex inline] S_n = \frac{a_1 * n + a_n}{2}
-   + Az első n tag összegtételének bizonyítása itt jó választás lehet.
- - Mértani sorozat
-   + n-edik elem: [latex inline] a_n=a_1*q^{n-1} [/latex]
-   + első n tag összege: [latex inline] S_n = \frac{a_1 * q^n - 1}{q - 1} , q \neq 1 [/latex]
-   + Az első n tag összegtételének bizonyítása itt jó választás lehet.
+### Számtani sorozat
 
-- *Fibonacci sorozat:*
-   + Az első két elem 0 és 1, az összes további elem az előtte lévő kettő összege.
-     Képletként:
-     [latex] f(n) = 0 , \text{ha } n = 0[/latex]
-     [latex] f(n) = 1 , \text{ha } n = 1[/latex]
-     [latex] f(n) = F_{n-1} + F_{n-2} , \text{ha } n \geq 0[/latex]
+ - n-edik elem: [latex inline] a_n=a_1+(n - 1) * d [/latex]
+ - első n tag összege: [latex inline] S_n = \frac{a_1 * n + a_n}{2}
+ - Az első n tag összegtételének bizonyítása itt jó választás lehet.
+
+### Mértani sorozat
+
+ - n-edik elem: [latex inline] a_n=a_1*q^{n-1} [/latex]
+ - első n tag összege: [latex inline] S_n = \frac{a_1 * q^n - 1}{q - 1} , q \neq 1 [/latex]
+ - Az első n tag összegtételének bizonyítása itt jó választás lehet.
+
+### Fibonacci sorozat
+
+ - Az első két elem 0 és 1, az összes további elem az előtte lévő kettő összege.
+   Képletként:
+   [latex] f(n) = 0 , \text{ha } n = 0[/latex]
+   [latex] f(n) = 1 , \text{ha } n = 1[/latex]
+   [latex] f(n) = F_{n-1} + F_{n-2} , \text{ha } n \geq 0[/latex]
 
 Fibonacci a nyuszik szaporodásának problémájától jutott el a sorozatig.
 
@@ -62,7 +66,7 @@ itt érdemes megemlíteni a következő rekurzív sorozatot: [latex inline] \(1 
 
  - a sorozat tul.: szigorúan monoton növekvő, és felülről korlátos
 
-### Sorok:
+## Sorok:
 
 [latex inline] < a_n > [/latex]
 
@@ -81,15 +85,15 @@ itt érdemes megemlíteni a következő rekurzív sorozatot: [latex inline] \(1 
 
 *Zenon:* Akhilleusz és a teknősbéka versenye, a köztük lévő távolság feleződik, ezért Akhilleusz nem nyerhet mivel előnyt adott a teknősnek, megoldás a sorok.
 
-#### Sorok közti műveletek:
+### Sorok közti műveletek
 
 [latex] \sum(a_n \pm b_n) = \sum a_n \pm \sum b_n [/latex]
 [latex] \sum(a_n * b_n) = \sum a_n * \sum b_n [/latex]
 [latex] \sum\frac{a_n}{b_n} = \frac{\sum a_n}{\sum b_n} [/latex]
 
-### Alkalmazások:
+## Alkalmazások
 
-- Mértani sorozat: kamatos kamat
-- Fibonacci sorozat: természet/művészet + kapocs aranymetszéshez(építészet, fényképészet, zene)
-- Sorok: Zenon agóriák
-- prímszámok reciprokai
+ - Mértani sorozat: kamatos kamat
+ - Fibonacci sorozat: természet/művészet + kapocs aranymetszéshez(építészet, fényképészet, zene)
+ - Sorok: Zenon agóriák
+ - prímszámok reciprokai

@@ -2,31 +2,23 @@
 
 [latex] a^n = a * a * a * ... * a \text{(n db)} [/latex]
 
-##### A hatványkitevők lehetnek természetes számok:
+A hatványkitevők lehetnek *természetes számok*: 1, 2, 3, 4, 5, 6, ..., n
 
- - 1, 2, 3, 4, 5, 6, ..., n
+A hatványkitevők lehetnek *negatív számok* is, ekkor úgy értelmezzük őket, hogy: [latex inline] a^{-n} = \frac{1}{a^n} [/latex]
 
-##### A hatványkitevők lehetnek negatív számok is ekkor úgy értelmezzük őket, hogy:
+A hatványkitevő lehet *nulla* is, tehát [latex inline] a^n [/latex] esetén [latex inline] n \in[/latex] ℤ: [latex inline] a^0 = 1 [/latex]
 
- - [latex inline] a^{-n} = \frac{1}{a^n} [/latex]
-
-##### A hatványkitevő lehet nulla is, tehát [latex inline] a^n [/latex] esetén [latex inline] n \in[/latex] ℤ:
-
- - [latex inline] a^0 = 1 [/latex]
-
-##### Egy számnak lehet tört hatványkitevője is, tehát [latex inline] a^n [/latex] esetén [latex inline] n \in[/latex] ℝ:
+Egy számnak lehet tört hatványkitevője is, tehát [latex inline] a^n [/latex] esetén [latex inline] n \in[/latex] ℝ:
 
 *Definíció:* ahol a nem negatív valós szám az a nem negatív valós szám amelynek k-adik hatványa an.
 
 [latex] a^{\frac{x}{y}} = \sqrt[y]{a^x} [/latex]
 
-##### A hatványkitevők növekedése egy függvényt formál [latex inline] f(x) = 2^x [/latex]:
+A hatványkitevők növekedése egy függvényt formál [latex inline] f(x) = 2^x [/latex], mely sehol sem folytonos, de közelít hozzá
 
-- sehol sem folytonos, de közelít hozzá
+A lyukak kitöltése során kapjuk meg az irracionális hatványkitevőket a függvényen belül a permanencia elvnek köszönhetően.
 
-#### A lyukak kitöltése során kapjuk meg az irracionális hatványkitevőket a függvényen belül a permanencia elvnek köszönhetően.
-
-### Hatványozás azonosságai:
+## Hatványozás azonosságai
 
 [latex] a^m * a^n = a^{n+m};[/latex]
 
@@ -38,11 +30,11 @@
 
 [latex]\frac{a^n}{a^m} = a^{n-m} , a \neq 0;[/latex]
 
-### Másodfokú függvény képe a parabola:
+## Másodfokú függvény képe a parabola
 
-![](http://i.imgur.com/zhjtiQ1.png)
+![Parabola](http://i.imgur.com/zhjtiQ1.png)
 
-#### Jellemzése:
+### Jellemzése
 
 1. É.T.:valós számok, ℝ
 2. É.K.:valós számok, ℝ
@@ -64,7 +56,7 @@
 *Tétel:* (n-edik gyök) Egy nem negatív szám n-edik gyökén értjük azt a nem negatív számot amelynek az n-edik hatványa a szám.
 - ha páratlan akkor lehet a negatív
 
-### Gyökös azonosságok:
+## Gyökös azonosságok
 
 [latex]\sqrt{a} * \sqrt{b} = \sqrt{a * b}[/latex]
 
@@ -74,11 +66,11 @@
 
 [latex] \(\sqrt{a})^2 = a [/latex]
 
-### Gyök x függvény
+## Gyök x függvény
 
-![](http://i.imgur.com/oSXVYU1.png)
+![Gyök x](http://i.imgur.com/oSXVYU1.png)
 
-#### jellemzése:
+### Jellemzése
 
 1. É.T.:valós számok, ℝ[latex inline]^+[/latex]
 2. É.K.:valós számok, ℝ[latex inline]^+[/latex]
@@ -95,19 +87,19 @@
 13. Deriválhatóság: deriválható
 14. Integrálhatóság: integrálható
 
-### Alkalmazások:
+## Alkalmazások
 
-*Matematikában*
+### Matematikában
 
-- hatványok a kamatos kamatban
-- binomiális eloszlásban
-- mértani közép, négyzetes közép
-- szórás négyzetgyökös definíciója
-- heron-képlet, a megoldóképletek(négyzetgyök, köbgyök – Cardano képlet)
+ - hatványok a kamatos kamatban
+ - binomiális eloszlásban
+ - mértani közép, négyzetes közép
+ - szórás négyzetgyökös definíciója
+ - heron-képlet, a megoldóképletek(négyzetgyök, köbgyök – Cardano képlet)
 
-*Fizikában:*
+### Fizikában
 
-- négyzetes úttörvény
-- kepler 3. törvénye
-- Stefan-Boltzman törvény - fekete test hőkibocsátása az energia 4. hatványa
-- Ingák lengésideje - gyökös
+ - négyzetes úttörvény
+ - kepler 3. törvénye
+ - Stefan-Boltzman törvény - fekete test hőkibocsátása az energia 4. hatványa
+ - Ingák lengésideje - gyökös
