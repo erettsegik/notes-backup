@@ -6,7 +6,7 @@ Szinte ősidők óta ismeri és használja az emberiség. Minden ókori kultúra
  - Egybevágó sokszögek területe egyenlő.
  - Ha egy sokszöget véges számú sokszögre darabolunk, akkor az egyes részek területének összege egyenlő az eredeti sokszög területével.
 
-### Alakzatok területének levezetése:
+## Alakzatok területének levezetése
 
 *Tétel:* A téglalap területe a két szomszédos oldalának szorzatával egyenlő. [latex inline]T=a*b[/latex].
 
@@ -30,7 +30,7 @@ ahol r a beírt kör sugara, R a körülírt kör sugara, s pedig a félkerület
 
 *Tétel:* r sugarú kör területe: [latex inline]r^2 * \pi[/latex]
 
-### Határozott integrál:
+## Határozott integrál
 
 A határozott integrál segítségével a függvénygörbe vonala és az x-tengely által bezárt területet is meg tudjuk határozni. Görbe alatti terület.
 
@@ -40,7 +40,7 @@ A határozott integrál segítségével a függvénygörbe vonala és az x-tenge
 
 *Newton-Leibniz tétel:* Legyen f integrálható [a,b]-ben. Ha az F függvény folytonos [a,b]-ben, differenciálható (a,b)-ben és [latex inline] F'(x) = f(x) [/latex] minden x ϵ (a,b)-re, akkor [latex inline]\int_a^b f(x) dx = F(b) - F(a) [/latex].
 
-Alkalmazások:
+## Alkalmazások
 
  - Földmérés
  - Fragmentáció (ökológiai probléma)

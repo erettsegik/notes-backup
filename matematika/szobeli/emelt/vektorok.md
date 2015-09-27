@@ -1,8 +1,8 @@
 *Fogalma:* az irányított szakaszt vektornak nevezzük
 
  - független számpárral/számhármassal/szám n-essel megadott mennyiség (vektor dimenziói)
-   - a vektorok igazi létjogosultságát a fizika igényelte
-   - a valós számok is felfoghatóak egydimenziós vektorként
+   + a vektorok igazi létjogosultságát a fizika igényelte
+   + a valós számok is felfoghatóak egydimenziós vektorként
      - komplexek kétdimenziósként
 
 *Definíció:* a vektor abszolút értéke a vektort meghatározó irányított szakasz hossza
@@ -24,6 +24,7 @@
 *Definíció:* egy nullvektortól különböző a vektor tetszőleges [latex inline] \lambda [/latex] valós számmal (skalárral) vett szorzata egy olyan vektor, amelynek abszolút értéke [latex inline] |\lambda| * |a| [/latex] és [latex inline] \lambda > 0 [/latex] esetén a-val egyirányú, [latex inline] \lambda < 0 [/latex] esetén a-val ellentétes irányú
 
 *Skalárral vett szorzat:*
+
  - disztributív: [latex inline] \alpha * a + \beta * a = ( \alpha + \beta ) * a [/latex]
  - asszociatív: [latex inline] \alpha * ( \beta * a) = ( \alpha * \beta ) * a [/latex]
 
@@ -40,7 +41,7 @@
 
 *Vegyes szorzat:* három vektor vegyes szorzata megadja az általuk kifeszített paralelepipedon térfogatát. determinánssal számolható
 
-#### Vektorok felbontása:
+## Vektorok felbontása:
 
  - ha két vektor párhuzamos, egy számmal (skalár) szorzással egyik a másikból felírható
  - ha két vektor nem párhuzamos, akkor független vektorok, egyik a másikból nem fejezhető ki
@@ -51,7 +52,7 @@
 
 a lináris kombinációban szereplő a és b vektorokat bázisvektoroknak nevezzük
 
-#### Vektorok koordinátái
+## Vektorok koordinátái
 
 a síkbeli derékszögű koordináta-rendszerben a bázisvektorok az origóból kiinduló egymásra merőleges egységvektorok, melyek az origótól kifelé mutatnak
 
@@ -59,7 +60,7 @@ a síkbeli derékszögű koordináta-rendszerben a bázisvektorok az origóból 
 
 *Tétel:* vektor koordinátáinak kiszámítása kezdő- és végpontjának segítségével: [latex inline] A(a_1, a_2), B(b_1, b_2) \to AB(b_1-a_1, b_2-a_2) [/latex]
 
-#### Vektorműveletek koordinátákkal:
+## Vektorműveletek koordinátákkal:
 
  - összeg: [latex inline] \overline{a} + \overline{b} =  (a_1 + b_1, a_2 + b_2) [/latex]
  - különbség: [latex inline] \overline{a} - \overline{b} = (a_1 - b_1, a_2 - b_2) [/latex]
@@ -77,15 +78,14 @@ két vektor szorzata akkor és csak akkor 0, ha merőlegesek egymásra
 
 vektor → 1 soros mátrix
 
-
-*Alkalmazások:*
+## Alkalmazások
 
  - szögfüggvények
  - addíciós tételek bizonyítása
  - két vektor vektoriális szorzatának nagysága pralelogramma területe
  - eltolás transzformáció
 
-Fizika:
+### Fizika
 
  - vektormennyiségek: v, a F, p, E, B
  - munka → skalárszorzat

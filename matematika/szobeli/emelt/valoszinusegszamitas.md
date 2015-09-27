@@ -2,7 +2,7 @@ Pascal megbízásra foglalkozott szerencsejátékokkal. Játékelmélet.
 
 *Definíció:* A valószínűség egy 0 és 1 közötti pozitív valós szám.
 
-### Eseményalgebra:
+## Eseményalgebra
 
 *Definíció:* Az A esemény komplementere az az esemény, amely akkor következik be, amikor A nem következik be.
 
@@ -14,7 +14,7 @@ Pascal megbízásra foglalkozott szerencsejátékokkal. Játékelmélet.
 
 A halmazműveletekhez hasonlóan működnek.
 
-### Kombinatorikai modell:
+## Kombinatorikai modell
 
 *Definíció:* Ha elvégzünk n-szer egy kísérletet, és ebből az A esemény k-szor következik be, akkor az A esemény relatív gyakorisága a k/n hányados.
 
@@ -22,7 +22,7 @@ A halmazműveletekhez hasonlóan működnek.
 
 *Definíció:* A valószínűség kiszámításának klasszikus modelljét akkor alkalmazhatjuk, ha egy kísérletnek véges sok kimenetele van és ezek valószínűsége egyenlő. Ekkor az A esemény valószínűsége: P(A)= kedvező/összes
 
-### A valószínűségszámítás axiómái:
+## A valószínűségszámítás axiómái
 
  - Tetszőleges A esemény esetén [latex inline] 0 \leq P(A) \leq 1 [/latex]
  - Biztos esemény valószínűsége 1, lehetetlen eseményé 0
@@ -47,13 +47,13 @@ A halmazműveletekhez hasonlóan működnek.
 
 [latex] P(\xi = k) = \frac{{M \choose k} * {N - M \choose n - k}}{{N \choose n}}  \text{,ahol } k \leq n. [/latex]
 
-#### Bayes-tétel:
+### Bayes-tétel
 
 Arra jó, hogy ha az egyik esemény a másikra vonatkozó feltételes valószínűségét ismerem akkor meg tudjam fordítani.
 
 [latex] P(B_k | A) = \frac{P(A | B_k) * P(B_k)}{\sum_{i=1}^{n} P(A | B_i) * P(B_i)} [/latex]
 
-*Alkalmazások:*
+## Alkalmazások
 
  - amit a kombinatorikában többé-kevésbé
  - Bayes tétel alapján sok spamszűrő működik -> szóelemzés

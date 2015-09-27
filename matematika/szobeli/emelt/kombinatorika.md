@@ -1,30 +1,33 @@
 A kombinatorika alapja világunk és a matematika több fontos területének, például a valószínűségszámításnak, játékelméletnek stb.
 fun fact: Pascal megbízásra foglalkozott szerencsejátékkal.
 
-### Kombinatorika
+## Kombinatorika
 
-#### Permutáció:
+### Permutáció
 
 Egy adott n elem különböző egy sorba rendezését permutációnak nevezzük.
+
  - *Ismétlés nélküli:* ha nincsenek egyforma elemek
    - Tétel: n-elemű halmaz ismétlés néküli permutációi:
      [latex] P_n = n * (n - 1) * (n - 2) * ... * 2 * 1 = n! [/latex]
  - *Ismétléses:* ha vannak egymással megegyező elemek
-   - Tétel: n-elem között v-féle egymással megegyező elemek száma: [latex inline] k_1, k_2, k_3, ... , k_r [/latex]
-     [latex] P_n^(k_1, k_2, ... , k_r) = \frac{n!}{k_1! * k_2! * ... * k_r!} [/latex]
+   - Tétel: n-elem között v-féle egymással megegyező elemek száma: [latex inline] k_1, k_2, k_3, ..., k_r [/latex]
+     [latex] P_n^(k_1, k_2, ..., k_r) = \frac{n!}{k_1! * k_2! * ... * k_r!} [/latex]
 
-#### Variáció:
+### Variáció
 
 Ha n elemből minden lehetséges módon kiválasztunk k elemet és permutáljuk őket.
+
  - *Ismétlés nélküli:*
    - Tétel: Az n elem k-ad osztályú ismétlés nélküli variációinak száma:
   [latex] P_n^k = \frac{n!}{(n-k)!} [/latex]
  - *Ismétléses:*
    - Tétel: Az n elem k-ad osztályú ismétléses variációinak száma: [latex inline] n^k [/latex]
 
-#### Kombináció:
+### Kombináció
 
 Az n egymástól különböző elemből k db-ot minden lehetséges módon kiválasztunk úgy, hogy a kiválasztott elemek sorrendjére nem vagyunk tekintettel.
+
  - *Ismétlés nélküli:*
    - Tétel: Az n elem k-ad osztályú ismétlés nélküli kombinációinak száma:
      [latex] C_{n,k} = \frac{n * (n - 1) * (n - 2) * ... * (n - k + 1)}{k * (k - 1) * ... * 2 * 1} = \frac{n!}{k!(n-k)!} = \binom{n}{k} [/latex]
@@ -32,7 +35,7 @@ Az n egymástól különböző elemből k db-ot minden lehetséges módon kivál
    - Tétel: Az n elem k-ad osztályú ismétléses kombinációinak száma:
      [latex] C_{n,k}^i = \binom{n + k - 1}{k} [/latex]
 
-#### Binomiális tétel:
+### Binomiális tétel
 
 [latex] \(a+b)^2 = a^2 + 2 a b + b^2 [/latex]
 
@@ -42,7 +45,7 @@ Az n egymástól különböző elemből k db-ot minden lehetséges módon kivál
 
  - [latex inline] \binom{n}{k} [/latex] binomiális együttható.
 
-### Gráfok:
+## Gráfok
 
  - *Gráf:* gráfpontok, és élek
  - *Hurokél:* él aminek ugyanaz a kezdő és végpontja
@@ -74,7 +77,8 @@ Az n egymástól különböző elemből k db-ot minden lehetséges módon kivál
 
 *Tétel:* A fa bármely két csúcsát egyetlen út köti össze
 
-##### Alkalmazások:
+## Alkalmazások
+
  - szerencsejáték
  - biztosítási szakemberek munkájában
  - kockázat elemzésnél

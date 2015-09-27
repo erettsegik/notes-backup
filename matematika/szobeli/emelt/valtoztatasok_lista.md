@@ -30,37 +30,28 @@ hasonlosag.md
  - a példatételek közül legalább valamelyiket kicsit lehetne részletezni
 
 osszefuggesek_haromszogekben.md
- - kell ide a csoportosítás?
-
-hurnegyszogek.md
- - cím helyett kiemelés
+ - kell ide a csoportosítás? - derékszögűekben is benne van, elég csak az egyikben
 
 egybevagosag.md
  - vagy belerakni a bizonyításokat vagy kitörölni, hogy kellenének oda
 
-kor_es_reszei.md
- - cím helyett kiemelés
-
 vektorok.md
  - skaláros szorzat.png kis feljavításra szorul
  - vektorműveletek koordinátákkal rész fixálása.
- - címek helyett kiemelés
 
 szakaszok.md
  - rossz a latex (?)
  - képek is kellenének már ide, vannak a tételemben de nem túl informatívak.
- - cím helyett kiemelés
- - vektro
 
 kor_es_parabola.md
  - képek kellenének
+ - semmi cím vagy kiemelés
 
 terelemek.md
  - lehetne jobban tagolni, elég zsúfolt az eleje
- - cím helyett kiemelés
  - a nevezetes ponthalmazok nem ide vannak, és nem is illenek ide, ide valami területképletes cucc kéne meg integrálás.
  -> lényeg ki kell bővíteni. bár nem tudom mivel mert az utána jövő tétel taglalja a területszámítást és az integrálást is
 
 terulet.md
- - lehetne benne több latex-e
+ - lehetne benne több latex
  - lehetne több cím
