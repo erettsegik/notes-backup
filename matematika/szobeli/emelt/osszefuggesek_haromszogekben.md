@@ -2,13 +2,13 @@ Ajánlott nyitómondat:
 
 Amit el fogok mondani Euklidesz elemek című munkája nagyrészt tartalmazza, de még sokan tettek hozzá a matematika ezen ágának örökségéhez az idők során.
 
-## A háromszögek csoportosítása
+## Háromszögek fajtái
 
- - Egy háromszög hegyesszögű, ha minden szöge hegyesszög
- - Egy háromszög derékszögű, ha van egy 90°-os szöge
- - Egy háromszög tompaszögű, ha vagy egy tompaszöge
- - Egy háromszög szabályos, ha három oldala egyenlő hosszú
- - Egy háromszög egyenlő szárú, ha van két egyenlő oldala
+ - Egy háromszög hegyesszögű, ha minden szöge hegyesszög.
+ - Egy háromszög derékszögű, ha van egy 90°-os szöge.
+ - Egy háromszög tompaszögű, ha van egy tompaszöge.
+ - Egy háromszög szabályos, ha három oldala egyenlő hosszú.
+ - Egy háromszög egyenlő szárú, ha van két oldala egyenlő hosszú.
 
 ## A háromszög oldalai közötti összefüggések
 

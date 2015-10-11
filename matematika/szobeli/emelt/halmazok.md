@@ -114,7 +114,7 @@ Három egyenestől egyenlő távolságra lévő pontok halmaza:
 
 ### Fizikai
 
- - Descartes: 3.;4.;5 dimenzióbeli alkalmazása(hőmérséklet, idő)
+ - Descartes: 3.;4.;5 dimenzióbeli alkalmazása (hőmérséklet, idő)
  - Logikai áramkörök és/vagy kapcsolások
  - számítógép működésének alapja
  - nyelvészetben

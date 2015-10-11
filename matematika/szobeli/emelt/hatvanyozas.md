@@ -10,8 +10,6 @@ A hatványkitevő lehet *nulla* is, tehát [latex inline] a^n [/latex] esetén [
 
 Egy számnak lehet tört hatványkitevője is, tehát [latex inline] a^n [/latex] esetén [latex inline] n \in[/latex] ℝ:
 
-*Definíció:* ahol a nem negatív valós szám az a nem negatív valós szám amelynek k-adik hatványa an.
-
 [latex] a^{\frac{x}{y}} = \sqrt[y]{a^x} [/latex]
 
 A hatványkitevők növekedése egy függvényt formál [latex inline] f(x) = 2^x [/latex], mely sehol sem folytonos, de közelít hozzá

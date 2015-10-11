@@ -12,7 +12,7 @@ Egy adott n elem különböző egy sorba rendezését permutációnak nevezzük.
      [latex] P_n = n * (n - 1) * (n - 2) * ... * 2 * 1 = n! [/latex]
  - *Ismétléses:* ha vannak egymással megegyező elemek
    - Tétel: n-elem között v-féle egymással megegyező elemek száma: [latex inline] k_1, k_2, k_3, ..., k_r [/latex]
-     [latex] P_n^(k_1, k_2, ..., k_r) = \frac{n!}{k_1! * k_2! * ... * k_r!} [/latex]
+     [latex] P_n^{(k_1, k_2, ... , k_r)} = \frac{n!}{k_1! * k_2! * ... * k_r!} [/latex]
 
 ### Variáció
 

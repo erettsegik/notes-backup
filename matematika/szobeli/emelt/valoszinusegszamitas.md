@@ -1,6 +1,6 @@
 Pascal megbízásra foglalkozott szerencsejátékokkal. Játékelmélet.
 
-*Definíció:* A valószínűség egy 0 és 1 közötti pozitív valós szám.
+*Definíció:* A valószínűség egy 0 és 1 közötti valós szám.
 
 ## Eseményalgebra
 
@@ -20,7 +20,7 @@ A halmazműveletekhez hasonlóan működnek.
 
 *Definíció:* Ha sokszor elvégzünk egy kísérletet, akkor megfigyelhetjük, hogy egy A esemény relatív gyakorisága egy szám körül ingadozik. Ezt a számot nevezzük az A esemény valószínűségének. P(A)
 
-*Definíció:* A valószínűség kiszámításának klasszikus modelljét akkor alkalmazhatjuk, ha egy kísérletnek véges sok kimenetele van és ezek valószínűsége egyenlő. Ekkor az A esemény valószínűsége: P(A)= kedvező/összes
+*Definíció:* A valószínűség kiszámításának klasszikus modelljét akkor alkalmazhatjuk, ha egy kísérletnek véges sok kimenetele van és ezek valószínűsége egyenlő. Ekkor az A esemény valószínűsége: P(A) = kedvező/összes
 
 ## A valószínűségszámítás axiómái
 
@@ -34,10 +34,10 @@ A halmazműveletekhez hasonlóan működnek.
 
  - Ez annak a valószínűsége, hogy az A esemény bekövetkezik, feltéve, hogy a B esemény bekövetkezik.
 
-*Definíció:* A binomiális eloszlás olyan kísérletnél fordul elő, amelynek csak két kimenetele lehetséges: az A és p valószínűséggel bekövetkezik, vagy 1-p valószínűséggel nem következik be.
+*Definíció:* A binomiális eloszlás olyan kísérletnél fordul elő, amelynek csak két kimenetele lehetséges: az A p valószínűséggel bekövetkezik és 1-p valószínűséggel nem következik be.
 
-*Tétel:* Binomiális eloszlásnál ha a kísérletet n-szer ismételjük, akkor annak a valószínűsége, hogy az A esemény k-szok következik be éppen:
-[latex] P(\xi = k) = {n \choose k} * p^k * (1 - p)^{n - k}  \text{,ahol } k \leq n. [/latex]
+*Tétel:* Binomiális eloszlásnál ha a kísérletet n-szer ismételjük, akkor annak a valószínűsége, hogy az A esemény k-szor következik be:
+[latex] P(\xi = k) = {n \choose k} * p^k * (1 - p)^{n - k}  \text{,ísahol } k \leq n. [/latex]
 
  - Binomiális eloszlásra vezetnek a visszatevéses mintavétel esetei, ahol n elem közül p valószínűséggel választunk valamilyen tulajdonsággal rendelkezőt oly módon, hogy a kivett elemet az újabb húzás előtt visszatesszük.
 
@@ -56,6 +56,6 @@ Arra jó, hogy ha az egyik esemény a másikra vonatkozó feltételes valószín
 ## Alkalmazások
 
  - amit a kombinatorikában többé-kevésbé
- - Bayes tétel alapján sok spamszűrő működik -> szóelemzés
+ - Bayes tétel alapján sok spamszűrő működik → szóelemzés
  - Gyakorisági elemzés
  - Kódfejtés

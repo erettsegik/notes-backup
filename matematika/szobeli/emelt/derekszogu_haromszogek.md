@@ -1,40 +1,41 @@
 A tételt ajánlott egy nyitómondattal kezdeni, Pl.:
- - Már az ókor óta foglalkozik az emberiség derékszögű háromszögekkel talán régebb óta is. Először Euklidesz elemek című munkájában jelent meg írásosan.
+ - Már az ókor óta foglalkozik az emberiség derékszögű háromszögekkel, talán régebb óta is. Először Euklidesz elemek című munkájában jelent meg írásosan.
 
-## A háromszögek típusai
+## Háromszögek fajtái
 
- - Egy háromszög hegyesszögű, ha minden szöge hegyesszög
- - Egy háromszög derékszögű, ha van egy 90°-os szöge
- - Egy háromszög tompaszögű, ha vagy egy tompaszöge
- - Egy háromszög szabályos, ha három oldala egyenlő hosszú
- - Egy háromszög egyenlő szárú, ha van két egyenlő oldala
+ - Egy háromszög hegyesszögű, ha minden szöge hegyesszög.
+ - Egy háromszög derékszögű, ha van egy 90°-os szöge.
+ - Egy háromszög tompaszögű, ha van egy tompaszöge.
+ - Egy háromszög szabályos, ha három oldala egyenlő hosszú.
+ - Egy háromszög egyenlő szárú, ha van két oldala egyenlő hosszú.
 
 ## Pitagorasz tétel
 
-Ha egy háromszög derékszögű, akkor befogóinak négyzetösszege egyenlő az átfogó négyzetével.
+Ha egy háromszög derékszögű, akkor befogóinak négyzetösszege egyenlő az átfogó négyzetével. ([latex inline]a^2 + b^2 = c^2[/latex])
 
  - A cosinus tétel speciális esete
- - Egyiptomiak találták ki, Pitagorasztól a nevét azért kapta, mert ő talált ki hozzá egy új bizonyítást anno
- - Legkorábbi bizonyítását pedig a hinduk
- - Megfordítható a tétel → indirekten bizonyítható
- - Itt érdemes lehet elmondani pitagorasz tételének bizonyítását
+ - Elsőként az egyiptomiak használták
+ - Először a hinduk bizonyították
+ - Nevét azért kapta később Pitagoraszról, mert új módszerrel bizonyította
+ - A tétel megfordítható → indirekten bizonyítható
+ - Itt érdemes lehet elmondani Pitagorasz tételének bizonyítását
 
 ## Thalesz tétel
 
-Ha egy kör átmérőjének két végpontját összekötjük a kör bármely más pontjával, akkor derékszögű háromszöget kapunk
+Ha egy kör átmérőjének két végpontját összekötjük a körvonal bármely más pontjával, akkor derékszögű háromszöget kapunk.
 
  - megfordítható
  - a kerületi és központi szögek egy speciális esetének a következménye
 
 ## Befogótétel
 
-Derékszögű háromszög befogójának hossza a mértani közepe az átfogó és a befogó átfogóra eső merőleges vetülete hosszának.
+Derékszögű háromszögben az átfogó hosszának és a befogó átfogóra eső merőleges vetületének hosszának mértani közepe megegyezik a befogó hosszával.
 
 ## Magasságtétel
 
 Derékszögű háromszögben az átfogóhoz tartozó magasság hossza a mértani közepe azon két szakasz hosszának, amelyekre a magasság az átfogót osztja.
 
-## Szögfüggvények derékszögű háromszögekre leszűkítve:
+## Szögfüggvények derékszögű háromszögekre leszűkítve
 
 A hegyesszögek szögfüggvényeit derékszögű háromszögekkel is bevezethetjük. Kihasználjuk, hogy a két derékszögű háromszög hasonló, ha valamely hegyesszög megegyezik. A hasonlóság következtében egy derékszögű háromszög oldalainak arányát a háromszög egyik hegyesszöge egyértelműen meghatározza. Erre a függvényszerű kapcsolatra vezetjük be a szögfüggvényeket.
 
@@ -46,16 +47,18 @@ A hegyesszögek szögfüggvényeit derékszögű háromszögekkel is bevezethetj
    [latex] \tan\alpha = \frac{a}{b} [/latex]
  - [latex inline] \cot\alpha= [/latex] a szög melletti befogó hosszának és a szöggel szemközti befogó hosszának hányadosával.
    [latex] \cot\alpha = \frac{b}{a} [/latex]
- - *Trigonometrikus pitagorasz tétel:*
-   [latex] \sin^2\alpha + \cos^2\alpha = 1 [/latex]
 
-## A szögfüggvények és általánosításuk:
+### Trigonometrikus pitagorasz tétel
+
+[latex] \sin^2\alpha + \cos^2\alpha = 1 [/latex]
+
+## A szögfüggvények és általánosításuk
 
 A szögfügvények 300-400 éves múltra tekintenek vissza, bár a gyakorlatban régebb óta használják őket (pl. a Föld kerületének a megállapítása).
 
-### Szögfüggvények:
+### Szögfüggvények
 
-i, és j x, y tengelyen egymással 90°-os szöget bezáró egységvektorok. v1, és v2 a v egységvektor x és y komponense.
+[latex inline]i[/latex] és [latex inline]j[/latex] az x, y tengelyen egymással 90°-os szöget bezáró egységvektorok. [latex inline]v_1[/latex] és [latex inline]v_2[/latex] a v egységvektor x és y komponense.
 
 [latex inline] \overline{v} = \overline{v_1} + \overline{v_2} = \overline{v_1} * \overline{i} + \overline{v_2} * \overline{j} = \cos \alpha * \overline{i} + \sin \alpha * \overline{j}  [/latex]
 [latex inline] - 1 \leq \cos \alpha \leq 1 [/latex]
@@ -65,11 +68,11 @@ i, és j x, y tengelyen egymással 90°-os szöget bezáró egységvektorok. v1,
 
 ![Egységvektor](http://i.imgur.com/uhc9uwP.png)
 
-Def: Az alfa szög koszinuszának nevezzük annak az egységnyi hosszúságú vektornak az első koordinátáját, mely az i bázisvektorral alfa szöget zár be.
+*Definíció:* Az alfa szög koszinuszának nevezzük annak az egységnyi hosszúságú vektornak az első koordinátáját, mely az i bázisvektorral alfa szöget zár be.
 
-Def: Az alfa szög szinuszának nevezzük annak az egységnyi hosszú vektornak a második koordinátáját, amely az i bázisvektorral alfa szöget zár be.
+*Definíció:* Az alfa szög szinuszának nevezzük annak az egységnyi hosszú vektornak a második koordinátáját, amely az i bázisvektorral alfa szöget zár be.
 
-## Alkalmazások:
+## Alkalmazások
 
  - ókori építészet
  - Pitagoraszi számhármasok
@@ -86,12 +89,14 @@ Def: Az alfa szög szinuszának nevezzük annak az egységnyi hosszú vektornak 
    + lejtőn lévő testre ható erők
    + hajítások fizikai leírásához
    + lejtőn lévő testekre ható erők felbontásához
-   - háromszögek
-   - függvények
-  Fizikai alkalmazások:
-   - rezgések, hullámok (harmónikus rezgőmozgás)
-   - Fourier-tétel: Bármely periodikus függvény előállítható véges sok szinuszos függvényből.
-      - hangtechnológia, hangfelvétel felbontása, háttérzaj elemzés -> Fourier-analízis
-   - váltóáram
-   - Schnellius-Descartes féle törési törvény
-   - ferde hajítások
+     - háromszögek
+     - függvények
+
+### Fizikai
+
+ - rezgések, hullámok (harmonikus rezgőmozgás)
+ - Fourier-tétel: Bármely periodikus függvény előállítható véges sok szinuszos függvényből.
+   + hangtechnológia, hangfelvétel felbontása, háttérzaj elemzés → Fourier-analízis
+ - váltóáram
+ - Snellius-Descartes-féle törési törvény
+ - ferde hajítások
