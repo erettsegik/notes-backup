@@ -12,7 +12,7 @@ Amit el fogok mondani Euklidesz elemek című munkája nagyrészt tartalmazza, d
 
 ## A háromszög oldalai közötti összefüggések
 
-*Háromszög egyenlőtlenség:* a háromszög bármely két oldalának összege nagyobb a harmadiknál. [latex inline] a + b > c [/latex] egyenlőség esetén nem beszélhetünk háromszögről.
+*Háromszög egyenlőtlenség:* Egy háromszög bármely két oldalának összege nagyobb a harmadik oldalnál ([latex inline] a + b > c [/latex]). Ha ez nem teljesül, akkor nem beszélhetünk háromszögről (egyenlőség esetén sem).
 
 *Pitagorasz tétel:* Bármely derékszögű háromszögben a két befogó négyzetének összege egyenlő az átfogó négyzetével.
 [latex] c^2 = a^2 + b^2 [/latex]
@@ -27,16 +27,16 @@ Amit el fogok mondani Euklidesz elemek című munkája nagyrészt tartalmazza, d
 
 ## A háromszög oldalai és szögei közötti összefüggések
 
-*Tétel:* Egy háromszögben egyenlő hosszúságú oldalakkal szemben egyenlő nagyságú szögek vannak, egyenlő nagyságú szögekkel szemben egyenlő hosszúságú oldalak vannak
+*Tétel:* Egy háromszögben két oldal akkor és csak akkor egyenlő hosszú, ha a velük szemben lévő szögek egyenlő nagyságúak.
 
-*Tétel:* Bármely háromszögben két oldal közül a hosszabbikkal szemben nagyobb belső szög van, mint a rövidebbikkel szemben, illetve két szög közül a nagyobbikkal szemben hosszabb oldal van, mint a kisebbikkel szemben.
+*Tétel:* Egy háromszögben két oldal közül mindig a nagyobbikkal szemben van magyobb belső szög.
 
-*Szinusztétel:* Egy háromszögben két oldal hosszának aránya egyenlő a velük szemközti szögek szinuszának arányával:
+*Szinusztétel:* Egy háromszögben két oldal hosszának aránya egyenlő a velük szemközti szögek szinuszainak arányával:
 [latex]\frac{a}{b} = \frac{\sin\alpha}{\sin\beta}[/latex]
 
-A szinusztétel a háromszög három oldalára is felírható, ekkor [latex inline] a : b : c = \sin\alpha : \sin\beta : \sin\gamma [/latex]
+A szinusztétel a háromszög három oldalára is felírható, ekkor [latex inline] a : b : c = \sin\alpha : \sin\beta : \sin\gamma [/latex].
 
-*Koszinusztétel:* Egy háromszög egyik oldalhosszának négyzetét megkapjuk, ha a másik két oldal négyzetösszegéből kivonjuk a két oldal hosszának és a közbezárt szög koszinuszának kétszeres szorzatát:
+*Koszinusztétel:* Egy háromszög egyik oldalhosszának négyzetét megkapjuk, ha a másik két oldal négyzetösszegéből kivonjuk a két oldal hosszának és az általuk közbezárt szög koszinuszának szorzatának kétszeresét:
 [latex] c^2 = a^2 + b^2 - 2*a*b*\cos\gamma [/latex]
 
 ## Alkalmazások

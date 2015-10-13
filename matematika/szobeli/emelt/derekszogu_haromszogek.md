@@ -37,7 +37,9 @@ Derékszögű háromszögben az átfogóhoz tartozó magasság hossza a mértani
 
 ## Szögfüggvények derékszögű háromszögekre leszűkítve
 
-A hegyesszögek szögfüggvényeit derékszögű háromszögekkel is bevezethetjük. Kihasználjuk, hogy a két derékszögű háromszög hasonló, ha valamely hegyesszög megegyezik. A hasonlóság következtében egy derékszögű háromszög oldalainak arányát a háromszög egyik hegyesszöge egyértelműen meghatározza. Erre a függvényszerű kapcsolatra vezetjük be a szögfüggvényeket.
+A hegyesszögek szögfüggvényeit derékszögű háromszögekkel is bevezethetjük. Kihasználjuk, hogy a két derékszögű háromszög hasonló, ha hegyesszögeik páronként megegyeznek. A hasonlóság következtében egy derékszögű háromszög oldalainak arányát a háromszög egyik hegyesszöge egyértelműen meghatározza. Erre a függvényszerű kapcsolatra vezetjük be a szögfüggvényeket.
+
+![Derékszögű háromszög](derekszogu_haromszog.png)
 
  - [latex inline] \sin\alpha= [/latex] a szemközti befogó hosszának és az átfogó hosszának hányadosával.
    [latex] \sin\alpha = \frac{a}{c} [/latex]
@@ -54,7 +56,7 @@ A hegyesszögek szögfüggvényeit derékszögű háromszögekkel is bevezethetj
 
 ## A szögfüggvények és általánosításuk
 
-A szögfügvények 300-400 éves múltra tekintenek vissza, bár a gyakorlatban régebb óta használják őket (pl. a Föld kerületének a megállapítása).
+A szögfügvények 300-400 éves múltra tekintenek vissza, bár a gyakorlatban régebb óta használják őket (használták őket pl. a Föld kerületének a megállapításához).
 
 ### Szögfüggvények
 

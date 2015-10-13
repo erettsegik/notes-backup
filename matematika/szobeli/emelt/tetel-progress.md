@@ -30,11 +30,12 @@
  - a példatételek közül legalább valamelyiket kicsit lehetne részletezni
 
 ## derekszogu_haromszogek.md (?)
+ - a derékszögű háromszöges ábrát szépíteni kéne
 
 ## haromszogek_nevezetes_vonalai.md (x)
  - szemléltetések
 
-## osszefuggesek_haromszogekben.md (?)
+## osszefuggesek_haromszogekben.md (?/✓)
 
 ## hurnegyszogek.md (x)
  - szemléltetések
