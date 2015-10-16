@@ -37,7 +37,7 @@ A halmazműveletekhez hasonlóan működnek.
 *Definíció:* A binomiális eloszlás olyan kísérletnél fordul elő, amelynek csak két kimenetele lehetséges: az A p valószínűséggel bekövetkezik és 1-p valószínűséggel nem következik be.
 
 *Tétel:* Binomiális eloszlásnál ha a kísérletet n-szer ismételjük, akkor annak a valószínűsége, hogy az A esemény k-szor következik be:
-[latex] P(\xi = k) = {n \choose k} * p^k * (1 - p)^{n - k}  \text{,ísahol } k \leq n. [/latex]
+[latex] P(\xi = k) = {n \choose k} * p^k * (1 - p)^{n - k}  \text{,ahol } k \leq n. [/latex]
 
  - Binomiális eloszlásra vezetnek a visszatevéses mintavétel esetei, ahol n elem közül p valószínűséggel választunk valamilyen tulajdonsággal rendelkezőt oly módon, hogy a kivett elemet az újabb húzás előtt visszatesszük.
 

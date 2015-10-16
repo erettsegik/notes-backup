@@ -31,14 +31,20 @@ Ajánlott kezdőmondattal nyitni a tételt, Pl.:
 
 *Euler-egyenes:* A háromszög magasságpontja súlypontja és a köré írható körének középpontja egy egyenesen vannak, és a súlypont mindig harmadolja az MK szakaszt (K-hoz van közelebb az S)
 
+![Euler-egyenes](http://i.imgur.com/NFFKfR2.png)
+
 *Szimedián-egyenes:* Ha a súlyvonalat a szögfelezőre tükrözzük, akkor kapjuk meg a háromszög szimedián-egyenesét.
 
  - *Tétel:* A háromszög három szimedián-egyenese egy pontban metszi egymást.
+
+ ![Szimedián-egyenes](http://i.imgur.com/kChTBWQ.jpg)
 
 *Feuerbach kör:* kilencponti kör
 
  - A háromszög három oldalfelező pontja, a magasságpontjainak talppontjai, a magasságpontot a csúcsokkal összekötő szakaszok felezőpontjai, mind egy körön helyezkedik el és ezt a kört nevezzük a Feuerbach körnek.
  - Középpontja az Euler-egyenesen van és felezi az MK szakaszt
+
+ ![Feuerback-kör](http://i.imgur.com/RnLxKNM.png)
 
 ## Alkalmazások
 
