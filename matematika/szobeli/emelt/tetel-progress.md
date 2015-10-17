@@ -7,7 +7,7 @@
 ## logika.md (x)
  - első mondat "matematikai logika elemei?" ki kéne egészítenünk valami oda illővel
 
-## hatvanyozas.md (?)
+## hatvanyozas.md (?/✓)
 
 ## logaritmus.md (?/✓)
  - Hege: jó, de még mindig túl rövid a tétel → mit lehetne még belerakni?
@@ -29,11 +29,10 @@
 ## hasonlosag.md (x)
  - a példatételek közül legalább valamelyiket kicsit lehetne részletezni
 
-## derekszogu_haromszogek.md (?)
+## derekszogu_haromszogek.md (x)
  - a derékszögű háromszöges ábrát szépíteni kéne
 
-## haromszogek_nevezetes_vonalai.md (x)
- - szemléltetések
+## haromszogek_nevezetes_vonalai.md (?)
 
 ## osszefuggesek_haromszogekben.md (?/✓)
 

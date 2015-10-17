@@ -1,20 +1,16 @@
 [latex inline] a^n [/latex]: n tényezős szorzat melynek minden tényezője a.
 
-[latex] a^n = a * a * a * ... * a \text{(n db)} [/latex]
+[latex] a^n = a * a * a * ... * a \text{ (n db)} [/latex]
 
-A hatványkitevők lehetnek *természetes számok*: 1, 2, 3, 4, 5, 6, ..., n
+A hatványkitevő lehet
 
-A hatványkitevők lehetnek *negatív számok* is, ekkor úgy értelmezzük őket, hogy: [latex inline] a^{-n} = \frac{1}{a^n} [/latex]
+ - *természetes szám:* 1, 2, 3, 4, 5, 6, ..., n
+ - *negatív szám:*&nbsp;[latex inline] a^{-n} = \frac{1}{a^n} [/latex]
+ - *nulla:*&nbsp;[latex inline] a^0 = 1 [/latex]
+ - *racionális szám:*&nbsp;[latex inline] a^{\frac{x}{y}} = \sqrt[y]{a^x} [/latex]
+ - *valós* vagy komplex szám is
 
-A hatványkitevő lehet *nulla* is, tehát [latex inline] a^n [/latex] esetén [latex inline] n \in[/latex] ℤ: [latex inline] a^0 = 1 [/latex]
-
-Egy számnak lehet tört hatványkitevője is, tehát [latex inline] a^n [/latex] esetén [latex inline] n \in[/latex] ℝ:
-
-[latex] a^{\frac{x}{y}} = \sqrt[y]{a^x} [/latex]
-
-A hatványkitevők növekedése egy függvényt formál [latex inline] f(x) = 2^x [/latex], mely sehol sem folytonos, de közelít hozzá
-
-A lyukak kitöltése során kapjuk meg az irracionális hatványkitevőket a függvényen belül a permanencia elvnek köszönhetően.
+A hatványkitevők ábrázolhatók egy tetszőleges [latex inline] a [/latex] alapú függvényen ([latex inline] f(x) = a^x [/latex]), amelyet a racionális számokon értelmezünk. Ez a függvény sehol nem folytonos (értelemszerűen), de a lyukak kitöltése során kaphatjuk meg az irracionális hatványkitevőkre értelmezett értékeket a permanencia elvnek köszönhetően.
 
 ## Hatványozás azonosságai
 
@@ -34,25 +30,28 @@ A lyukak kitöltése során kapjuk meg az irracionális hatványkitevőket a fü
 
 ### Jellemzése
 
-1. É.T.:valós számok, ℝ
-2. É.K.:valós számok, ℝ
-3. Zérus hely: [latex inline] x = 0 [/latex]
-4. Korlátosság: alulról korlátos [latex inline] x = 0 [/latex]
-5. függvény minimuma: [latex inline] x = 0 [/latex]
-6. monotonitás: nem monoton
-7. paritás: páros
-8. periodicitás: nem periodikus
-9. konvexitás: konvex
-10. inflexiós pont: nincs inflexiós pont
-11. folytonosság: folytonos
-12. asszimptota: nincs asszimptotája
+1. Értelmezési tartomány.: ℝ
+2. Értékkészlet: ℝ
+3. Zérushely: [latex inline] x = 0 [/latex]
+4. Korlátosság: alulról korlátos, korlát: [latex inline] y = 0 [/latex]
+5. Függvény minimuma: [latex inline] x = 0 [/latex]
+6. Paritása: páros
+7. Monotonitása: nem monoton
+8. Periodicitása: nem periodikus
+9. Konvexitás: konvex
+10. Inflexiós pont: nincs
+11. Folytonosság: folytonos
+12. Aszimptota: nincs
 13. Deriválhatóság: deriválható
 14. Integrálhatóság: integrálható
 
-*Tétel:* (Gyökvonás) egy nem negatív szám gyökén azt a nem negatív számot értjük, amelynek a négyzete az adott szám.
+## Gyökvonás
 
-*Tétel:* (n-edik gyök) Egy nem negatív szám n-edik gyökén értjük azt a nem negatív számot amelynek az n-edik hatványa a szám.
-- ha páratlan akkor lehet a negatív
+Egy nem negatív szám gyökén azt a nem negatív számot értjük, amelynek a négyzete az adott szám.
+
+### N-edik gyök
+
+Egy nem negatív szám n-edik gyökén azt a nem negatív számot értjük, amelynek n-edik hatványa maga a szám (ha a kitevő páratlan, akkor lehet a gyök alatt negatív szám).
 
 ## Gyökös azonosságok
 
@@ -70,18 +69,18 @@ A lyukak kitöltése során kapjuk meg az irracionális hatványkitevőket a fü
 
 ### Jellemzése
 
-1. É.T.:valós számok, ℝ[latex inline]^+[/latex]
-2. É.K.:valós számok, ℝ[latex inline]^+[/latex]
-3. Zérus hely: [latex inline] x = 0 [/latex]
-4. Korlátosság: alulról korlátos [latex inline] x = 0 [/latex]
-5. függvény minimuma: [latex inline] x = 0 [/latex]
-6. monotonitás: szigorúan monoton
-7. paritás: nincs paritása
-8. periodicitás: nem periodikus
-9. konvexitás: konkáv
-10. inflexiós pont: nincs inflexiós pont
-11. folytonosság: folytonos
-12. asszimptota: nincs asszimptotája
+1. Értelmezési tartomány.: ℝ
+2. Értékkészlet: ℝ
+3. Zérushely: [latex inline] x = 0 [/latex]
+4. Korlátosság: alulról korlátos, korlát: [latex inline] y = 0 [/latex]
+5. Függvény minimuma: [latex inline] x = 0 [/latex]
+6. Paritása: nincs paritása
+7. Monotonitása: szigorúan monoton
+8. Periodicitása: nem periodikus
+9. Konvexitás: konkáv
+10. Inflexiós pont: nincs
+11. Folytonosság: folytonos
+12. Aszimptota: nincs
 13. Deriválhatóság: deriválható
 14. Integrálhatóság: integrálható
 
@@ -93,11 +92,11 @@ A lyukak kitöltése során kapjuk meg az irracionális hatványkitevőket a fü
  - binomiális eloszlásban
  - mértani közép, négyzetes közép
  - szórás négyzetgyökös definíciója
- - heron-képlet, a megoldóképletek(négyzetgyök, köbgyök – Cardano képlet)
+ - Heron-képlet, megoldóképletek (négyzetgyök, köbgyök – Cardano képlet)
 
 ### Fizikában
 
  - négyzetes úttörvény
- - kepler 3. törvénye
+ - Kepler 3. törvénye
  - Stefan-Boltzman törvény - fekete test hőkibocsátása az energia 4. hatványa
- - Ingák lengésideje - gyökös
+ - ingák lengésideje - gyökös
