@@ -32,7 +32,7 @@
 ## derekszogu_haromszogek.md (x)
  - a derékszögű háromszöges ábrát szépíteni kéne
 
-## haromszogek_nevezetes_vonalai.md (?)
+## haromszogek_nevezetes_vonalai.md (?/✓)
 
 ## osszefuggesek_haromszogekben.md (?/✓)
 
