@@ -1,7 +1,6 @@
-# Örkény István (1912-1979)
+## Életrajz
 
-### Életrajz
-
+ - 1912-ben született Budapesten
  - Jómódú zsidó polgári családból származik
  - Apja nagy tiszteletben álló patikus
  - Piarista Gimnázium
@@ -12,8 +11,9 @@
  - Részt vesz az 1956-os forradalomban, utána egy ideig publikálhat
  - 1963-tól újra publikálhat, ekkor talál rá az igazi hangjára (Tóték, Egypercesek)
  - 1973 Kossuth-díj
+ - 1979-ben halt meg
 
-### Örkény groteszkjéről
+## Örkény groteszkjéről
 
 A groteszk komikum egyik fajtája, rövid, tömör, a hiba központi eredeű és feloldhatatlan. A nevetséges összefonódik a tragikussal. Egyszerre mulatságosan lehetetlen és szorongást keltő.
 Újragondol: más szemszögből máshogy látszik a világ, nem csak egy nézőpont létezik. Tárgyilagosan ír, mintha ez lenne a világ rendje. Úgy gondolja, hogy a parodisztikus kép a valóságról hitelesebb képet ad önmagunkról és jobban el is gondolkoztat.
@@ -22,9 +22,9 @@ A groteszk komikum egyik fajtája, rövid, tömör, a hiba központi eredeű és
 
 Nem ő az első, aki ilyet ír, a műfaj nem új. Kosztolányi: Bölcsőtől a sírig, Kafka, Rénerd: Napló
 
-### Egypercesek (1968)
+## Egypercesek (1968)
 
-##### Arról, hogy mi a groteszk:
+### Arról, hogy mi a groteszk
 
  - nem fogalmi meghatározás, hanem érzékelteti és jellemzi a groteszket, mint világlátást
  - beszélő: udvarias, tornatanár → oda nem illő udvarias formák (paródia)
@@ -36,11 +36,11 @@ Nem ő az első, aki ilyet ír, a műfaj nem új. Kosztolányi: Bölcsőtől a s
  - kifejezi véleményét az emberekről, és a felszínes viselkedésről
  - esztétikai minőség, világszemlélet, művészetek kezdetétől jelen van
  - Meg kell különböztetni a groteszket az abszurdtól:
-  - groteszk: a világ tűrhetetlen, újragondolásra kényszerít, tekintsd át és változtass, ott a remény
-  - abszurd: a világ nem csak tűrhetetlen, de értelmetlen is, a remény nincs jelen, erkölcsi különbség van a kettő között
+ - groteszk: a világ tűrhetetlen, újragondolásra kényszerít, tekintsd át és változtass, ott a remény
+ - abszurd: a világ nem csak tűrhetetlen, de értelmetlen is, a remény nincs jelen, erkölcsi különbség van a kettő között
  - a realizmus már kevés a világ ábrázolására, ezért van szükség a groteszkre
 
-##### Használati utasítás!
+### Használati utasítás!
 
  - kifejezetten szünetekben, villamosokon ajánlott olvasni, egyetlen perc alatt
  - a cím lényeges hozzátartozója, és ha nem értjük elsőre az üzentet olvassuk el még egyszer
@@ -51,39 +51,16 @@ Nem ő az első, aki ilyet ír, a műfaj nem új. Kosztolányi: Bölcsőtől a s
  - kétszemélyes novellák, író, aki megírja olvasó, aki ezt megfejti, kibontja, kiegészíti a saját fantáziájával
  - címadás jelentősége, források: korabeli Budapesti viccek, talált szöveg dokumentum: groteszk vonás: kiemeli a megszokott környezetéből és műalkotásként a kötetbe emeli
 
-##### In Memoriam dr K.H.G.:
+### In Memoriam dr K.H.G.
+
+ - a novellában dr.K.H.G. és az őr párbeszéde zajlik, nincs kialakult karakterek, alakjuk csupán jelzés értékűek
+ - a doktor különböző német, osztrák írókat, költőket nevez meg és faggatja az őrt hogy ismeri-e őket, miközben egy gödröt ás (a saját későbbi sírját)
+ - ellentét a két szereplő között
  - munkaszolgálat
  - II. vh: erőszak, létbizonytalanság
  - Fekete humor, hol-mikor nem tudjuk
  - Mit: lódögnek ásta a gödröt – lehet, hogy magának? →
  - Miért: magyarázat a viselkedésére??
-
-Szereplők:
-
-  *Őr*
-   - bunkó
-   - dühös
-   - német
-   - fegyveres
-   - fizikai erő
-   - normák szerinti viselkedés
-
-*Doktor K. H. G.*
-   - művelt
-   - nyugodt
-   - magyar
-   - védtelen
-   - szellemi erő
-   - normaszegő (zsidó német költőket hoz fel)
-
-- a novellában dr.K.H.G. és az őr párbeszéde zajlik, nincs kialakult karakterek, alakjuk csupán jelzés értékűek
-- a doktor különböző német, osztrák írókat, költőket nevez meg és faggatja az őrt hogy ismeri-e őket, miközben egy gödröt ás (a saját későbbi sírját)
-- ellentét a két szereplő között
-
-*dr K.H.G.*: művelt (dr), nyugodt, beszédes, rab, magyar, védtelen (szellemi erő képviselője)
-
-*őr*: műveletlen, dühös, szűkszavú, fogvatartó, német, fegyveres (fizikai erő képviselője)
-
  - a végkifejlet nem kérdéses, dr. K.H.G. Megalázza az őrt, de nem szándékosan, nagyon szeretett magyarázni, tanárember lehetett, felhők fölött él, nem látja át a valóságot, nincs helyzetfelismerő képessége. Hiába nagy műveltségű áldozattá váik, elbukik a főlé magasodó fizikai erő miatt
  - A tudás az érték az európai kultúrában, szellemi képesség alapján ítélkeznek az ember felett, az őr a kultúrfelfogás áldozata
  - fekete humorral érzékelteti hogy hiába van intellektuális fölény amíg ilyen műveletlen akinél az igazi hatalom van (ésszerűtlennek ábrázolja a viszonyt, hogy ki az alárendelt)
@@ -91,62 +68,87 @@ Szereplők:
  - őr: fölérendelt státuszban van, tőle függ a doktor sorsa, de a dr. fokozat miatt szellemileg ő van fölérendelve
  - redukált, minimálisra csökkentett szöveg, fele: irodalmi vonatkozásokat tartalmaz
 
-##### Meggymag:
+### Szereplők
+
+#### Őr
+
+ - műveletlen
+ - bunkó
+ - dühös
+ - szűkszavú
+ - fogvatartó
+ - német
+ - fegyveres
+ - fizikai erő
+ - normák szerinti viselkedés
+
+#### Doktor K. H. G.
+
+ - művelt
+ - nyugodt
+ - beszédes
+ - rab
+ - magyar
+ - védtelen
+ - szellemi erő
+ - normaszegő (zsidó német költőket hoz fel)
+
+### Meggymag
+
  - Alapprobléma: magyarok minél följebb kerülnek egy hierarchiában, annál inkább elfelejtik, hogy miért vannak ott, miért is dolgoznak
  - PARÓDIA a magyaroknak
 
-##### Leltár
+### Leltár
 
-  - a tárgyak történetté egészíthetők
-  - novellának tekinthető, rövid terjedelem, kevés szereplő, egy helyen játszódik
-  - gyökeres lefokozás, kapcsolóelemek sincsenek → a szavak szintjén marad meg
-  - epikus jelleg
+ - a tárgyak történetté egészíthetők
+ - novellának tekinthető, rövid terjedelem, kevés szereplő, egy helyen játszódik
+ - gyökeres lefokozás, kapcsolóelemek sincsenek → a szavak szintjén marad meg
+ - epikus jelleg
 
- *Tér* :
-  - dombos táj, gomolyfelhők → távoli perspektíva
-  - halastó, gátőrház → közelebbi
-  - gátőr: személyre vonatkozó utalás, közeledik a nézőpont
-  - jegenyesor, sáros út → vízszintes perspektíva
+#### Tér
 
- *Szereplők*:
-  - férfi a házban
-  - nő az úton
+ - dombos táj, gomolyfelhők → távoli perspektíva
+ - halastó, gátőrház → közelebbi
+ - gátőr: személyre vonatkozó utalás, közeledik a nézőpont
+ - jegenyesor, sáros út → vízszintes perspektíva
 
- *Idő*:
-  - zivatar után → nyár toposzra utal (erősíti a szoknya, szandál blúz képeivel)
-  - gomolyfelhő
+#### Szereplők
 
- *Nő*:
-  - kerékpározik, lobog a szoknyája, fiatal (erre utal az öltözéke)
-  - fogtömése látszik, mert nevet
+ - férfi a házban
+ - nő az úton
 
-  - a férfi légyottra hívja a nőt, becsukódó ablak: senki se legyen tanúja
-  - másik lehetőség: a lány visszautasítja, csönd: bánat, magány
+#### Idő
 
+ - zivatar után → nyár toposzra utal (erősíti a szoknya, szandál blúz képeivel)
+ - gomolyfelhő
+
+#### Nő
+
+ - kerékpározik, lobog a szoknyája, fiatal (erre utal az öltözéke)
+ - fogtömése látszik, mert nevet
+ - a férfi légyottra hívja a nőt, becsukódó ablak: senki se legyen tanúja
+ - másik lehetőség: a lány visszautasítja, csönd: bánat, magány
 
 A végkifejletet az olvasóra hagyja, emiatt válik groteszkké
 
-  - történet ↔ ellentörténet
-  - leltár forma: az élet eltárgyiasult, elanyagiasodott volta
+ - történet ↔ ellentörténet
+ - leltár forma: az élet eltárgyiasult, elanyagiasodott volta
 
+Egypercesek a magyarság-képhez: Az utolsó meggymag, Budapest, Gil Ungheresi
+A lényegük elnagyolva: magyarok nem tudnak együtt dolgozni, mindent elrontanak, de mégis megélnek, még akkor is ha egerekkel van tele a város. Ki tudják használni a lehetőségeket, mások kárát, de közben műveletlenek, nem tudják élvezni az életet, fafejűek
 
-  Egypercesek a magyarság-képhez: Az utolsó meggymag, Budapest, Gil Ungheresi
-  A lényegük elnagyolva: magyarok nem tudnak együtt dolgozni, mindent elrontanak, de mégis megélnek, még akkor is ha egerekkel van tele a város. Ki tudják használni a lehetőségeket, mások kárát, de közben műveletlenek, nem tudják élvezni az életet, fafejűek
+### Tóték
 
-
-
-
-### Tóték:
  - (1966 – kisregény, 1967 – dráma, 1969 – film)
- Mottó: "Ha egy kígyó (ami ritkaság) fölfalja önmagát, marad-e utána egy kígyónyi űr? És olyan erőhatalom van-e, mely egy emberrel ember voltát megetethetné? Van? Nincs? Van? Fogas kérdés!"
-
+   Mottó: "Ha egy kígyó (ami ritkaság) fölfalja önmagát, marad-e utána egy kígyónyi űr? És olyan erőhatalom van-e, mely egy emberrel ember voltát megetethetné? Van? Nincs? Van? Fogas kérdés!"
  - Szerkezet: expozíció (szereplők megismerése)
  - Bonyodalom (Gyula halálhíre)
  - Válság/tetőpont (amikor elmegy az őrnagy)
  - Késleltetés (őrnagy mégis visszatér) → a család fellélegzik, hogy minden olyan lesz, mint régen
  - Megoldás (gyilkosság) → megérdemli, lázadása → túl későn (groteszk)
 
- - Szereplők:
+#### Szereplők
+
  - Varró őrnagy: idegroncs (háborúból tér haza), őrnagynak túl alacsony (másnak gondolják), azért gondoskodnak róla, hogy fiúknak jó legyen, amikor visszamegy, Mussolini és Hitler → többiek kihasználása, diktátor, manipulálás, parancsoláshoz szokott
  - Tóték: túlzottan kiszolgálják az őrnagy abnormális viselkedését → személyiségük beletorzul
  - Tót Lajos: családfő, tűzoltó, folyamatosan csúszik le, veszti el az egyéniségét nem tud aludni, stb…, elmenekül, bolondnak tetteti magát, hogy kiélhesse természetes énjét
@@ -156,6 +158,8 @@ A végkifejletet az olvasóra hagyja, emiatt válik groteszkké
  - Gizi Gézáné: lámpás asszony
  - Cipriáni: orvos
  - Tamáji: plébános
+
+#### Történet
 
 A mű a második világháborúban játszódik, s középpontjában a háború áll, noha látszatra nem ez a fő téma hanem a Tóték. A háborút a hátországban zajló eseményekkel mutatja be. A történet egy kisvárosban játszódik. A falu tűzoltóparancsnoka Tót Lajos nagy tiszteletnek örvendő, szakértő ember, akinek mindenki kikéri a tanácsát, és akire a családja is rajongással néz fel. A Tót család fia a fronton szolgál, és az őrnagyát látja vendégül a család, hogy kipihenhesse a háború borzalmait. A család mindent meg akar adni az őrnagynak hogy békés, nyugodt, tiszta körülményei legyenek. Mindenben a kedvére tesznek, hogy a fiuknak jobb sorsa legyen a fronton és biztosan haza térjen. A fiú nem szerepel a regényben, mégis minden miatta történik. Már a regény elején feltűnik a postás (Gyuri atyus) aki a leveleket manipulálja, és csak azokat kézbesíti amik jó híreket hoznak. Ez is mutatja a groteszk látásmódot, hogy a legidiótább figura irányítja a történeteket a háttérből. Nem kézbesíti a levelet a Tóték fia haláláról, akik ezért hiába szenvednek el mindent az őrnagytól. Az őrnaggyal már megérkezéskor konfliktusa támad a családapával, és a műben végig őt sérti leginkább az őrnagy jelenléte, mert megborítja a család békéjét/hierarchiáját.
 
