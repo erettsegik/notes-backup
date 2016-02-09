@@ -57,6 +57,10 @@
 
  - a Thalesz tétel egy speciális esete a látószögnek
 
+## Szemléltetés
+
+![Szemléltetés](http://i.imgur.com/9384Ojb.png)
+
 ## Alkalmazások
 
  - matekon belül: érintőszerkesztés

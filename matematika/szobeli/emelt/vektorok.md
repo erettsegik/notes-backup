@@ -71,7 +71,7 @@ a síkbeli derékszögű koordináta-rendszerben a bázisvektorok az origóból 
 
 Tetszőleges két vektor skalárszorzata: [latex inline] \overline{a} * \overline{b} = |\overline{a}| * |\overline{b}| * cos \alpha [/latex]
 
-![Skaláris szorzat](http://i.imgur.com/arjQFXL.png)
+![Skaláris szorzat](http://i.imgur.com/OVEBj1A.png)
 
 két vektor szorzata akkor és csak akkor 0, ha merőlegesek egymásra
  - bizonyítás

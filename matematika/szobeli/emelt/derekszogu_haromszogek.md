@@ -39,7 +39,7 @@ Derékszögű háromszögben az átfogóhoz tartozó magasság hossza a mértani
 
 A hegyesszögek szögfüggvényeit derékszögű háromszögekkel is bevezethetjük. Kihasználjuk, hogy a két derékszögű háromszög hasonló, ha hegyesszögeik páronként megegyeznek. A hasonlóság következtében egy derékszögű háromszög oldalainak arányát a háromszög egyik hegyesszöge egyértelműen meghatározza. Erre a függvényszerű kapcsolatra vezetjük be a szögfüggvényeket.
 
-![Derékszögű háromszög](derekszogu_haromszog.png)
+![Derékszögű háromszög](http://i.imgur.com/kNQsxE3.png)
 
  - [latex inline] \sin\alpha= [/latex] a szemközti befogó hosszának és az átfogó hosszának hányadosával.
    [latex] \sin\alpha = \frac{a}{c} [/latex]

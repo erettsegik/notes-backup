@@ -24,6 +24,7 @@ Matematika
 buborekdiagram.png           -> http://i.imgur.com/1XUG6W5.png
 demorgan_metszet.png         -> http://i.imgur.com/iRtcdCe.png
 demorgan_unio.png            -> http://i.imgur.com/PCTNS7L.png
+derekszogu_haromszog.png     -> http://i.imgur.com/kNQsxE3.png
 gyokfuggvenyek.png           -> http://i.imgur.com/oSXVYU1.png
 halmaz_komplementer.png      -> http://i.imgur.com/6Zy6sqS.png
 halmaz_kulonbseg.png         -> http://i.imgur.com/p4OhxFZ.png
@@ -31,6 +32,7 @@ halmaz_metszet.png           -> http://i.imgur.com/xUhQG8t.png
 halmaz_szimmetrikus.png      -> http://i.imgur.com/ZSndnLQ.png
 halmaz_unio.png              -> http://i.imgur.com/6Tgq2UN.png
 kor_egysegvektor.png         -> http://i.imgur.com/uhc9uwP.png
+kor_es_reszei.png            -> http://i.imgur.com/9384Ojb.png
 kordiagram.png               -> http://i.imgur.com/DipQvpJ.png
 log_exp_fvek.png             -> http://i.imgur.com/sZpeWmV.png
 logika_demorgan.png          -> http://i.imgur.com/RM0Lr5M.png
@@ -40,6 +42,7 @@ parabola.png                 -> http://i.imgur.com/zhjtiQ1.png
 perecdiagram.png             -> http://i.imgur.com/7yZgtDt.png
 pontdiagram.png              -> http://i.imgur.com/00Vo3tf.png
 savdiagram.png               -> http://i.imgur.com/b8pprv6.png
+skalaris-szorzat.png         -> http://i.imgur.com/OVEBj1A.png
 skalaris-szorzat.png         -> http://i.imgur.com/arjQFXL.png
 sugardiagram.png             -> http://i.imgur.com/gdGL8Xt.png
 teruletdiagram.png           -> http://i.imgur.com/AevzjmZ.png
