@@ -1,10 +1,11 @@
 Madách Imre 1859 februárja és 1860 márciusa között írja meg Az ember tragédiáját.
+Először Arany Jánosnak küldi el a művet, aki Faust-utánzatnak vélve félreteszi, majd amikor mégis beleolvas, rájön, hogy egy kivételes alkotást tart kezében, s engedélyt kér a szerzőtől, hogy stilisztikai javításokat végezhessen benne, s nem kevesebb mint 5718 (!) javítást származik tőle. Ezek némelyike átírás (egyik leghíresebb a 15. színben található: "Dacolhatok még, Isten, véled is." - Arany verziójában, szemben az eredeti " Dacolhatok még Istennel, néked is" , mely utóbbiban Ádám  Lucifernek is címezi ellenszegülését.)
 
-1862-ben a Kisfaludy társaság adatja ki.
+1862-ben a Kisfaludy Társaság adatja ki.
 
-Madáchot egyműves szerzőnek tartja az irodalomtörténet.
+Madáchot egyműves szerzőnek tartja az irodalomtörténet, bár ez egyáltalán nem igaz.(Mózes, A civilizátor, Férfi és nő)
 
-Műfaja(i):
+A Tragédia műfaji meghatározásai:
 
  - *világdráma:* párbeszédes mű, ami az élet és a világrend végső nagy egyetemes kérdéseire keresi a választ.
  - *emberiség költemény:* Isten és az ember viszonyát és a világ enciklopédikus rendszerezését vizsgáló műfaj.
@@ -19,7 +20,7 @@ A Tragédiában is 2 cselekmény szál fut
  - Úr és Lucifer vitája (tapasztalaton túli szint)
  - Ádám férfivá érése (evilági szint)
 
-Ádám a döntő bíró a vitában → felnőtt embert kíván
+Ádám a döntőbíró a vitában → felnőtt embert kíván
 
 15 egyenlőtlen szín, időtartamuk is változó, nincs szereplőlista, felvonás
 csak 13 helyszín
@@ -51,7 +52,7 @@ csak 13 helyszín
 
 15 szín kell, hogy osztható legyen 3-mal (ezért van a helyszín duplázása)
 
-### HEGEL-i dialektika:
+### HEGELi dialektika:
 
 TÉZIS = rendező elv: meghatározza a kor szerepét
 
