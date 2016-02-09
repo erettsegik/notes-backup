@@ -44,6 +44,10 @@ skalaris-szorzat.png         -> http://i.imgur.com/arjQFXL.png
 sugardiagram.png             -> http://i.imgur.com/gdGL8Xt.png
 teruletdiagram.png           -> http://i.imgur.com/AevzjmZ.png
 vonaldiagram.png             -> http://i.imgur.com/Rqy02EL.png
+parabola_default.png         -> http://i.imgur.com/gi55a8x.png
+parabola_default_inverz.png  -> http://i.imgur.com/M8db5J2.png
+parabola_horizontal.png      -> http://i.imgur.com/b1Y0tYw.png
+parabola_horizontal2.png     -> http://i.imgur.com/L7yiX6u.png
 
 Biológia
 --------

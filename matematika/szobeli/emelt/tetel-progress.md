@@ -54,7 +54,6 @@
  - képek is kellenének már ide, vannak a tételemben de nem túl informatívak.
 
 ## kor_es_parabola.md (x)
- - képek kellenének
  - semmi cím vagy kiemelés
 
 ## terelemek.md (x)
@@ -67,7 +66,6 @@
  - lehetne több cím
 
 ## kombinatorika.md (x)
- - Hege: majd zaklass, hogy egy kis táblázatot csináljak amit valszámon láttam, nem nagy cucc de segíthet
 
 ## valoszinusegszamitas.md (x)
  - átírtam pár dolgot, majd ellenőrizni kéne, hogy jók-e a definíciók
