@@ -40,7 +40,7 @@ Minden szakirodalmat a témája szerint csoportba oszt, melyeket számmal jelöl
  1. filozófia, pszichológia
  2. vallás
  3. társadalomtudományok
- 4. -
+ 4. --
  5. természettudományok
  6. alkalmazott tudományok
  7. művészet, zene, sport
