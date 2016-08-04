@@ -54,10 +54,9 @@ Hasznos fogalmak:
 ## Létrejöttének folyamata
 
  - Ószövetség:
-Júdeai / palesztin kánon (i.e. I-i.sz.I. század) Ezdrás prófétáig - héber, szűkebb → református Biblia alapja.
-Alexandriai kánon (i.e. III-II. század) – görög, bővebb → katolikus Biblia alapja.
- - Újszövetség:
-(i.sz. IV. századra ért véget)
+   + Júdeai / palesztin kánon (i.e. I-i.sz.I. század) Ezdrás prófétáig - héber, szűkebb → református Biblia alapja.
+   + Alexandriai kánon (i.e. III-II. század) – görög, bővebb → katolikus Biblia alapja.
+ - Újszövetség: (i.sz. IV. századra ért véget)
  - Apokrif: azok a zsidó / keresztény iratok, melyek nem kerültek be a Biblia kanonizált változatába
 
 ## Az Ószövetség
@@ -94,11 +93,11 @@ Teremtéstörténet: A világ és az ember teremtését beszéli el Mózes első
 
 Hátterében az áll, hogy kétféle hagyományt igyekeznek összeegyeztetni, Istenképből és emberi tevékenységből
 
-1. Elohimista: Isten neve Elohim. Isten változatlan létező, felette áll a földi létnek, a természet véglegességének és ciklusainak.
+1\. Elohimista: Isten neve Elohim. Isten változatlan létező, felette áll a földi létnek, a természet véglegességének és ciklusainak.
 
 Ebben a férfi és a nő egy napon teremtődik, táplálkozásuk növényi eledelre van korlátozva → Isten védi a létrehozott életet, nincs szó halhatatlanságról vagy a teremtés részleteiről.
 
-2. Jahvista: Isten neve Jahve. Első teremtéstörténet:
+2\. Jahvista: Isten neve Jahve. Első teremtéstörténet:
 
 Édenben járunk (eső → pusztából kertet csinál /motívumok/), férfit a föld művelésére teremti: a föld porából és saját leheletéből (anyag és lélek) → kettőség hordozója: választás előtt áll (bűn vs erény).
 
