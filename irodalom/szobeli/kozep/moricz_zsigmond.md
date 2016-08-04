@@ -90,7 +90,7 @@ A fia ijesztően hasonlít hozzá → ugyan ez lesz a sorsa. Kis János apja az 
  - nem élvezi az ételt, nem érez ízeket → monoton cselekvés
  - hiányzik mögüle az ember, mutatja az elembertelenedést
  - heroikus küzdelem zajlik → visszatér az eposzhoz
- - az evést heroikusnak beállítani ironikus ---> groteszk
+ - az evést heroikusnak beállítani ironikus → groteszk
  - ellenfél: étel, enumeráció: felsorolja ellenfeleit: leves, túrós csusza, lencse, töltött káposzta, zsíros, kövér ételek → komoly ellenfelek
  - Naturalizmus: hányás, fuldoklás, kigúvadt szemek
  - leállatosított vonás: „Dögölj meg kutya!”
@@ -162,9 +162,9 @@ megoldás:
 
 3 részből áll → a 3-as szám a mese felé viszi → népmese
 
-1. rész: gyilkosság→ tulajdon hiánya
-2. rész: keresés, kutatás→ családtagok hiánya
-3. rész: lelepleződés	→ igazság hiánya
+1. rész: gyilkosság → tulajdon hiánya
+2. rész: keresés, kutatás → családtagok hiánya
+3. rész: lelepleződés → igazság hiánya
 
 #### további népmesei elemek
 
